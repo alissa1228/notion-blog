@@ -10,20 +10,20 @@ import { ThemeProvider } from 'next-themes'
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'Notionpresso Portfolio Starter',
-    template: '%s | Notionpresso Portfolio Starter',
+    default: 'Welcome to my playground',
+    template: '%s | Welcome to my playground',
   },
-  description: 'This is my my portfloio',
+  description: "🚀 This is Alissa's blog 🚀",
   openGraph: {
-    title: 'My Portfolio',
-    description: 'This is my portfolio.',
+    title: 'Welcome to my playground',
+    description: "🚀 This is Alissa's blog 🚀",
     url: baseUrl,
-    siteName: 'My Portfolio',
-    locale: 'en_US',
+    siteName: 'Welcome to my playground',
+    locale: 'ko_KR',
     type: 'website',
     images: [
       {
-        url: '/profile.png',
+        url: '/new-profile.webp',
         width: 800,
         height: 600,
         alt: '프로필 이미지',
@@ -43,11 +43,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    images: ['/profile.png'],
+    images: ['/new-profile.png'],
   },
   icons: {
-    icon: '/profile.png',
-    apple: '/profile.png',
+    icon: '/new-profile.png',
+    apple: '/new-profile.png',
   },
 }
 
