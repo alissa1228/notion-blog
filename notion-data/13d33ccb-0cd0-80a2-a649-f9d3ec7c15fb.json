@@ -1,0 +1,2502 @@
+{
+  "object": "page",
+  "id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb",
+  "created_time": "2024-11-13T08:26:00.000Z",
+  "last_edited_time": "2024-11-13T09:53:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "13d33ccb-0cd0-80a0-bf4e-f279d6d7e978"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "2023년 개발자 회고",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2023년 개발자 회고",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/2023-13d33ccb0cd080a2a649f9d3ec7c15fb",
+  "public_url": null,
+  "request_id": "b617ba1c-1cd7-4030-afeb-3f40e672c604",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80b9-b8db-c51bf0e9f7d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:27:00.000Z",
+      "last_edited_time": "2024-11-13T08:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80fd-992c-e8853249dfb2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2022년 회고를 썼던 게 엊그제 같은데 벌써 2024년이 밝았다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2022년 회고를 썼던 게 엊그제 같은데 벌써 2024년이 밝았다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80c7-8252-c486911abf73",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T09:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2023년이라는 숫자에 적응을 했나 싶더니 또 새로운 숫자가 오다니요. 오늘도 일기에 23을 썼다가 그 위로 줄을 긋고 24를 적었다. 아직은 해가 바뀐 게 실감이 잘 안 난다. 그만큼 익숙해져 버린 2023년을 보내며…개발자로서 어떤 한 해를 보냈는지 같이 정리해보려고 한다. ‘한 게 아무것도 없는데 한 해가 가버렸어!’ 같은 말을 하지 않기 위해..!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2023년이라는 숫자에 적응을 했나 싶더니 또 새로운 숫자가 오다니요. 오늘도 일기에 23을 썼다가 그 위로 줄을 긋고 24를 적었다. 아직은 해가 바뀐 게 실감이 잘 안 난다. 그만큼 익숙해져 버린 2023년을 보내며…개발자로서 어떤 한 해를 보냈는지 같이 정리해보려고 한다. ‘한 게 아무것도 없는데 한 해가 가버렸어!’ 같은 말을 하지 않기 위해..!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80e8-846d-e48f2f75ab0a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# 🙋‍♀️승진을 했다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# 🙋‍♀️승진을 했다.",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-800e-b6d5-ea0779252d91",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8045-b4f0-c149078a1d29",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2023년, 첫 연봉협상을 했다. 그 전까지 벌벌 떨고 있었던 게 무색하게도 내가 원하는 연봉을 받아낼 수 있었고 더불어 대리라는 직함까지 얻게 되었다. 이외에도 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2023년, 첫 연봉협상을 했다. 그 전까지 벌벌 떨고 있었던 게 무색하게도 내가 원하는 연봉을 받아낼 수 있었고 더불어 대리라는 직함까지 얻게 되었다. 이외에도 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "‘개발 뿐만 아니라 기획 능력도 있다.’",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "‘개발 뿐만 아니라 기획 능력도 있다.’",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " , ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " , ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "‘여태까지 해온 일들을 보면 승진하는 게 맞는 거 같다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "‘여태까지 해온 일들을 보면 승진하는 게 맞는 거 같다.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "’ 등 좋은 평가도 얻게 되어 뿌듯하게 시작했던 한 해였다. 하지만 그만큼 책임질 일도 많다는 걸..그 때는 몰랐다..",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "’ 등 좋은 평가도 얻게 되어 뿌듯하게 시작했던 한 해였다. 하지만 그만큼 책임질 일도 많다는 걸..그 때는 몰랐다..",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80bd-8e28-d4846ff017ac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3,4분기 쯤 들어오는 일 중 매니징 관련된 게 제법 있어서(일정 산정 이라든지 프론트/백 일부 업무 배분 및 체크 등..) ‘이걸..내가 처리할 수 있는 연차인가..? 나 연차에 비해 너무 과분한 직함을 받았나..?’ 하는 생각도 왕왕 했었다. 게다가 처음에는 ‘위에 팀장 님이 계시는데 이걸 내가 하는 게 맞나’ 하는 생각 때문에 스트레스를 받기도 했다. 하지만 어느 순간 프로젝트를 살펴보고 기획자가 건네준 기획을 체크하고..이상하다고 느낀 건 캐치 해서 팀장 님에게 보고 하고..필요한 기능들을 정리해서 다른 개발자 분들과 이야기하며 조정하는 과정들이 그냥 하나의 일처럼 느껴지기 시작했다. 지금 생각해보면 적응 기간이 필요했던 걸까 싶기도 하다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3,4분기 쯤 들어오는 일 중 매니징 관련된 게 제법 있어서(일정 산정 이라든지 프론트/백 일부 업무 배분 및 체크 등..) ‘이걸..내가 처리할 수 있는 연차인가..? 나 연차에 비해 너무 과분한 직함을 받았나..?’ 하는 생각도 왕왕 했었다. 게다가 처음에는 ‘위에 팀장 님이 계시는데 이걸 내가 하는 게 맞나’ 하는 생각 때문에 스트레스를 받기도 했다. 하지만 어느 순간 프로젝트를 살펴보고 기획자가 건네준 기획을 체크하고..이상하다고 느낀 건 캐치 해서 팀장 님에게 보고 하고..필요한 기능들을 정리해서 다른 개발자 분들과 이야기하며 조정하는 과정들이 그냥 하나의 일처럼 느껴지기 시작했다. 지금 생각해보면 적응 기간이 필요했던 걸까 싶기도 하다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8046-97cf-f7d4435194f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "위에서 언급한 사례 외에 회사에서 한 일은 대략 아래와 같이 정리해봤다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "위에서 언급한 사례 외에 회사에서 한 일은 대략 아래와 같이 정리해봤다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8040-9e37-c76254ea4e26",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8024-9639-e21911e946c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "💻",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "💻",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80ec-80d4-c0aa3fbe01df",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AI 그림 그리기 서비스 프론트 개발",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI 그림 그리기 서비스 프론트 개발",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8092-801f-e6939be1d571",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "어드민 사이트 리팩토링",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "어드민 사이트 리팩토링",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13d33ccb-0cd0-800a-891f-ef99a26d94f2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13d33ccb-0cd0-8092-801f-e6939be1d571"
+          },
+          "created_time": "2024-11-13T08:31:00.000Z",
+          "last_edited_time": "2024-11-13T08:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "UIUX 전체적인 기획 및 수정",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "UIUX 전체적인 기획 및 수정",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13d33ccb-0cd0-8053-9f96-f6f857b190cc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13d33ccb-0cd0-8092-801f-e6939be1d571"
+          },
+          "created_time": "2024-11-13T08:31:00.000Z",
+          "last_edited_time": "2024-11-13T08:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "사용자 편의를 위한 기능 개선",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "사용자 편의를 위한 기능 개선",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13d33ccb-0cd0-80b0-a364-fdad4c621fe5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13d33ccb-0cd0-8092-801f-e6939be1d571"
+          },
+          "created_time": "2024-11-13T08:31:00.000Z",
+          "last_edited_time": "2024-11-13T08:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "AI 서비스 추가로 인한 관련 어드민 추가 기능 개발",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "AI 서비스 추가로 인한 관련 어드민 추가 기능 개발",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-808c-8599-e767d4f5a507",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AI 채팅 사이트 관련 UIUX 기획 수정 및 결제 시스템 추가",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI 채팅 사이트 관련 UIUX 기획 수정 및 결제 시스템 추가",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8028-b860-f985f9c3fd6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "새 프로젝트 투입",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "새 프로젝트 투입",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13d33ccb-0cd0-8096-89a8-c72c417eb5d8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13d33ccb-0cd0-8028-b860-f985f9c3fd6e"
+          },
+          "created_time": "2024-11-13T08:31:00.000Z",
+          "last_edited_time": "2024-11-13T08:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기존 프론트 UIUX 수정 & 유지보수",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기존 프론트 UIUX 수정 & 유지보수",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8046-b4d6-c7c225b8aab6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "새 프로젝트 투입2",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "새 프로젝트 투입2",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13d33ccb-0cd0-801d-9590-fd25087b1caa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13d33ccb-0cd0-8046-b4d6-c7c225b8aab6"
+          },
+          "created_time": "2024-11-13T08:31:00.000Z",
+          "last_edited_time": "2024-11-13T08:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "관리자 사이트 개발 진행",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "관리자 사이트 개발 진행",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13d33ccb-0cd0-8039-964d-db32c1973d91",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13d33ccb-0cd0-8046-b4d6-c7c225b8aab6"
+          },
+          "created_time": "2024-11-13T08:31:00.000Z",
+          "last_edited_time": "2024-11-13T08:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "서비스 사이트 퍼블리싱 진행",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "서비스 사이트 퍼블리싱 진행",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80e7-8e5a-cf367f0aea59",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이외 각종 미팅 및 외근…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이외 각종 미팅 및 외근…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13d33ccb-0cd0-8062-b43e-d750d5ba3322",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13d33ccb-0cd0-80e7-8e5a-cf367f0aea59"
+          },
+          "created_time": "2024-11-13T08:31:00.000Z",
+          "last_edited_time": "2024-11-13T08:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "투자 관련 미팅",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "투자 관련 미팅",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13d33ccb-0cd0-80b6-bd15-d82550925082",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13d33ccb-0cd0-80e7-8e5a-cf367f0aea59"
+          },
+          "created_time": "2024-11-13T08:31:00.000Z",
+          "last_edited_time": "2024-11-13T08:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "부스 참가로 인한 외근",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "부스 참가로 인한 외근",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-805c-8a11-d800c8ddb9e7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8025-ad00-f220db2637aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "UIUX 관련된 업무를 많이 하다 보니 올해는 자연스럽게 UIUX 개선에 관심을 더 많이 두었던 거 같다. (읽었던 책들도 UIUX 관련이었던 걸 보면..) 뒤로 갈수록 개발보다는 퍼블리싱 위주로 진행했던 거 같아서 아쉽다. 개발을 아주 안한 건 아니었지만 이전 업무들과 비교했을 때 퍼블리싱 비율이 꽤 높았다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "UIUX 관련된 업무를 많이 하다 보니 올해는 자연스럽게 UIUX 개선에 관심을 더 많이 두었던 거 같다. (읽었던 책들도 UIUX 관련이었던 걸 보면..) 뒤로 갈수록 개발보다는 퍼블리싱 위주로 진행했던 거 같아서 아쉽다. 개발을 아주 안한 건 아니었지만 이전 업무들과 비교했을 때 퍼블리싱 비율이 꽤 높았다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80ce-b1ad-fb7cc6ff5fc2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-805a-a017-ef5eaad1b6f2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# \b✌️2년 만의 퇴사",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# \b✌️2년 만의 퇴사",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8000-9675-f0a9752d9b54",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80ce-9827-e47901072d5f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "위의 승진 이야기 해놓고 퇴사를 말하는 게 조금 머쓱하지만…2년 조금 넘게 다닌 회사에서 퇴사하게 되었다. 여름 쯤 번아웃이 와서 그런 것도 있지만, 올해 회사가 큰 변화를 겪게 되었는데 그 후의 방향성이 나와 다르다고 생각되어 퇴사를 결심했다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "위의 승진 이야기 해놓고 퇴사를 말하는 게 조금 머쓱하지만…2년 조금 넘게 다닌 회사에서 퇴사하게 되었다. 여름 쯤 번아웃이 와서 그런 것도 있지만, 올해 회사가 큰 변화를 겪게 되었는데 그 후의 방향성이 나와 다르다고 생각되어 퇴사를 결심했다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8089-88af-ca4a6851ff84",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그리고 무엇보다 다른 조직에서 다른 동료들을 만나 새로운 경험과 성장을 하고 싶었다. 그 후 로켓펀치에서 취준컴퍼니를 신청해 커피챗을 하기도 하고..퇴근 후 이력서와 포트폴리오를 고치면서 이직 준비를 했다. 그 과정에서 처음으로 과제도 해보고 면접이 이렇게 긍정적일 수 있구나 싶을 정도로 좋은 경험을 했다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그리고 무엇보다 다른 조직에서 다른 동료들을 만나 새로운 경험과 성장을 하고 싶었다. 그 후 로켓펀치에서 취준컴퍼니를 신청해 커피챗을 하기도 하고..퇴근 후 이력서와 포트폴리오를 고치면서 이직 준비를 했다. 그 과정에서 처음으로 과제도 해보고 면접이 이렇게 긍정적일 수 있구나 싶을 정도로 좋은 경험을 했다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8004-8efd-d4ea1d689975",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "특히 과제를 했던 곳은 내가 과제를 내준 의도를 잘 파악하지 못해 엉망진창으로 제출했는데도 메일 피드백을 주셔서 감사했다. (진짜 말 그대로 엉망이었기 때문에..) 과제를 냈던 의도, 그리고 과제 검토 시 사용했던 기준을 전달 주셨는데 많은 참고가 되었다. 시간이 걸리더라도 이 부분을 채운다면 추후에라도 그 회사에 다시 지원서를 넣어보려고 한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "특히 과제를 했던 곳은 내가 과제를 내준 의도를 잘 파악하지 못해 엉망진창으로 제출했는데도 메일 피드백을 주셔서 감사했다. (진짜 말 그대로 엉망이었기 때문에..) 과제를 냈던 의도, 그리고 과제 검토 시 사용했던 기준을 전달 주셨는데 많은 참고가 되었다. 시간이 걸리더라도 이 부분을 채운다면 추후에라도 그 회사에 다시 지원서를 넣어보려고 한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80b5-bf52-ffaecde8d4e1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "최종 합격을 받은 곳은 있었으나 여러가지 사정으로 인해 입사하지 않기로 했다. 11월 한 달 내내 아팠다고 했을정도로 몸이 안 좋아서 쉬고 싶은 마음도 있었고 도전해보고 싶은 게 있어 그 준비를 해보려고 한다. 2년 동안 몸 담고 있었던 회사를 나오며, 이 시기가 나에게 어떠한 터닝 포인트라고 느껴졌다. 내 인생 이니까 내 감을 믿어야지.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "최종 합격을 받은 곳은 있었으나 여러가지 사정으로 인해 입사하지 않기로 했다. 11월 한 달 내내 아팠다고 했을정도로 몸이 안 좋아서 쉬고 싶은 마음도 있었고 도전해보고 싶은 게 있어 그 준비를 해보려고 한다. 2년 동안 몸 담고 있었던 회사를 나오며, 이 시기가 나에게 어떠한 터닝 포인트라고 느껴졌다. 내 인생 이니까 내 감을 믿어야지.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8050-956f-f05d40a94a41",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80ae-95fc-fcbbf1fd77de",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# 사람을 만난다는 건",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# 사람을 만난다는 건",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8081-9942-faaaf4954d2c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8017-a862-d66ec090b82a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "내가 모르는 세계를 만나는 거 같다. 올해 사람을 만나며 내가 확장된다는 느낌을 많이 받았다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "내가 모르는 세계를 만나는 거 같다. 올해 사람을 만나며 내가 확장된다는 느낌을 많이 받았다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-802b-8645-d7375a78cfdb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8068-8f5c-dd30ac17c88d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "특히 농구를 시작하게 되며 이 즐거움을 더 알게 되었는데, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "특히 농구를 시작하게 되며 이 즐거움을 더 알게 되었는데, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "못해도 환영받을 수 있다",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "못해도 환영받을 수 있다",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "는 경험을 한 게 큰 거 같다. (내가 있는 반은 게임 중 루즈볼만 따라가도 잘했다고 해준다🤣) 오래 전 업무 관련으로 모욕적인 언사를 많이 들었던터라 누구를 만나든 ‘내가 이걸 못해서..상대방이 나를 무시하지 않을까?’하는 불안감이 굉장히 강했다. 하지만 다행히도 2023년에는 내 좋은 점을 먼저 봐주는 사람들, 혹은 먼저 봐주려는 사람들을 만나서 이 불안감이 덜어진 거 같다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "는 경험을 한 게 큰 거 같다. (내가 있는 반은 게임 중 루즈볼만 따라가도 잘했다고 해준다🤣) 오래 전 업무 관련으로 모욕적인 언사를 많이 들었던터라 누구를 만나든 ‘내가 이걸 못해서..상대방이 나를 무시하지 않을까?’하는 불안감이 굉장히 강했다. 하지만 다행히도 2023년에는 내 좋은 점을 먼저 봐주는 사람들, 혹은 먼저 봐주려는 사람들을 만나서 이 불안감이 덜어진 거 같다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-808b-8fa6-f947dc6b7a81",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "하반기에 참석했던 Supabase x lottifiles 밋업에서도 다양하게 ‘되고 싶은 나’를 확장할 수 있었다. 이전에는 막연하게 ‘누구나 모셔가고 싶어하는 개발자’를 목표로 했던 거 같은데 밋업을 다녀오고 나서는 ‘영어로 자연스럽게 소통할 수 있는 개발자’, ‘개발을 즐기며 하는 개발자’ 등 조금 더 구체적인 목표를 세울 수 있었다. 그래서인지 영어 말하기 연습을 위해 스픽 앱을 결제 했고 개발을 즐기고 싶어서 누가봐도 잘했다는 소리가 나올 만큼 잘해야한다는 부담을 내려놓기로 했다. 애초에 개발을 공부해보자 한 것도 개발이 ‘재미있어서, 더 알고 싶어서’ 였으니…초심으로 다시 시작해보자고 생각했다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하반기에 참석했던 Supabase x lottifiles 밋업에서도 다양하게 ‘되고 싶은 나’를 확장할 수 있었다. 이전에는 막연하게 ‘누구나 모셔가고 싶어하는 개발자’를 목표로 했던 거 같은데 밋업을 다녀오고 나서는 ‘영어로 자연스럽게 소통할 수 있는 개발자’, ‘개발을 즐기며 하는 개발자’ 등 조금 더 구체적인 목표를 세울 수 있었다. 그래서인지 영어 말하기 연습을 위해 스픽 앱을 결제 했고 개발을 즐기고 싶어서 누가봐도 잘했다는 소리가 나올 만큼 잘해야한다는 부담을 내려놓기로 했다. 애초에 개발을 공부해보자 한 것도 개발이 ‘재미있어서, 더 알고 싶어서’ 였으니…초심으로 다시 시작해보자고 생각했다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-806c-8b08-c26c80863f5d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "로켓펀치에서 진행한 커피챗도 좋았고…지금 다니는 농구 반 이전에 거의 선수처럼 농구를 가르쳐주시던 선생님도 정말 감사했고..이렇게 쓰면서도 떠올릴 만큼 2023년의 만남은 버릴 것이 없었다. 2024년에도 이런 만남이 가득하길…나도 누군가에게는 긍정적인 영향을 주는 사람이 될 수 있길 바란다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "로켓펀치에서 진행한 커피챗도 좋았고…지금 다니는 농구 반 이전에 거의 선수처럼 농구를 가르쳐주시던 선생님도 정말 감사했고..이렇게 쓰면서도 떠올릴 만큼 2023년의 만남은 버릴 것이 없었다. 2024년에도 이런 만남이 가득하길…나도 누군가에게는 긍정적인 영향을 주는 사람이 될 수 있길 바란다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8096-9cb0-e69812001266",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8049-9b33-e2c8e104e662",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# Hello, 2024!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# Hello, 2024!",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8059-80b9-f39c1cbb5d76",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80fc-b686-cfc560054040",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "아니 내용을 정리하고 회고를 쓰는 동안 2024년이 벌써 3일이 지나버리다니~!🤣 늦기 전에 2024년 한 해 목표를 적어본다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "아니 내용을 정리하고 회고를 쓰는 동안 2024년이 벌써 3일이 지나버리다니~!🤣 늦기 전에 2024년 한 해 목표를 적어본다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-802a-befd-fc8a27679a10",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이직 성공하기!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이직 성공하기!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8053-ac96-fcd7f249b392",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "방통대 공부 소홀히 하지 않기(편입에 성공한다면..)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "방통대 공부 소홀히 하지 않기(편입에 성공한다면..)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8074-bdc4-cbf6fbbc08ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "농구 계속 하기!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "농구 계속 하기!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8076-9c1c-fa9896b2392b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "블로그들 꾸준히 하기",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "블로그들 꾸준히 하기",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8009-bc47-dff82c837069",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "사놓은 인강들 듣기",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "사놓은 인강들 듣기",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8070-bc6b-ea89239b170e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "영어공부 하기 (오픽 좋은 성적을 목표로)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "영어공부 하기 (오픽 좋은 성적을 목표로)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-806b-b68d-dc341606406e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "강박에서 벗어나기! 모든 걸 잘할 필요 없고 그럴 만큼 나는 그렇게 특별한 존재가 아님을 계속 되뇌어주기 (=자의식 과잉 막기)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "강박에서 벗어나기! 모든 걸 잘할 필요 없고 그럴 만큼 나는 그렇게 특별한 존재가 아님을 계속 되뇌어주기 (=자의식 과잉 막기)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80a1-b02d-ff47fe094a64",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "vlog 다시 도전해보기! 차곡차곡 쌓아놓은 동영상들 그냥 버려질 일 없게 하기",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "vlog 다시 도전해보기! 차곡차곡 쌓아놓은 동영상들 그냥 버려질 일 없게 하기",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80db-a583-c1668d11d427",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-804f-9a01-e9777ab0bf99",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:53:00.000Z",
+      "last_edited_time": "2024-11-13T09:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-804e-a5ae-f3433c3466eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:31:00.000Z",
+      "last_edited_time": "2024-11-13T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "작년 회고 때 세운 계획을 살펴보니 반 정도 성공 했던데, 올해는 적어도 80%는 이뤄보고자 한다. 2024년도 아자아자 화이팅이닷!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "작년 회고 때 세운 계획을 살펴보니 반 정도 성공 했던데, 올해는 적어도 80%는 이뤄보고자 한다. 2024년도 아자아자 화이팅이닷!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-80c5-b15e-c120f8e1e5ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T08:29:00.000Z",
+      "last_edited_time": "2024-11-13T08:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13d33ccb-0cd0-8008-a48f-d7892d0f3620",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13d33ccb-0cd0-80a2-a649-f9d3ec7c15fb"
+      },
+      "created_time": "2024-11-13T09:45:00.000Z",
+      "last_edited_time": "2024-11-13T09:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}
