@@ -5,10 +5,10 @@ export default function Comment() {
   return (
     <Giscus
       id="comments"
-      repo="notionpresso/nextjs-blog-template"
-      repoId="R_kgDONDy8gg"
+      repo="alissa1228/notion-blog"
+      repoId="R_kgDONOl77Q"
       category="Announcements"
-      categoryId="DIC_kwDONDy8gs4CjpSV"
+      categoryId="DIC_kwDONOl77c4CkOkE"
       mapping="pathname"
       strict="0"
       reactionsEnabled="1"

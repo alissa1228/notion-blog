@@ -1,0 +1,2156 @@
+{
+  "object": "page",
+  "id": "13e33ccb-0cd0-8053-8e03-d9428abba057",
+  "created_time": "2024-11-14T06:10:00.000Z",
+  "last_edited_time": "2024-11-14T06:56:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "13d33ccb-0cd0-80a0-bf4e-f279d6d7e978"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "[알고리즘] 그리디와 이분탐색 알고리즘",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "[알고리즘] 그리디와 이분탐색 알고리즘",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/13e33ccb0cd080538e03d9428abba057",
+  "public_url": null,
+  "request_id": "a988a885-6de5-4692-aeac-456d61d91523",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b5-82b0-ff96d0159e07",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:54:00.000Z",
+      "last_edited_time": "2024-11-14T06:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80cd-969e-c9c0186ac61f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:54:00.000Z",
+      "last_edited_time": "2024-11-14T06:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80c5-805a-cdd3016babf6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:54:00.000Z",
+      "last_edited_time": "2024-11-14T06:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#탐욕 알고리즘(Greedy algorithm)?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#탐욕 알고리즘(Greedy algorithm)?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ab-8071-edf2ead11aca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:54:00.000Z",
+      "last_edited_time": "2024-11-14T06:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8078-a965-fe43c334c94e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:54:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "가장 알맞은 해인 ‘최적해’를 찾기 위한 방법으로, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "가장 알맞은 해인 ‘최적해’를 찾기 위한 방법으로, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "여러 경우 중 하나를 결정해야 할 때마다 그 순간에 최적이라고 생각되는 걸 선택해나가는 방식으로 진행해 최종적인 해답에 도달한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여러 경우 중 하나를 결정해야 할 때마다 그 순간에 최적이라고 생각되는 걸 선택해나가는 방식으로 진행해 최종적인 해답에 도달한다.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (눈 앞에 있는 최선을 ‘탐욕스럽게’ 취하는 알고리즘.) 그리디 알고리즘은 다양한 최적화 문제를 해결하는데 사용된다. 전체 문제를 부분으로 쪼개고, 각 부분에서 최선인 선택을 함으로써 전체적인 문제를 해결한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (눈 앞에 있는 최선을 ‘탐욕스럽게’ 취하는 알고리즘.) 그리디 알고리즘은 다양한 최적화 문제를 해결하는데 사용된다. 전체 문제를 부분으로 쪼개고, 각 부분에서 최선인 선택을 함으로써 전체적인 문제를 해결한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-806c-8a51-d98a64556847",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80fe-b8dc-c31c8628db79",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:54:00.000Z",
+      "last_edited_time": "2024-11-14T06:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "때문에 순간 마다 하는 선택은 그 순간에 대해 지역적으로는 최적이지만, 그 선택들을 계속 수집해 최종적인(전역적인) 해답을 만들었다고 해서 이게 최적이라는 보장은 없다. 하지만 그리디 알고리즘을 적용할 수 있는 문제들은 지역적으로 최적이면서 전역적으로 최적인 문제들이다. 왜냐하면 그리디 알고리즘이 효과적으로 작동하려면 문제가 📎’탐욕스러운 선택 속성(Greedy Choice Property)’과 ‘최적 부분 구조(Optimal Substructure)’를 갖추고 있어야 하기 때문이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "때문에 순간 마다 하는 선택은 그 순간에 대해 지역적으로는 최적이지만, 그 선택들을 계속 수집해 최종적인(전역적인) 해답을 만들었다고 해서 이게 최적이라는 보장은 없다. 하지만 그리디 알고리즘을 적용할 수 있는 문제들은 지역적으로 최적이면서 전역적으로 최적인 문제들이다. 왜냐하면 그리디 알고리즘이 효과적으로 작동하려면 문제가 📎’탐욕스러운 선택 속성(Greedy Choice Property)’과 ‘최적 부분 구조(Optimal Substructure)’를 갖추고 있어야 하기 때문이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a1-a2f9-d1b9d4511b73",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8073-9d5f-ef11346f4d7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:54:00.000Z",
+      "last_edited_time": "2024-11-14T06:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이런 성질을 만족하는 문제들에서는 지역적으로 최적인 결정이 곧 전역적으로도 최적인 결정이 된다. 최소 신장 트리(Minimum Spanning Tree) 문제나 최단 경로(Shortest Path) 문제가 이에 해당되며, 이런 문제들에서는 각 단계에서의 최적의 선택이 전체 문제의 최적 해결책으로 이어지게 된다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이런 성질을 만족하는 문제들에서는 지역적으로 최적인 결정이 곧 전역적으로도 최적인 결정이 된다. 최소 신장 트리(Minimum Spanning Tree) 문제나 최단 경로(Shortest Path) 문제가 이에 해당되며, 이런 문제들에서는 각 단계에서의 최적의 선택이 전체 문제의 최적 해결책으로 이어지게 된다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8091-a26a-e982bb0d9bf8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8007-a88d-dfb43512b29f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📎",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📎",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-802a-86e3-e68f304b6dfc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "탐욕스러운 선택 속성(Greedy Choice Property): 각 단계의 선택이 이후 선택에 영향을 주지 않는다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "탐욕스러운 선택 속성(Greedy Choice Property): 각 단계의 선택이 이후 선택에 영향을 주지 않는다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8085-af7a-e4e0d32c207e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "최적 부분 구조(Optimal Substructure): 문제의 최적 해결책이 그 문제의 부분 문제의 최적 해결책으로부터 구성될 수 있는 성질.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "최적 부분 구조(Optimal Substructure): 문제의 최적 해결책이 그 문제의 부분 문제의 최적 해결책으로부터 구성될 수 있는 성질.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80cc-bff8-fe819497ab33",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8022-8f06-e7a6b696d04b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8041-a068-c4a8b1fe4757",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "위의 조건을 충족하지 않더라도, 그리디 알고리즘은 구현이 쉽고 빠르기 때문에 다양한 문제에 활용할 수 있다. 특히 반드시 최적의 해를 구하지 못하더라도 어림 짐작해서 답을 구해야하는 경우에도 사용된다. 예를 들어 인공지능에 활용되는 알고리즘 중 휴리스틱 탐색(Heuristic Search)이나 빔 탐색(Beam Search), A* 알고리즘 등에서 탐욕 알고리즘이 적용되고 있다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "위의 조건을 충족하지 않더라도, 그리디 알고리즘은 구현이 쉽고 빠르기 때문에 다양한 문제에 활용할 수 있다. 특히 반드시 최적의 해를 구하지 못하더라도 어림 짐작해서 답을 구해야하는 경우에도 사용된다. 예를 들어 인공지능에 활용되는 알고리즘 중 휴리스틱 탐색(Heuristic Search)이나 빔 탐색(Beam Search), A* 알고리즘 등에서 탐욕 알고리즘이 적용되고 있다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-803d-bead-fdd18605aefe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80c1-bcb4-e3328e6ccec0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b3-b5f8-e7a058f230fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#이진 검색 알고리즘(Binary Search Algorithm)?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#이진 검색 알고리즘(Binary Search Algorithm)?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8044-b414-f83382859737",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8071-bbf6-f665d614423f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "오름차순으로 정렬된 리스트에서 특정한 값의 위치를 찾는 알고리즘이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "오름차순으로 정렬된 리스트에서 특정한 값의 위치를 찾는 알고리즘이다.",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 처음 중간의 값을 임의의 값으로 선택하여, 그 값과 찾고자 하는 값의 크고 작음을 비교하는 방식. 처음 선택한 중앙 값이 만약 찾는 값보다 크면 그 값은 새로운 최댓값이 되며, 작으면 그 값은 새로운 최솟값이 된다. 정렬된 리스트에만 사용할 수 있는 단점이 있지만, 검색이 반복될 때마다 목표값을 찾을 확률은 두배가 되므로 속도가 빠르다면 장점이 있다. (배열의 중간 요소를 선택하고 찾고자 하는 값과 비교, 탐색 범위를 절반으로 줄여나가는 방식.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 처음 중간의 값을 임의의 값으로 선택하여, 그 값과 찾고자 하는 값의 크고 작음을 비교하는 방식. 처음 선택한 중앙 값이 만약 찾는 값보다 크면 그 값은 새로운 최댓값이 되며, 작으면 그 값은 새로운 최솟값이 된다. 정렬된 리스트에만 사용할 수 있는 단점이 있지만, 검색이 반복될 때마다 목표값을 찾을 확률은 두배가 되므로 속도가 빠르다면 장점이 있다. (배열의 중간 요소를 선택하고 찾고자 하는 값과 비교, 탐색 범위를 절반으로 줄여나가는 방식.)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8006-b303-dc44fc033738",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80e1-a3c2-dbccbbae90e1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "위키에서 제공하는 📎의사코드는 아래와 같다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "위키에서 제공하는 📎의사코드는 아래와 같다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-801e-addb-e1cff443e6ac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8087-8a7f-fdbbfd677189",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📎 의사코드(Pseudo Code)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📎 의사코드(Pseudo Code)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8068-b74d-ce522edd11be",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": ": 프로그램을 작성할 때 각 모듈이 작동하는 논리를 표현하기 위한 언어. 프로그래밍 언어 문법에 따라 쓰인 게 아니라 일반적인 언어로 코드를 흉내 내어 알고리즘을 써놓은 코드. 말 그대로 흉내만 내는 코드이기 때문에 실제로는 실행할 수 없다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": 프로그램을 작성할 때 각 모듈이 작동하는 논리를 표현하기 위한 언어. 프로그래밍 언어 문법에 따라 쓰인 게 아니라 일반적인 언어로 코드를 흉내 내어 알고리즘을 써놓은 코드. 말 그대로 흉내만 내는 코드이기 때문에 실제로는 실행할 수 없다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8082-91c4-c7e03ca50bce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-804f-b3ef-e0f944e3d7d8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8071-b4a0-c2689bda785b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "BinarySearch(A[0..N",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "BinarySearch(A[0..N",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "-",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "-",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "1], value, low, high) {\n  ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1], value, low, high) {\n  ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "if",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "if",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (high ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (high ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "<",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "<",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " low)\n    ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " low)\n    ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "return",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "return",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "-",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "-",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "1 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "// not found",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "// not found",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "mid ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "mid ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "=",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "=",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (low ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (low ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "+",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "+",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " high) ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " high) ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "/",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "/",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 2\n  ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 2\n  ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "if",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "if",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (A[mid] ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (A[mid] ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ">",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ">",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " value)\n    ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " value)\n    ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "return",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "return",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " BinarySearch(A, value, low, mid",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " BinarySearch(A, value, low, mid",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "-",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "-",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "1)\n  ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1)\n  ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "else",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "else",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "if",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "if",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (A[mid] ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (A[mid] ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "<",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "<",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " value)\n    ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " value)\n    ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "return",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "return",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " BinarySearch(A, value, mid",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " BinarySearch(A, value, mid",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "+",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "+",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "1, high)\n  ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1, high)\n  ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "elsereturn",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "elsereturn",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " mid ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " mid ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "// found",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "// found",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "}",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8094-852b-c392abad8cb4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80d2-b4e7-ccb6f44c0ed3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📌 참고",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📌 참고",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8062-a964-d1b88f52883b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95",
+              "link": {
+                "url": "https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95",
+            "href": "https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98",
+              "link": {
+                "url": "https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98",
+            "href": "https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-804f-80c9-d7348f9f7d08",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://yozm.wishket.com/magazine/detail/2478/",
+              "link": {
+                "url": "https://yozm.wishket.com/magazine/detail/2478/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://yozm.wishket.com/magazine/detail/2478/",
+            "href": "https://yozm.wishket.com/magazine/detail/2478/"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8001-9b1e-fc77df2e487b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84",
+              "link": {
+                "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84",
+            "href": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "%EA%B2%80%EC%83%89",
+              "link": {
+                "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "%EA%B2%80%EC%83%89",
+            "href": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98",
+              "link": {
+                "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98",
+            "href": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8088-bace-d3f4f999a56f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C",
+              "link": {
+                "url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C",
+            "href": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8069-906d-fc379f4c57b2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8053-8e03-d9428abba057"
+      },
+      "created_time": "2024-11-14T06:55:00.000Z",
+      "last_edited_time": "2024-11-14T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

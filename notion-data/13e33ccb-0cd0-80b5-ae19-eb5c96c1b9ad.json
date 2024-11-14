@@ -1,0 +1,2056 @@
+{
+  "object": "page",
+  "id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad",
+  "created_time": "2024-11-14T06:10:00.000Z",
+  "last_edited_time": "2024-11-14T06:47:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "13d33ccb-0cd0-80a0-bf4e-f279d6d7e978"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "[알고리즘] 완전탐색 알고리즘, Brute Force(브루트 포스)",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "[알고리즘] 완전탐색 알고리즘, Brute Force(브루트 포스)",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Brute-Force-13e33ccb0cd080b5ae19eb5c96c1b9ad",
+  "public_url": null,
+  "request_id": "2808c5ad-1cd1-49c5-bbd6-b1c38258ad34",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8081-9fe8-dfd5b7cda845",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8093-bbb4-ebe84b731d8f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a7-9240-f0f305ef8372",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#브루트 포스(Brute Force)?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#브루트 포스(Brute Force)?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-809d-b4fa-d8c60fc8f8ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-806a-b298-c403d71349ce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8086-91b9-e16c4246487d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "브루트 포스는 완전탐색 알고리즘으로써, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "브루트 포스는 완전탐색 알고리즘으로써, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "모든 경우의 수를 탐색 하면서 요구조건을 충족하는 결과만 가져오는 방식",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "모든 경우의 수를 탐색 하면서 요구조건을 충족하는 결과만 가져오는 방식",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이다. 영문 그대로(brute:난폭한 / force: 힘) 난폭하게 하나씩 다 때려박으면서(…) 탐색한다고 보면 된다. 어떤 방식으로든 전체 탐색으로 문제를 해결한다면 해당 알고리즘으로 풀었다고 할 수 있다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이다. 영문 그대로(brute:난폭한 / force: 힘) 난폭하게 하나씩 다 때려박으면서(…) 탐색한다고 보면 된다. 어떤 방식으로든 전체 탐색으로 문제를 해결한다면 해당 알고리즘으로 풀었다고 할 수 있다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8091-98a5-f6d997012963",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80c9-bacd-e1d4e41fa07a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8008-8e19-e98e259f8785",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-808f-a201-f75128c1faff",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Q. 완전 탐색 알고리즘 안에 브루트 포스가 있는건가요?\nA. \n👾 ChatGPT : 완전 탐색(Exhaustive Search) 알고리즘은 모든 가능한 경우의 수를 체크하여 문제의 해답을 찾는 방법입니다. 브루트 포스(Brute Force)는 이 완전 탐색의 방법 중 하나로, 가능한 모든 경우의 수를 시험해보며 문제의 해답을 찾는 가장 기본적이고 직접적인 접근 방식을 말합니다. 즉, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Q. 완전 탐색 알고리즘 안에 브루트 포스가 있는건가요?\nA. \n👾 ChatGPT : 완전 탐색(Exhaustive Search) 알고리즘은 모든 가능한 경우의 수를 체크하여 문제의 해답을 찾는 방법입니다. 브루트 포스(Brute Force)는 이 완전 탐색의 방법 중 하나로, 가능한 모든 경우의 수를 시험해보며 문제의 해답을 찾는 가장 기본적이고 직접적인 접근 방식을 말합니다. 즉, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "브루트 포스는 완전 탐색 알고리즘의 한 형태",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "브루트 포스는 완전 탐색 알고리즘의 한 형태",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "로 볼 수 있습니다.\n\n완전 탐색 알고리즘은 모든 경우를 체크하기 때문에 해답을 찾을 수 있다는 것을 보장하지만, 경우의 수가 많을 때는 시간이 매우 오래 걸릴 수 있습니다. 반면, 브루트 포스는 해답을 찾기 위해 가능한 모든 방법을 단순하게 시도해보는 것이므로, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "로 볼 수 있습니다.\n\n완전 탐색 알고리즘은 모든 경우를 체크하기 때문에 해답을 찾을 수 있다는 것을 보장하지만, 경우의 수가 많을 때는 시간이 매우 오래 걸릴 수 있습니다. 반면, 브루트 포스는 해답을 찾기 위해 가능한 모든 방법을 단순하게 시도해보는 것이므로, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "구현이 간단하다는 장점",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "구현이 간단하다는 장점",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이 있습니다. 다만, 브루트 포스 방식도 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 있습니다. 다만, 브루트 포스 방식도 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "경우의 수가 많아질수록 비효율적",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "경우의 수가 많아질수록 비효율적",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "일 수 있습니다. 따라서, 더 효율적인 알고리즘을 고려해볼 필요가 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "일 수 있습니다. 따라서, 더 효율적인 알고리즘을 고려해볼 필요가 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b4-8023-f6ef3c40d683",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:45:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\n",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8001-bc10-ce042e4fc2ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:46:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#브루트 포스의 종류",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#브루트 포스의 종류",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80cd-9773-c3dbbb10d489",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:46:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b6-9420-e6f02a4cb4a2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:46:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ba-9b68-cf8ebed708b2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:46:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "브루트 포스는 데이터가 순차적으로 나열되어 있는 선형구조 탐색과 데이터 간의 관계가 계층적이거나 네트워크 형태를 이루는 비선형구조 탐색으로 나뉜다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "브루트 포스는 데이터가 순차적으로 나열되어 있는 선형구조 탐색과 데이터 간의 관계가 계층적이거나 네트워크 형태를 이루는 비선형구조 탐색으로 나뉜다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80d1-85b5-e30b12ac92e4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:46:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-800b-80b3-c6235db7e7a1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:46:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "선형 구조",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "선형 구조",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80f9-9a36-ff222feda4dc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-800b-80b3-c6235db7e7a1"
+          },
+          "created_time": "2024-11-14T06:46:00.000Z",
+          "last_edited_time": "2024-11-14T06:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "순차 탐색",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "순차 탐색",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "13e33ccb-0cd0-80bd-9c8e-c4aa3fec434c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "13e33ccb-0cd0-80f9-9a36-ff222feda4dc"
+              },
+              "created_time": "2024-11-14T06:46:00.000Z",
+              "last_edited_time": "2024-11-14T06:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "단순하게 배열 처음부터 내가 찾는 값이 있는지 확인.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "단순하게 배열 처음부터 내가 찾는 값이 있는지 확인.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "13e33ccb-0cd0-804a-8557-f47b3ac8a397",
+              "parent": {
+                "type": "block_id",
+                "block_id": "13e33ccb-0cd0-80f9-9a36-ff222feda4dc"
+              },
+              "created_time": "2024-11-14T06:46:00.000Z",
+              "last_edited_time": "2024-11-14T06:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "O(n)의 시간 복잡도를 갖는다.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "O(n)의 시간 복잡도를 갖는다.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8052-88ab-cfdc872c0fe2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:46:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "비선형 구조",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "비선형 구조",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8044-bd45-fa6ed1552776",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8052-88ab-cfdc872c0fe2"
+          },
+          "created_time": "2024-11-14T06:46:00.000Z",
+          "last_edited_time": "2024-11-14T06:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "DFS(Depth First Search)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "DFS(Depth First Search)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "13e33ccb-0cd0-80dc-a27a-febd3684f283",
+              "parent": {
+                "type": "block_id",
+                "block_id": "13e33ccb-0cd0-8044-bd45-fa6ed1552776"
+              },
+              "created_time": "2024-11-14T06:46:00.000Z",
+              "last_edited_time": "2024-11-14T06:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "트리나 그래프를 탐색하는 기법으로, 시작 노드에서 자식 노드를 순서대로 탐색하며 ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "트리나 그래프를 탐색하는 기법으로, 시작 노드에서 자식 노드를 순서대로 탐색하며 ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "깊이",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "깊이",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "를 우선으로 탐색하는 알고리즘",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "를 우선으로 탐색하는 알고리즘",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "13e33ccb-0cd0-80ca-9a80-e04916cf05c1",
+              "parent": {
+                "type": "block_id",
+                "block_id": "13e33ccb-0cd0-8044-bd45-fa6ed1552776"
+              },
+              "created_time": "2024-11-14T06:46:00.000Z",
+              "last_edited_time": "2024-11-14T06:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "DFS의 기본 탐색 과정은 ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "DFS의 기본 탐색 과정은 ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "특정 정점에서 시작하여 역추적(backtracking) 하기 전에 각 분기를 따라 가능한 한 멀리 탐색",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "특정 정점에서 시작하여 역추적(backtracking) 하기 전에 각 분기를 따라 가능한 한 멀리 탐색",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "하는 것.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "하는 것.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "13e33ccb-0cd0-8054-ae56-cf98c6d88c02",
+              "parent": {
+                "type": "block_id",
+                "block_id": "13e33ccb-0cd0-8044-bd45-fa6ed1552776"
+              },
+              "created_time": "2024-11-14T06:46:00.000Z",
+              "last_edited_time": "2024-11-14T06:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "반복문이나 재귀문을 사용해 구현한다. (ex- stack)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "반복문이나 재귀문을 사용해 구현한다. (ex- stack)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80e6-896f-d1a6847ff9ca",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8052-88ab-cfdc872c0fe2"
+          },
+          "created_time": "2024-11-14T06:46:00.000Z",
+          "last_edited_time": "2024-11-14T06:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "BFS(Breadth First Search)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "BFS(Breadth First Search)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "13e33ccb-0cd0-8039-a428-e7ee53454cdb",
+              "parent": {
+                "type": "block_id",
+                "block_id": "13e33ccb-0cd0-80e6-896f-d1a6847ff9ca"
+              },
+              "created_time": "2024-11-14T06:46:00.000Z",
+              "last_edited_time": "2024-11-14T06:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "DFS처럼 트리나 그래프를 탐색하는 기법으로, 시작 노드에서 자식 노드를 순서대로 탐색하며 ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "DFS처럼 트리나 그래프를 탐색하는 기법으로, 시작 노드에서 자식 노드를 순서대로 탐색하며 ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "너비",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "너비",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "를 우선으로 탐색하는 알고리즘",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "를 우선으로 탐색하는 알고리즘",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "13e33ccb-0cd0-809c-a9b1-c2bbcea589ba",
+              "parent": {
+                "type": "block_id",
+                "block_id": "13e33ccb-0cd0-80e6-896f-d1a6847ff9ca"
+              },
+              "created_time": "2024-11-14T06:46:00.000Z",
+              "last_edited_time": "2024-11-14T06:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "완전탐색 알고리즘에 속하며 같은 거리에 있는 모든 노드를 탐색 후, 다음 거리의 노드를 탐색하기 시작하는 방식. (그래프 최단거리를 구하는 문제에 활용될 수 있다)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "완전탐색 알고리즘에 속하며 같은 거리에 있는 모든 노드를 탐색 후, 다음 거리의 노드를 탐색하기 시작하는 방식. (그래프 최단거리를 구하는 문제에 활용될 수 있다)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "13e33ccb-0cd0-80c3-88ed-f87955013499",
+              "parent": {
+                "type": "block_id",
+                "block_id": "13e33ccb-0cd0-80e6-896f-d1a6847ff9ca"
+              },
+              "created_time": "2024-11-14T06:46:00.000Z",
+              "last_edited_time": "2024-11-14T06:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "주로 Queue와 While 반복문을 통해 문제를 해결.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "주로 Queue와 While 반복문을 통해 문제를 해결.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8094-a402-ed4a05cd929d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:46:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-807d-8eaf-f3bb7a28d2d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:46:00.000Z",
+      "last_edited_time": "2024-11-14T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "아래는 0-9를 사용해 4개의 숫자로 구성된 자물쇠 비밀번호 찾기가 대표적인 브루트 포스로 풀어볼 수 있는 예이다. 1234으로 설정된 비밀번호를 찾아야한다는 가정하에 브루투 포스 알고리즘을 사용한다면 아래와 같다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "아래는 0-9를 사용해 4개의 숫자로 구성된 자물쇠 비밀번호 찾기가 대표적인 브루트 포스로 풀어볼 수 있는 예이다. 1234으로 설정된 비밀번호를 찾아야한다는 가정하에 브루투 포스 알고리즘을 사용한다면 아래와 같다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8089-ba57-ea8744d7fb7a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ad-b373-f5689491273d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:46:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "function findPassword() {\n    const targetPassword = [1, 2, 3, 4]; // 찾고자 하는 비밀번호\n    for (let i = 0; i <= 9999; i++) {\n        //4자리 숫자를 개별 자릿수로 분해하여 배열로.\n        //숫자를 10, 100, 1000으로 나누어 각 자릿수를 위치에 맞게 조정한 후, 10 연산을 적용하여 각 자릿수를 추출\n        let password = [Math.floor(i / 1000) % 10, Math.floor(i / 100) % 10, Math.floor(i / 10) % 10, i % 10];\n        if (password[0] === targetPassword[0] && password[1] === targetPassword[1] &&\n            password[2] === targetPassword[2] && password[3] === targetPassword[3]) {\n            return password.join(''); // 목표 비밀번호와 일치할 경우\n        }\n    }\n    return null; // 목표 비밀번호를 찾지 못한 경우\n}\n\nconsole.log(findPassword());\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "function findPassword() {\n    const targetPassword = [1, 2, 3, 4]; // 찾고자 하는 비밀번호\n    for (let i = 0; i <= 9999; i++) {\n        //4자리 숫자를 개별 자릿수로 분해하여 배열로.\n        //숫자를 10, 100, 1000으로 나누어 각 자릿수를 위치에 맞게 조정한 후, 10 연산을 적용하여 각 자릿수를 추출\n        let password = [Math.floor(i / 1000) % 10, Math.floor(i / 100) % 10, Math.floor(i / 10) % 10, i % 10];\n        if (password[0] === targetPassword[0] && password[1] === targetPassword[1] &&\n            password[2] === targetPassword[2] && password[3] === targetPassword[3]) {\n            return password.join(''); // 목표 비밀번호와 일치할 경우\n        }\n    }\n    return null; // 목표 비밀번호를 찾지 못한 경우\n}\n\nconsole.log(findPassword());\n",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-808e-8c78-dddb65d12fe4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b9-a779-c52236dc0edc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8029-b4fc-f8db27c63761",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📌 참고",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📌 참고",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b6-b79f-e8e63074974f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://go-coding.tistory.com/67",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://go-coding.tistory.com/67",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80e7-bf22-e030c8c271a5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://song-ift.tistory.com/259",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://song-ift.tistory.com/259",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8093-96f1-f4a8405bc355",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://foreverhappiness.tistory.com/104",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://foreverhappiness.tistory.com/104",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8067-a20b-fbeb2f7b8553",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://yerinpy73.tistory.com/29",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://yerinpy73.tistory.com/29",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80e6-8934-e94f17472260",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://olrlobt.tistory.com/35",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://olrlobt.tistory.com/35",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ce-b238-c3686c90a6e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://olrlobt.tistory.com/41",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://olrlobt.tistory.com/41",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80eb-95e8-d80fbff84184",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://olrlobt.tistory.com/33",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://olrlobt.tistory.com/33",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-807b-8933-fe4d1393d787",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ec-be6e-fbdd25c1b08e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80e8-884d-ee87651d33b5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad"
+      },
+      "created_time": "2024-11-14T06:47:00.000Z",
+      "last_edited_time": "2024-11-14T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

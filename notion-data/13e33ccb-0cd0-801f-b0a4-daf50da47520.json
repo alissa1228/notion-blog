@@ -1,0 +1,3175 @@
+{
+  "object": "page",
+  "id": "13e33ccb-0cd0-801f-b0a4-daf50da47520",
+  "created_time": "2024-11-14T06:10:00.000Z",
+  "last_edited_time": "2024-11-14T06:22:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "13d33ccb-0cd0-80a0-bf4e-f279d6d7e978"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "CSR, SSR 훑어보기",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "CSR, SSR 훑어보기",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/CSR-SSR-13e33ccb0cd0801fb0a4daf50da47520",
+  "public_url": null,
+  "request_id": "80972c7b-ca2e-48f9-9139-8cb981b8432b",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8090-a42b-d9657212702f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:15:00.000Z",
+      "last_edited_time": "2024-11-14T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-804e-a148-e84073e71574",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# 웹 브라우저 렌더링?🤔",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# 웹 브라우저 렌더링?🤔",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8055-a6bf-c2fb6e933c74",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80f7-921b-dd8ba317c8b0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "웹 브라우저 렌더링이란 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "웹 브라우저 렌더링이란 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "실시간으로 웹 사이트가 그려지는 과정",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "실시간으로 웹 사이트가 그려지는 과정",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "으로 HTML, CSS, JavaScript 등 개발자가 작성한 코드가 브라우저에서 출력되는 과정을 일컫는다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "으로 HTML, CSS, JavaScript 등 개발자가 작성한 코드가 브라우저에서 출력되는 과정을 일컫는다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8056-9ad9-ee0a3bc187bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "웹 브라우저가",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "웹 브라우저가",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 웹 페이지를 여는 과정은 압축파일을 여는 것과 비슷",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 웹 페이지를 여는 과정은 압축파일을 여는 것과 비슷",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하다. 파일을 받아 압축을 풀게 되면 웹 페이지 화면이 그려지는데 이 과정을 돕는 게 바로 브라우저의 렌더링 엔진이다. 렌더링 엔진은 Webkit(사파리), Blink(크롬/오페라), Gecko(파이어폭스) 등 다양하다. 각 브라우저 엔진은 각자 고유의 기능과 최적화 방법을 가지고 있다. (프론트엔드 개발자들이 크로스 브라우징 호환성에 시간을 들이는 이유..)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하다. 파일을 받아 압축을 풀게 되면 웹 페이지 화면이 그려지는데 이 과정을 돕는 게 바로 브라우저의 렌더링 엔진이다. 렌더링 엔진은 Webkit(사파리), Blink(크롬/오페라), Gecko(파이어폭스) 등 다양하다. 각 브라우저 엔진은 각자 고유의 기능과 최적화 방법을 가지고 있다. (프론트엔드 개발자들이 크로스 브라우징 호환성에 시간을 들이는 이유..)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80cb-a98c-e45314edc735",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "브라우저 엔진은 웹 서버로부터 파일을 받아 사용자 디스플레이에 페이지를 구성하는데, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "브라우저 엔진은 웹 서버로부터 파일을 받아 사용자 디스플레이에 페이지를 구성하는데, ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-808b-a207-efe2a5feba62",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:19:00.000Z",
+      "last_edited_time": "2024-11-14T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "HTML 구문을 해석해 DOM 트리를 만들고 CSS소스로 CSS DOM이라는 스타일링 객체를 구성한다. 이 때 HTML 구문을 만드는데 있어 웹서버가 다 만들 수 있고, 웹 서버에서 초기 HTML을 받은 후 대부분의 내용은 브라우저가 생성해 붙일 수도 있다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "HTML 구문을 해석해 DOM 트리를 만들고 CSS소스로 CSS DOM이라는 스타일링 객체를 구성한다. 이 때 HTML 구문을 만드는데 있어 웹서버가 다 만들 수 있고, 웹 서버에서 초기 HTML을 받은 후 대부분의 내용은 브라우저가 생성해 붙일 수도 있다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80e0-a36d-c35cb3f3da32",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "간략하게 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "간략하게 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "웹 서버가 HTML 구문을 다 만드는 전자의 방식이 SSR,",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "웹 서버가 HTML 구문을 다 만드는 전자의 방식이 SSR,",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "초기 HTML만 받아 대부분의 내용을 브라우저가 만드는 후자의 방식이 CSR",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "yellow_background"
+            },
+            "plain_text": "초기 HTML만 받아 대부분의 내용을 브라우저가 만드는 후자의 방식이 CSR",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80f3-8db0-ffb5c4497580",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8000-9dcb-fa15a4070678",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# CSR(Client Side Rendering)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# CSR(Client Side Rendering)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-808b-8192-f6d0de34db80",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-807d-9fb2-d8df758ff246",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "CSR은 클라이언트 사이드 렌더링(Client Side Rendering)으로 렌더링 작업이 사용자의 브라우저, 즉 클라이언트 측에서 진행된다. 초기 페이지 로드시 서버에서부터 파일을 받은 뒤 브라우저가 렌더링 한다고 보면 된다. (따라서 CSR은 브라우저가 많은 일을 처리하게 된다) 동작 순서는 아래와 같다",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "CSR은 클라이언트 사이드 렌더링(Client Side Rendering)으로 렌더링 작업이 사용자의 브라우저, 즉 클라이언트 측에서 진행된다. 초기 페이지 로드시 서버에서부터 파일을 받은 뒤 브라우저가 렌더링 한다고 보면 된다. (따라서 CSR은 브라우저가 많은 일을 처리하게 된다) 동작 순서는 아래와 같다",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8070-be22-df24ad4e8c05",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "사용자가 웹 페이지를 방문하면 브라우저(클라이언트)는 필요한 자원을 서버에 요청한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "사용자가 웹 페이지를 방문하면 브라우저(클라이언트)는 필요한 자원을 서버에 요청한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80df-9098-ef21628fac3a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "요청을 받은 서버가 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "요청을 받은 서버가 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "뼈대만 있는 HTML 파일과 자원을 브라우저에 전송",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "뼈대만 있는 HTML 파일과 자원을 브라우저에 전송",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8066-a7ad-f234a40845d7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "브라우저가 HTML 파일을 해석해 DOM 트리 작성, 자바스크립트 번들 파일 등을 다운로드 한다. (이벤트 리스너도 DOM 트리가 생성될 때 포함된다)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "브라우저가 HTML 파일을 해석해 DOM 트리 작성, 자바스크립트 번들 파일 등을 다운로드 한다. (이벤트 리스너도 DOM 트리가 생성될 때 포함된다)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b9-9c88-e73008d13808",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이후 브라우저(클라이언트)쪽 JavaScript 엔진으로 인해 JavaScript 코드가 실행되어 브라우저에 콘텐츠가 동적으로 렌더링 된다. (Hydration - 사용자 인터렉션이 가능한 동적인 컴포넌트를 생성하는 과정. 정적인 웹을 동적으로 변화시키는 단계.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이후 브라우저(클라이언트)쪽 JavaScript 엔진으로 인해 JavaScript 코드가 실행되어 브라우저에 콘텐츠가 동적으로 렌더링 된다. (Hydration - 사용자 인터렉션이 가능한 동적인 컴포넌트를 생성하는 과정. 정적인 웹을 동적으로 변화시키는 단계.)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8077-ba31-e3e91d31fa94",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80b9-9c88-e73008d13808"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "React, Vue, Angular 등의 프레임워크에서는 이 때 가상 DOM이 최초로 생성된다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "React, Vue, Angular 등의 프레임워크에서는 이 때 가상 DOM이 최초로 생성된다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-802b-a98b-d7370658b6c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "브라우저에 콘텐츠가 렌더링 되는 시점에서만 페이지를 볼 수 있고 상호 작용도 이 때 가능하다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "브라우저에 콘텐츠가 렌더링 되는 시점에서만 페이지를 볼 수 있고 상호 작용도 이 때 가능하다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-800b-ac32-de262d5527bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:21:00.000Z",
+      "last_edited_time": "2024-11-14T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80c3-bb9c-fa7c8b84b0ba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "장점",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "장점",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80fd-a74f-f977e947f84e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c3-bb9c-fa7c8b84b0ba"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "서버가 빈 뼈대만 있는 HTML을 넘겨주는 역할만 수행하기 때문에 서버 측의 부하가 적다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "서버가 빈 뼈대만 있는 HTML을 넘겨주는 역할만 수행하기 때문에 서버 측의 부하가 적다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8018-9375-ffb1b5874fff",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c3-bb9c-fa7c8b84b0ba"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "클라이언트에서 연산, 라우팅 등을 모두 직접 처리하기 때문에 반응 속도가 빠르고 UX도 우수하다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "클라이언트에서 연산, 라우팅 등을 모두 직접 처리하기 때문에 반응 속도가 빠르고 UX도 우수하다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-802d-bcae-c52a5ac721ae",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c3-bb9c-fa7c8b84b0ba"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "동적인 웹사이트를 만드는데 적합하며 페이지의 일부분만 업데이트 해야할 때 유용하다",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "동적인 웹사이트를 만드는데 적합하며 페이지의 일부분만 업데이트 해야할 때 유용하다",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-805b-bd71-e31c2d066256",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c3-bb9c-fa7c8b84b0ba"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "앱이 더 반응적이고 사용자가 페이지 간 전체 페이지 새로고침을 보지 않아도 된다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "앱이 더 반응적이고 사용자가 페이지 간 전체 페이지 새로고침을 보지 않아도 된다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8090-a836-f487772203cf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c3-bb9c-fa7c8b84b0ba"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "TTV(Time To View)와 TTI(Time To Interact) 간 시간 간격이 없다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "TTV(Time To View)와 TTI(Time To Interact) 간 시간 간격이 없다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8094-81b8-fcc07da99cd5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "단점",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "단점",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-806e-81c2-c01e546f7e69",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8094-81b8-fcc07da99cd5"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "브라우저가 JS가 파일을 다운 받고 동적으로 DOM을 생성하는 시간을 기다려야하기 때문에, 초기 로딩 시간이 느려져 사용자를 기다리게 할 수 있다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "브라우저가 JS가 파일을 다운 받고 동적으로 DOM을 생성하는 시간을 기다려야하기 때문에, 초기 로딩 시간이 느려져 사용자를 기다리게 할 수 있다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-803e-a599-d926980826c8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8094-81b8-fcc07da99cd5"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "초기 HTML을 받아왔을 때 빈 페이지기 때문에 크롤러가 인식하기 힘들어 검색 엔진 최적화(SEO)에 불리하다",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "초기 HTML을 받아왔을 때 빈 페이지기 때문에 크롤러가 인식하기 힘들어 검색 엔진 최적화(SEO)에 불리하다",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8004-bb51-e13c92696245",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8023-b49e-ec5940fa0b31",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# SSR(Server Side Rendering)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# SSR(Server Side Rendering)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80dd-83b2-d529755ab5e0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8052-be95-eafabe57bb75",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "SSR은 서버 사이드 렌더링(Server Side Rendering)으로 웹 서버에서 사용자에게 보여줄 페이지를 모두 구성해 브라우저에게 넘겨주는 방식이다. 사용자가 페이지에 접속할 때마다 서버가 해당 페이지의 완성된 HTML을 생성해 브라우저로 보내며, 각 페이지 URL 마다 보여줄 내용이 미리 결정되어 있다. 사용자가 웹 페이지에 접속하면 브라우저가 해당 URL을 서버에 요청하고 서버는 해당 url을 기준으로 어떤 페이지를 렌더링 할지 결정한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "SSR은 서버 사이드 렌더링(Server Side Rendering)으로 웹 서버에서 사용자에게 보여줄 페이지를 모두 구성해 브라우저에게 넘겨주는 방식이다. 사용자가 페이지에 접속할 때마다 서버가 해당 페이지의 완성된 HTML을 생성해 브라우저로 보내며, 각 페이지 URL 마다 보여줄 내용이 미리 결정되어 있다. 사용자가 웹 페이지에 접속하면 브라우저가 해당 URL을 서버에 요청하고 서버는 해당 url을 기준으로 어떤 페이지를 렌더링 할지 결정한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8046-b87b-cee3c3dfb202",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "유저가 웹 페이지에 접속하면 브라우저가 해당 url을 서버에 요청한다",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "유저가 웹 페이지에 접속하면 브라우저가 해당 url을 서버에 요청한다",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8093-9997-d93b4201b8d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "서버는 url을 기준으로 렌더링할 페이지를 정한다",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "서버는 url을 기준으로 렌더링할 페이지를 정한다",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80f6-bde2-e085bac973ac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "서버는 페이지에 필요한 데이터를 얻어와 CSS 삽입까지 마친 후, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "서버는 페이지에 필요한 데이터를 얻어와 CSS 삽입까지 마친 후, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "렌더링 준비를 끝낸 HTML(+JS 파일 등)을 클라이언트에 보낸다",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "렌더링 준비를 끝낸 HTML(+JS 파일 등)을 클라이언트에 보낸다",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (모든 데이터가 모두 HTML에 담겨진 채로 브라우저에 전달. 상호작용은 X)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (모든 데이터가 모두 HTML에 담겨진 채로 브라우저에 전달. 상호작용은 X)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8088-981d-d258d6374a43",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "브라우저는 이를 받아 바로 페이지를 띄우고(사용자는 화면을 바로 볼 수 있다.) JS 코드를 다운 받아 HTML에 JS 로직을 연결한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "브라우저는 이를 받아 바로 페이지를 띄우고(사용자는 화면을 바로 볼 수 있다.) JS 코드를 다운 받아 HTML에 JS 로직을 연결한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a3-8264-c7a503e8dde5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:22:00.000Z",
+      "last_edited_time": "2024-11-14T06:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80c6-94e2-da2af09a0117",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "장점",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "장점",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80bf-9729-fd162906d452",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c6-94e2-da2af09a0117"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "사용자에게 빠르게 초기 페이지를 보여줄 수 있다. (초기 구동 속도가 빠르다)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "사용자에게 빠르게 초기 페이지를 보여줄 수 있다. (초기 구동 속도가 빠르다)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80a6-9557-cd12114b06d0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c6-94e2-da2af09a0117"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "검색 엔진이 사이트를 쉽게 크롤링할 수 있어 검색 엔진 최적화(SEO)에 유리하다",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "검색 엔진이 사이트를 쉽게 크롤링할 수 있어 검색 엔진 최적화(SEO)에 유리하다",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-807e-966f-c4f866aadf9a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "단점",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "단점",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8002-b179-ebe4c5eaf04c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-807e-966f-c4f866aadf9a"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "사용자의 각 요청에 따라 서버가 페이지 전체를 새로 렌더링 해야하기 때문에 서버 부하가 커질 수 있다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "사용자의 각 요청에 따라 서버가 페이지 전체를 새로 렌더링 해야하기 때문에 서버 부하가 커질 수 있다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-802c-9218-cde413c81a2b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-807e-966f-c4f866aadf9a"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "화면 깜빡임이 있다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "화면 깜빡임이 있다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-801d-abcc-c1cfd4ed46cc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-807e-966f-c4f866aadf9a"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "TTV(Time To View)와 TTI(Time To Interact) 간 시간 간격이 존재한다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "TTV(Time To View)와 TTI(Time To Interact) 간 시간 간격이 존재한다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-800f-b88b-ce7e0e4e707c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:22:00.000Z",
+      "last_edited_time": "2024-11-14T06:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80db-991f-d448f5747a9b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8018-b790-c40bee19c462",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# 그럼 각각 언제 쓰는 지..?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# 그럼 각각 언제 쓰는 지..?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-804a-806b-fc02b85ac2bb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "선택은 애플리케이션의 요구 사항이나 성격에 따라 다르다. SEO가 중요한 사이트라면 CSR보다 SSR 방식을 좀 더 고려할 것이고 사용자와 상호작용이 더 많고 동적 요소가 많이 들어가 있는 사이트는 등은 CSR을 더 선호할 수 있다. CSR과 SSR을 같이 쓰는 전략도 있다고 하지만 각각의 사용 시점을 간략히 정리하면 아래와 같다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "선택은 애플리케이션의 요구 사항이나 성격에 따라 다르다. SEO가 중요한 사이트라면 CSR보다 SSR 방식을 좀 더 고려할 것이고 사용자와 상호작용이 더 많고 동적 요소가 많이 들어가 있는 사이트는 등은 CSR을 더 선호할 수 있다. CSR과 SSR을 같이 쓰는 전략도 있다고 하지만 각각의 사용 시점을 간략히 정리하면 아래와 같다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ce-a02b-f246bd2c2cb0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "CSR 사용 시점",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "CSR 사용 시점",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80ed-837c-c24e23e3f5cc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80ce-a02b-f246bd2c2cb0"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "복잡한 UI와 많은 기능을 가진 애플리케이션에 적합하다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "복잡한 UI와 많은 기능을 가진 애플리케이션에 적합하다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8056-b1d2-d891049ace2d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80ce-a02b-f246bd2c2cb0"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "대량 및 동적 데이터를 다루는 애플리케이션에 좋다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "대량 및 동적 데이터를 다루는 애플리케이션에 좋다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80b4-9823-c9961440d2de",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80ce-a02b-f246bd2c2cb0"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "사이트에서 쓰기 작업이 읽기 작업보다 빈번한 경우에 유리하다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "사이트에서 쓰기 작업이 읽기 작업보다 빈번한 경우에 유리하다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8096-b5e1-e2f4826c6cb9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80ce-a02b-f246bd2c2cb0"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "많은 사용자를 가진 사이트에 적합하다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "많은 사용자를 가진 사이트에 적합하다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8004-8564-f2af9b337cce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "SSR 사용 시점",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "SSR 사용 시점",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80f6-b961-fc0089ccec22",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8004-8564-f2af9b337cce"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "요청 시 즉시 서버가 HTML을 만들어서 응답하기 때문에 데이터가 달라져서 미리 만들어두기 어려운 페이지에 적합하다",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "요청 시 즉시 서버가 HTML을 만들어서 응답하기 때문에 데이터가 달라져서 미리 만들어두기 어려운 페이지에 적합하다",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8066-af49-c317eea0232e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8004-8564-f2af9b337cce"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "UI가 간단하고 기능이 적은 애플리케이션에 적합하다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "UI가 간단하고 기능이 적은 애플리케이션에 적합하다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80cc-825c-c488d264636c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8004-8564-f2af9b337cce"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "동적 데이터가 적은 애플리케이션에 좋다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "동적 데이터가 적은 애플리케이션에 좋다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8084-bbe4-ce992c3f2f7a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8004-8564-f2af9b337cce"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "사이트의 읽기 작업이 쓰기 작업보다 많은 경우에 유리다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "사이트의 읽기 작업이 쓰기 작업보다 많은 경우에 유리다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8080-a8e9-e72102eee1b3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8004-8564-f2af9b337cce"
+          },
+          "created_time": "2024-11-14T06:16:00.000Z",
+          "last_edited_time": "2024-11-14T06:16:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "리치 사이트에 초점을 맞추지 않고 사용자 수가 적은 애플리케이션에 적합하다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "리치 사이트에 초점을 맞추지 않고 사용자 수가 적은 애플리케이션에 적합하다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8055-ac9b-fbbe6e93159b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "대락적으로 정리 했지만 브라우저와 서버가 각각 어떤 역할을 맡는 지를 이해하고 서비스 목적에 따라 적합한 렌더링 방식을 취하면 되겠다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "대락적으로 정리 했지만 브라우저와 서버가 각각 어떤 역할을 맡는 지를 이해하고 서비스 목적에 따라 적합한 렌더링 방식을 취하면 되겠다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80d1-83f8-cd8c8b5e1e44",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8099-9dc8-c8066a22cb21",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8084-9a0a-f62f29fe0eed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80d9-af4d-c3963ce3d6a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📌 참고",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📌 참고",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8080-86e5-eaaf7e03320d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://yozm.wishket.com/magazine/detail/646/",
+              "link": {
+                "url": "https://yozm.wishket.com/magazine/detail/646/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://yozm.wishket.com/magazine/detail/646/",
+            "href": "https://yozm.wishket.com/magazine/detail/646/"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-807a-b773-f75b705ef7ce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://yozm.wishket.com/magazine/detail/2330/",
+              "link": {
+                "url": "https://yozm.wishket.com/magazine/detail/2330/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://yozm.wishket.com/magazine/detail/2330/",
+            "href": "https://yozm.wishket.com/magazine/detail/2330/"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-802c-9a4b-e724fbb8fe4c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "브라우저 렌더링 엔진_위키백과",
+              "link": {
+                "url": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80_%EC%97%94%EC%A7%84"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "브라우저 렌더링 엔진_위키백과",
+            "href": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80_%EC%97%94%EC%A7%84"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8010-a989-e87703007eb6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://ferie.medium.com/what-is-the-client-side-rendering-and-how-it-works-c90210e2cd14",
+              "link": {
+                "url": "https://ferie.medium.com/what-is-the-client-side-rendering-and-how-it-works-c90210e2cd14"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://ferie.medium.com/what-is-the-client-side-rendering-and-how-it-works-c90210e2cd14",
+            "href": "https://ferie.medium.com/what-is-the-client-side-rendering-and-how-it-works-c90210e2cd14"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8083-8351-eb03fcdcc12a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:16:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://www.youtube.com/watch?v=YuqB8D6eCKE&t=26s",
+              "link": {
+                "url": "https://www.youtube.com/watch?v=YuqB8D6eCKE&t=26s"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://www.youtube.com/watch?v=YuqB8D6eCKE&t=26s",
+            "href": "https://www.youtube.com/watch?v=YuqB8D6eCKE&t=26s"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8053-8b70-de9263127c4b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801f-b0a4-daf50da47520"
+      },
+      "created_time": "2024-11-14T06:15:00.000Z",
+      "last_edited_time": "2024-11-14T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

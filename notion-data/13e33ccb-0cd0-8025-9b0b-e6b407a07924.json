@@ -1,0 +1,3194 @@
+{
+  "object": "page",
+  "id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924",
+  "created_time": "2024-11-14T06:10:00.000Z",
+  "last_edited_time": "2024-11-14T06:25:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "13d33ccb-0cd0-80a0-bf4e-f279d6d7e978"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "[알고리즘] 시간복잡도와 공간복잡도, Big O 표기법 훑어보기",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "[알고리즘] 시간복잡도와 공간복잡도, Big O 표기법 훑어보기",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Big-O-13e33ccb0cd080259b0be6b407a07924",
+  "public_url": null,
+  "request_id": "0a676e03-45cc-4e59-baa5-9b9197e16fed",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ef-811d-ff2d5dc1c8f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:22:00.000Z",
+      "last_edited_time": "2024-11-14T06:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8027-bd0f-ff4f5ce5613c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-805d-be7b-c069b1f0bf85",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80d8-8c2f-c022df7d7cc6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "알고리즘 공부를 하기 전 알아두어야 할 개념인 ‘시간 복잡도’와 ‘공간 복잡도’ 그리고 Big O 표기법(빅오 표기법)을 훑어보고자 합니다. 알고리즘은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "알고리즘 공부를 하기 전 알아두어야 할 개념인 ‘시간 복잡도’와 ‘공간 복잡도’ 그리고 Big O 표기법(빅오 표기법)을 훑어보고자 합니다. 알고리즘은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "어떤 문제를 해결하기 위해 밟아 나가는 일련의 절차",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "어떤 문제를 해결하기 위해 밟아 나가는 일련의 절차",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 혹은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 혹은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "어떠한 문제를 해결하기 위한 동작의 모임",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "어떠한 문제를 해결하기 위한 동작의 모임",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 말합니다. 알고리즘은 어떠한 경우에도 항상 같은 실행결과가 나와야 하며, 이 결과가 알고리즘이 해결하는 문제의 정확한 답이어야 합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 말합니다. 알고리즘은 어떠한 경우에도 항상 같은 실행결과가 나와야 하며, 이 결과가 알고리즘이 해결하는 문제의 정확한 답이어야 합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80cf-8b19-f091b5868473",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "우리가 문제를 해결하는데 있어 효율이 가장 좋은 방법을 찾아내 적용하듯이 알고리즘도 마찬가지입니다. 코딩 테스트 문제를 풀 때도 다양한 알고리즘 중에 가장 최선의 알고리즘을 찾아내 풀어야 합니다. 이 때 필요한 기준이 바로 시간 복잡도와 공간 복잡도 입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "우리가 문제를 해결하는데 있어 효율이 가장 좋은 방법을 찾아내 적용하듯이 알고리즘도 마찬가지입니다. 코딩 테스트 문제를 풀 때도 다양한 알고리즘 중에 가장 최선의 알고리즘을 찾아내 풀어야 합니다. 이 때 필요한 기준이 바로 시간 복잡도와 공간 복잡도 입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a3-b328-f89814d97ef1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-804c-883f-d893e6359644",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8066-bc1f-e1ae6ea1e7eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#복잡도?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#복잡도?",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 🤔",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 🤔",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80bf-82bd-f97312ddd17f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80f5-91e4-e6ae7dd5f332",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "복잡도(complexity)는 알고리즘의 성능을 나타내는 척도",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "복잡도(complexity)는 알고리즘의 성능을 나타내는 척도",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "입니다. 복잡도는 시간복잡도와 공간복잡도로 나뉘는데 간략하게 말하자면",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "입니다. 복잡도는 시간복잡도와 공간복잡도로 나뉘는데 간략하게 말하자면",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8030-9536-fad8cd48aa2a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80e1-b0bc-fdab2ce6e5b4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "시간 복잡도는 ‘알고리즘을 위해 필요한 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "시간 복잡도는 ‘알고리즘을 위해 필요한 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "연산의 횟수",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "연산의 횟수",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "’",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "’",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b9-a2af-f29d3c19ee30",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "공간 복잡도는 ‘알고리즘을 위해 필요한 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "공간 복잡도는 ‘알고리즘을 위해 필요한 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "메모리의 양",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "메모리의 양",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "’",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "’",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a5-8117-cbcbec13f3c4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8061-a902-eb21f9acab84",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "정도로 요약해볼 수 있습니다. 복잡도가 낮을 수록 좋은 알고리즘이며, 두 복잡도를 각각 정리하자면 아래와 같습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정도로 요약해볼 수 있습니다. 복잡도가 낮을 수록 좋은 알고리즘이며, 두 복잡도를 각각 정리하자면 아래와 같습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80da-bc1c-da8298445357",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80c5-8096-c20673e0fae8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "시간 복잡도(Time Complexity).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "시간 복잡도(Time Complexity).",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80f6-9165-d71542f153cc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c5-8096-c20673e0fae8"
+          },
+          "created_time": "2024-11-14T06:23:00.000Z",
+          "last_edited_time": "2024-11-14T06:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "입력 크기에 대한 연산 횟수의 상한을 뜻합니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "입력 크기에 대한 연산 횟수의 상한을 뜻합니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-809b-b813-ec100c4e8f2e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c5-8096-c20673e0fae8"
+          },
+          "created_time": "2024-11-14T06:23:00.000Z",
+          "last_edited_time": "2024-11-14T06:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "즉, 입력이 커질수록 알고리즘의 실행 속도가 어떻게 바뀌는지를 말합니다. (=입력에 따라 알고리즘의 연산 횟수가 얼마나 늘어나고 시간이 얼마나 걸리는지)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "즉, 입력이 커질수록 알고리즘의 실행 속도가 어떻게 바뀌는지를 말합니다. (=입력에 따라 알고리즘의 연산 횟수가 얼마나 늘어나고 시간이 얼마나 걸리는지)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-801c-8f25-ea72a717aef2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c5-8096-c20673e0fae8"
+          },
+          "created_time": "2024-11-14T06:23:00.000Z",
+          "last_edited_time": "2024-11-14T06:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "가장 효율적으로 해결하는 알고리즘을 찾기 위한 기준이자 알고리즘의 성능을 나타내는 지표이기도 합니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "가장 효율적으로 해결하는 알고리즘을 찾기 위한 기준이자 알고리즘의 성능을 나타내는 지표이기도 합니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80fc-821a-c83d11d98e2d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-80c5-8096-c20673e0fae8"
+          },
+          "created_time": "2024-11-14T06:23:00.000Z",
+          "last_edited_time": "2024-11-14T06:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "알고리즘의 시간 복잡도는 주로 Big O 표기법을 사용하며 나타낸다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "알고리즘의 시간 복잡도는 주로 Big O 표기법을 사용하며 나타낸다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8059-8696-f0fac648eb67",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "공간 복잡도(Space Complexity)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "공간 복잡도(Space Complexity)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80ea-ae00-e0daea08fd65",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8059-8696-f0fac648eb67"
+          },
+          "created_time": "2024-11-14T06:23:00.000Z",
+          "last_edited_time": "2024-11-14T06:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "입력이 커질 수록 알고리즘이 얼마나 많은 공간을 차지 하는지를 말합니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "입력이 커질 수록 알고리즘이 얼마나 많은 공간을 차지 하는지를 말합니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-801f-95d2-c9a43f48f648",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8059-8696-f0fac648eb67"
+          },
+          "created_time": "2024-11-14T06:23:00.000Z",
+          "last_edited_time": "2024-11-14T06:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "여기에서 공간은 프로그램 자체가 차지하는 메모리를 말합니다. (=입력이 커질 수록 얼마나 많은 공간(사용되는 메모리)를 차지 하는지’)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "여기에서 공간은 프로그램 자체가 차지하는 메모리를 말합니다. (=입력이 커질 수록 얼마나 많은 공간(사용되는 메모리)를 차지 하는지’)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8035-9b10-eae17192fc20",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8059-8696-f0fac648eb67"
+          },
+          "created_time": "2024-11-14T06:23:00.000Z",
+          "last_edited_time": "2024-11-14T06:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "n의 크기에 따라 알고리즘이 데이터를 저장하기 위해 사용되는 메모리가 달라집니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "n의 크기에 따라 알고리즘이 데이터를 저장하기 위해 사용되는 메모리가 달라집니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80a5-98c0-ff07e7b36c75",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8059-8696-f0fac648eb67"
+          },
+          "created_time": "2024-11-14T06:23:00.000Z",
+          "last_edited_time": "2024-11-14T06:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "일반적으로 메모리 사용량 기준은 MB로 제시됩니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "일반적으로 메모리 사용량 기준은 MB로 제시됩니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-8006-91e9-c8c5f8ebced3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8059-8696-f0fac648eb67"
+          },
+          "created_time": "2024-11-14T06:24:00.000Z",
+          "last_edited_time": "2024-11-14T06:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13e33ccb-0cd0-80bd-917a-c164dd56285d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13e33ccb-0cd0-8059-8696-f0fac648eb67"
+          },
+          "created_time": "2024-11-14T06:24:00.000Z",
+          "last_edited_time": "2024-11-14T06:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-800a-bffe-f4061fb3004e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#복잡도를 표현하는 방법, Big O 표기법",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#복잡도를 표현하는 방법, Big O 표기법",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8015-b214-ebb340f68f79",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8022-a9ed-e17525bfb87a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Big O 표기법(Big O Notation)은 n(입력값)이 커짐에 따라 알고리즘의 시간 또는 공간의 요건이 얼마나 커지는가를 나타내는 방법을 말합니다. 입력이 증가함에 따라 알고리즘의 실행 시간이 어떻게 변화하는지 설명하는 방식입니다. 빅오 표기법은 알고리즘 수행 시간을 대략적으로 나타내는 방법인 점근 표기법 중 하나 입니다. 대표적인 점근 표기법은 아래와 같습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Big O 표기법(Big O Notation)은 n(입력값)이 커짐에 따라 알고리즘의 시간 또는 공간의 요건이 얼마나 커지는가를 나타내는 방법을 말합니다. 입력이 증가함에 따라 알고리즘의 실행 시간이 어떻게 변화하는지 설명하는 방식입니다. 빅오 표기법은 알고리즘 수행 시간을 대략적으로 나타내는 방법인 점근 표기법 중 하나 입니다. 대표적인 점근 표기법은 아래와 같습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8030-859d-e3d3b43d858a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-809f-8378-fac4dfc54748",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "O(Big O) 표기법: 알고리즘 성능이 최악인 경우(수행 시간의 상한)를 나타낼 때 사용(가장 느린 케이스)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "O(Big O) 표기법: 알고리즘 성능이 최악인 경우(수행 시간의 상한)를 나타낼 때 사용(가장 느린 케이스)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-807a-be6f-f8dd403043ce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ω(Big Omega) 표기법: 알고리즘의 성능이 최선인 경우(수행 시간의 하한)를 나타낼 때 사용 (가장 빠른 케이스)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ω(Big Omega) 표기법: 알고리즘의 성능이 최선인 경우(수행 시간의 하한)를 나타낼 때 사용 (가장 빠른 케이스)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-805f-a68d-c9d8a808929b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Θ(Big Theta) 표기법: 알고리즘이 처리해야 하는 수행 시간의 상한과 하한을 동시에 나타냄 (평균적인 케이스)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Θ(Big Theta) 표기법: 알고리즘이 처리해야 하는 수행 시간의 상한과 하한을 동시에 나타냄 (평균적인 케이스)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b5-a7af-e5c1e77d0de5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8066-bb4c-e2ccf3ce22a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 중 최악의 경우에 대한 알고리즘 수행 시간이 가장 쓸모가 많기 때문에 알고리즘 성능 표기법으로는 Big O가 가장 많이 쓰입니다. 빅오의 핵심은 아래와 같습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 중 최악의 경우에 대한 알고리즘 수행 시간이 가장 쓸모가 많기 때문에 알고리즘 성능 표기법으로는 Big O가 가장 많이 쓰입니다. 빅오의 핵심은 아래와 같습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a8-a4da-cc2f3dfbdf54",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80f9-8113-fa2f418c122c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "만약 어떤 문제에 해결책이 2개가 있다면? 하나는 루프를 사용하고, 하나는 리스트나 문자열을 이용한다고 한다면 어떤 게 더 좋을까?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "만약 어떤 문제에 해결책이 2개가 있다면? 하나는 루프를 사용하고, 하나는 리스트나 문자열을 이용한다고 한다면 어떤 게 더 좋을까?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-807d-97a1-db83ba06c914",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80f1-8cfd-da34cae4a287",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 때 사용되는 게 바로 빅오 입니다. O(n), O(1) 등의 빅오 표기법을 통해 여러가지 코드를 비교하고 성능을 평가해 최선의 알고리즘을 찾을 수 있습니다. Big O 표기법에서 가장 많이 사용되는 함수를 가장 효율적인 최선에서 가장 비효율적인 최악의 순서로 나열한다면 아래와 같습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 때 사용되는 게 바로 빅오 입니다. O(n), O(1) 등의 빅오 표기법을 통해 여러가지 코드를 비교하고 성능을 평가해 최선의 알고리즘을 찾을 수 있습니다. Big O 표기법에서 가장 많이 사용되는 함수를 가장 효율적인 최선에서 가장 비효율적인 최악의 순서로 나열한다면 아래와 같습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80d9-815a-dff12aa7ac0d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80fd-8848-c1c873f4739b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "상수 시간(가장 효율적) -> 로그 시간 -> 선형 시간 -> 선형 로그 시간 -> 2차 시간 -> 3차 시간 -> 지수 시간(가장 비효율적)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "상수 시간(가장 효율적) -> 로그 시간 -> 선형 시간 -> 선형 로그 시간 -> 2차 시간 -> 3차 시간 -> 지수 시간(가장 비효율적)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80d0-bfe4-d53ee9d49211",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "우리는 이중에서도 상수 시간과 선형 시간을 살펴보고자 합니다. 예시를 사용해 살펴보겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "우리는 이중에서도 상수 시간과 선형 시간을 살펴보고자 합니다. 예시를 사용해 살펴보겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8072-822e-dbac271d014d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80d5-bee7-c05946db4029",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:24:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "function add(n) {\n    let total = 0;\n    for (let i=i; i<=n;i++) {\n        total += i\n    }\n    return total;\n}\n\nfunction add(n){\n    return n * (n+1) /2\n}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "function add(n) {\n    let total = 0;\n    for (let i=i; i<=n;i++) {\n        total += i\n    }\n    return total;\n}\n\nfunction add(n){\n    return n * (n+1) /2\n}",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-800f-b3a0-f93fdaeabf67",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80da-9bbf-e016f228bad0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 두 개의 예시 중 어떤 게 더 나을까요? 여기에서 더 낫다는 기준은 ‘어떤 코드가 더 빠르게 실행될까요?’로 하곘습니다. (보통 복잡도를 말할 때 시간 복잡도로 이야기 하니까요.) 답을 먼저 말하자면 두 번째 예시가 복잡도가 낮아 더 최선의 알고리즘이라고 볼 수 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 두 개의 예시 중 어떤 게 더 나을까요? 여기에서 더 낫다는 기준은 ‘어떤 코드가 더 빠르게 실행될까요?’로 하곘습니다. (보통 복잡도를 말할 때 시간 복잡도로 이야기 하니까요.) 답을 먼저 말하자면 두 번째 예시가 복잡도가 낮아 더 최선의 알고리즘이라고 볼 수 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80c9-8214-f0917221ede1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:25:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8057-b810-d6ba89e81e9f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#어떻게 구했냐면…✍️",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#어떻게 구했냐면…✍️",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-809e-a081-e80e8cd1fb3a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:25:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-803d-b175-ec728bdabbde",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "시간 복잡도에서는 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "시간 복잡도에서는 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "‘컴퓨터가 처리해야할 연산 갯수’",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "‘컴퓨터가 처리해야할 연산 갯수’",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "를 세면 됩니다. 여기에서 연산은 더하기, 뺄셈, 곱셈, 나누기 등을 말합니다. 두 번째 예시를 살펴볼까요? 두 번째 예시에는 곱하기(*), 더하기(+), 나누기(/) 이렇게 세 가지 연산이 있습니다. 예시의 n 값에 숫자를 넣어 진행해보겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "를 세면 됩니다. 여기에서 연산은 더하기, 뺄셈, 곱셈, 나누기 등을 말합니다. 두 번째 예시를 살펴볼까요? 두 번째 예시에는 곱하기(*), 더하기(+), 나누기(/) 이렇게 세 가지 연산이 있습니다. 예시의 n 값에 숫자를 넣어 진행해보겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80dd-a78e-fae87aa65f2d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:25:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8081-947d-f6888d6bf84b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:25:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "function add(3){\n    return 3 * (3+1) /2\n    ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "function add(3){\n    return 3 * (3+1) /2\n    ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "//6",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "//6",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "}\n\nfunction add(6){\n    return 6 * (6+1) /2\n    ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "}\n\nfunction add(6){\n    return 6 * (6+1) /2\n    ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "//21",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "//21",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "}",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80e3-b4a3-d565f0092da3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-803a-8299-fa4fac1c618c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "해당 예시에서는 n에 어떤 숫자를 집어 넣든지 간에 연산은 세 번 이루어집니다. 곱하고 더하고 나누고. 끝이에요! n이 커져도 실행시간에는 아무 영향을 받지 않는 두번 째 예시는 O(1)로 표현할 수 있습니다. (3번인데 왜 1로 표현하느냐고 물어볼 수 있겠습니다만, 아래에서 다시 이야기 하겠습니다.) 이에 비해 첫 번째 예시를 살펴보면 ‘total +=1’에서 볼 수 있는 더하기 연산은 for 문 안에서 이루어지는 걸 볼 수 있습니다. 루프는 n의 값만큼 돌아가므로 연산도 n의 값만큼 실행됩니다. 여기도 n 값에 숫자를 넣어볼까요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "해당 예시에서는 n에 어떤 숫자를 집어 넣든지 간에 연산은 세 번 이루어집니다. 곱하고 더하고 나누고. 끝이에요! n이 커져도 실행시간에는 아무 영향을 받지 않는 두번 째 예시는 O(1)로 표현할 수 있습니다. (3번인데 왜 1로 표현하느냐고 물어볼 수 있겠습니다만, 아래에서 다시 이야기 하겠습니다.) 이에 비해 첫 번째 예시를 살펴보면 ‘total +=1’에서 볼 수 있는 더하기 연산은 for 문 안에서 이루어지는 걸 볼 수 있습니다. 루프는 n의 값만큼 돌아가므로 연산도 n의 값만큼 실행됩니다. 여기도 n 값에 숫자를 넣어볼까요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8053-8da4-c0abbf874125",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:25:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-801d-bb88-f691ed1e49e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:25:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "function add(3) {\n    let total = 0;\n    for (let i=1; i<=3;i++) {\n        total += i\n    }\n    return total;\n    ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "function add(3) {\n    let total = 0;\n    for (let i=1; i<=3;i++) {\n        total += i\n    }\n    return total;\n    ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "// 6",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "// 6",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "}\n\nfunction add(5) {\n    let total = 0;\n    for (let i=1; i<=5;i++) {\n        total += i\n    }\n    return total;\n    ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "}\n\nfunction add(5) {\n    let total = 0;\n    for (let i=1; i<=5;i++) {\n        total += i\n    }\n    return total;\n    ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "// 15",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "// 15",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "}",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ae-bf98-c93a4435c62d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:25:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8032-912c-e2249f1c521b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "입력한 n 값에 따라 연산 횟수가 달라지는 걸 볼 수 있습니다. n이 커질수록 연산긔 갯수가 비례적으로 늘어납니다. 우리는 n이 커질 수록 실행시간이 같이 늘어나는 첫 번째 예시를 O(n)으로 표현할 수 있습니다. i++도 있고 n 값에 따라 변하는 i<=n도 있는데 왜 O(n)이냐, O(3n)이나 뭐 이렇게 해야하는 거 아니냐 하시겠지만, 빅오는 상수를 없애고 단순화해서 비교하기 때문 상수가 붙더라도 O(n), O(1), O(n^2) 등으로 단순화 합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "입력한 n 값에 따라 연산 횟수가 달라지는 걸 볼 수 있습니다. n이 커질수록 연산긔 갯수가 비례적으로 늘어납니다. 우리는 n이 커질 수록 실행시간이 같이 늘어나는 첫 번째 예시를 O(n)으로 표현할 수 있습니다. i++도 있고 n 값에 따라 변하는 i<=n도 있는데 왜 O(n)이냐, O(3n)이나 뭐 이렇게 해야하는 거 아니냐 하시겠지만, 빅오는 상수를 없애고 단순화해서 비교하기 때문 상수가 붙더라도 O(n), O(1), O(n^2) 등으로 단순화 합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8000-ad8e-cc6362673253",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이렇게 오늘은 간략하게 시간복잡도, 공간 복잡도와 Big O 표기법이 무엇인지, 그 중 상수 시간과 선형 시간을 살펴보았습니다. 다음에는 남은 Big O 표기법을 예시를 통해 살펴보고 제대로 이해해보고자 합니다. 그럼 안녕!👋",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이렇게 오늘은 간략하게 시간복잡도, 공간 복잡도와 Big O 표기법이 무엇인지, 그 중 상수 시간과 선형 시간을 살펴보았습니다. 다음에는 남은 Big O 표기법을 예시를 통해 살펴보고 제대로 이해해보고자 합니다. 그럼 안녕!👋",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8072-99d4-ef7b9296901c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:25:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8078-b09e-f5499a8e6078",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:25:00.000Z",
+      "last_edited_time": "2024-11-14T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8038-bbfb-d37bc039f3f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📌 참고",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📌 참고",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80e5-99f7-eaa6e655b192",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://wikidocs.net/222560",
+              "link": {
+                "url": "https://wikidocs.net/222560"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://wikidocs.net/222560",
+            "href": "https://wikidocs.net/222560"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ca-8282-c2dcbdf61fd7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98",
+              "link": {
+                "url": "https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98",
+            "href": "https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8055-91f9-f4879ad7b23e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "시간복잡도 - 위키백과",
+              "link": {
+                "url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%84_%EB%B3%B5%EC%9E%A1%EB%8F%84"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "시간복잡도 - 위키백과",
+            "href": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%84_%EB%B3%B5%EC%9E%A1%EB%8F%84"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-802e-a442-c421d2a2c39a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "자바스크립트 알고리즘 & 자료구조 마스터 클래스(유데미)",
+              "link": {
+                "url": "https://www.udemy.com/course/best-javascript-data-structures/learn/lecture/28559303#content"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "자바스크립트 알고리즘 & 자료구조 마스터 클래스(유데미)",
+            "href": "https://www.udemy.com/course/best-javascript-data-structures/learn/lecture/28559303#content"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8082-9aa0-f743862685e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "시간복잡도 시각화 사이트",
+              "link": {
+                "url": "https://rithmschool.github.io/function-timer-demo/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "시간복잡도 시각화 사이트",
+            "href": "https://rithmschool.github.io/function-timer-demo/"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8051-aca2-f2867e6c2d4f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://www.hanbit.co.kr/media/channel/view.html?cms_code=CMS7965376216",
+              "link": {
+                "url": "https://www.hanbit.co.kr/media/channel/view.html?cms_code=CMS7965376216"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://www.hanbit.co.kr/media/channel/view.html?cms_code=CMS7965376216",
+            "href": "https://www.hanbit.co.kr/media/channel/view.html?cms_code=CMS7965376216"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-805a-b24f-e71515dc9109",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "나동빈님의 책 ‘이것이 취업을 위한 코딩테스트다 with 파이썬’",
+              "link": {
+                "url": "https://m.yes24.com/Goods/Detail/91433923"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "나동빈님의 책 ‘이것이 취업을 위한 코딩테스트다 with 파이썬’",
+            "href": "https://m.yes24.com/Goods/Detail/91433923"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b2-bdd5-c316f79746c4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:23:00.000Z",
+      "last_edited_time": "2024-11-14T06:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "알고리즘 복잡도란",
+              "link": {
+                "url": "https://velog.io/@ka0ka0ka/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84%EB%9E%80"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "알고리즘 복잡도란",
+            "href": "https://velog.io/@ka0ka0ka/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84%EB%9E%80"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-806e-b9e1-ce6bd4565226",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8025-9b0b-e6b407a07924"
+      },
+      "created_time": "2024-11-14T06:22:00.000Z",
+      "last_edited_time": "2024-11-14T06:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

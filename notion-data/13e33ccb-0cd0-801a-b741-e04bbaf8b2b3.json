@@ -1,0 +1,2567 @@
+{
+  "object": "page",
+  "id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3",
+  "created_time": "2024-11-14T06:10:00.000Z",
+  "last_edited_time": "2024-11-14T06:43:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "13d33ccb-0cd0-80a0-bf4e-f279d6d7e978"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "[알고리즘] Stack & Queue",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "[알고리즘] Stack & Queue",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Stack-Queue-13e33ccb0cd0801ab741e04bbaf8b2b3",
+  "public_url": null,
+  "request_id": "fec34eff-2f79-4374-a5a4-04556424750e",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8077-92e3-cc44c0882832",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a6-b4df-c7d0585a7304",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-807d-af8f-ee3a491226e8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# 스택(Stack)?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# 스택(Stack)?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8018-9170-fd5db2926caf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8006-8741-fd6b13d4851a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "스택은 데이터를 집어넣을 수 있는 선형(Linear) 자료 구조로, 가장 나중에 넣은 데이터를 가장 먼저 꺼냅니다. (LIFO_Last In First Out) 아래가 막혀있는 통이 있고 거기에 1,2,3 을 넣는다면, 1을 빼고 싶을 때 가장 나중에 들어갔던 3과2를 먼저 꺼내야합니다. 들어가는 입구와 자료가 나오는 출구가 동일 지점이라고 보시면 됩니다.스택은 서로 관계가 있는 여러 작업을 연달아 수행하며 이전의 작업 내용을 저장해둘 필요가 있을 때 사용됩니다. 스택과 관련된 주요 메소드는 아래와 같습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "스택은 데이터를 집어넣을 수 있는 선형(Linear) 자료 구조로, 가장 나중에 넣은 데이터를 가장 먼저 꺼냅니다. (LIFO_Last In First Out) 아래가 막혀있는 통이 있고 거기에 1,2,3 을 넣는다면, 1을 빼고 싶을 때 가장 나중에 들어갔던 3과2를 먼저 꺼내야합니다. 들어가는 입구와 자료가 나오는 출구가 동일 지점이라고 보시면 됩니다.스택은 서로 관계가 있는 여러 작업을 연달아 수행하며 이전의 작업 내용을 저장해둘 필요가 있을 때 사용됩니다. 스택과 관련된 주요 메소드는 아래와 같습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8087-a923-edaf40f1dd41",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8020-97a0-f3c4f8770836",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Push(넣을 아이템) : 데이터를 넣을 때 사용합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Push(넣을 아이템) : 데이터를 넣을 때 사용합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80f7-ba31-d9d6aff2d97c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:42:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pop() : 데이터를 꺼내는 작업을 할 때 사용합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pop() : 데이터를 꺼내는 작업을 할 때 사용합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8031-acef-d7e34660afab",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:42:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Peek() : 스택의 가장 위에 있는 항목을 조회할 때 사용합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Peek() : 스택의 가장 위에 있는 항목을 조회할 때 사용합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80de-a339-f966f01eaddf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:41:00.000Z",
+      "last_edited_time": "2024-11-14T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8052-bb9b-f914c8f2bf96",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "여기 ㅁ을 사용해 빈 스택을 만들어보겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여기 ㅁ을 사용해 빈 스택을 만들어보겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80f6-a84c-e3f5ec26291d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ㅁ\nㅁ\nㅁ\nㅁ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ㅁ\nㅁ\nㅁ\nㅁ",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8054-8955-dcff18605148",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:41:00.000Z",
+      "last_edited_time": "2024-11-14T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-808b-8b90-d6bec77cae3b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그럼 여기에 push를 사용해 A,B를 넣었다는 가정하에 pop()을 사용한다면 어떤 게 나올까요? 스택은 나중에 들어간 것이 가장 먼저 나오기 때문에 이 경우에는 B가 나올 겁니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그럼 여기에 push를 사용해 A,B를 넣었다는 가정하에 pop()을 사용한다면 어떤 게 나올까요? 스택은 나중에 들어간 것이 가장 먼저 나오기 때문에 이 경우에는 B가 나올 겁니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8006-8a93-fca11abf73ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:41:00.000Z",
+      "last_edited_time": "2024-11-14T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-809e-b08a-ed703e6928f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ㅁ   ㅁ\nㅁ   ㅁ\nㅁ   B\nA   A",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ㅁ   ㅁ\nㅁ   ㅁ\nㅁ   B\nA   A",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-805e-a752-f1ab1226f2dd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:41:00.000Z",
+      "last_edited_time": "2024-11-14T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a4-be3e-d513232eca4d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "자바스크립트에서는 배열을 사용해 스택을 사용하기 때문에, 코드로 표현한다면 아래와 같습니다. constructor는 클래스의 생성자 함수로 객체를 생성할 때 자동으로 호출되어 생성된 객체의 초기화를 담당합니다. 여기서도 마찬가지로 constructor함수에서 스택 요소 저장에 사용될 배열을 초기화 했습니다. 각 줄에 대한 설명은 주석으로 첨부하겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "자바스크립트에서는 배열을 사용해 스택을 사용하기 때문에, 코드로 표현한다면 아래와 같습니다. constructor는 클래스의 생성자 함수로 객체를 생성할 때 자동으로 호출되어 생성된 객체의 초기화를 담당합니다. 여기서도 마찬가지로 constructor함수에서 스택 요소 저장에 사용될 배열을 초기화 했습니다. 각 줄에 대한 설명은 주석으로 첨부하겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-801b-8b41-f91b9ba47214",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:41:00.000Z",
+      "last_edited_time": "2024-11-14T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-803e-bc11-ca4999f15897",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "class Stack { \n\tconstructor() { \n\t\t ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "class Stack { \n\tconstructor() { \n\t\t ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "//초기화 \n\t\t ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "//초기화 \n\t\t ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "this._arr = [];\n\t} \n\tpush(item) { \n\t\t ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "this._arr = [];\n\t} \n\tpush(item) { \n\t\t ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "//Stack 인스턴스의 _arr 배열을 참조해 push()를 사용했습니다. \n\t\t ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "//Stack 인스턴스의 _arr 배열을 참조해 push()를 사용했습니다. \n\t\t ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "this._arr.push(item);\n\t} \n\tpop() {\n\t\t",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "this._arr.push(item);\n\t} \n\tpop() {\n\t\t",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "//배열의 마지막 요소를 제거하고 값을 반환합니다. \n\t\t//여기에서도 _arr의 배열을 참조했습니다. \n\t\t",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "//배열의 마지막 요소를 제거하고 값을 반환합니다. \n\t\t//여기에서도 _arr의 배열을 참조했습니다. \n\t\t",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "return this._arr.pop();  \n\t} \n\tpeek() {\n\t\t",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "return this._arr.pop();  \n\t} \n\tpeek() {\n\t\t",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "//배열의 마지막 요소를 참조해 반환합니다. \n\t\t//배열의 길이에서 1을 빼면 마지막 요소의 인덱스가 됩니다. \n\t\t//단, peek는 반환해도 pop과 달리 제거하지 않습니다.\n\t\t",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "//배열의 마지막 요소를 참조해 반환합니다. \n\t\t//배열의 길이에서 1을 빼면 마지막 요소의 인덱스가 됩니다. \n\t\t//단, peek는 반환해도 pop과 달리 제거하지 않습니다.\n\t\t",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "return this._arr[this._arr.length - 1]; \n\t }  \n} \n\t const stack = new Stack(); \n\t \n\t stack.push(1); \n\t stack.push(2); \n\t stack.push(3); \n\t stack.pop(); ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "return this._arr[this._arr.length - 1]; \n\t }  \n} \n\t const stack = new Stack(); \n\t \n\t stack.push(1); \n\t stack.push(2); \n\t stack.push(3); \n\t stack.pop(); ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "// 3",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "// 3",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80c0-8c47-f02877897f49",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:41:00.000Z",
+      "last_edited_time": "2024-11-14T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80b0-8cc1-e5a7ea7b3b8d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:41:00.000Z",
+      "last_edited_time": "2024-11-14T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8041-a1f9-f284839ca178",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "스택은 보통 아래와 같은 사례에서 사용됩니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "스택은 보통 아래와 같은 사례에서 사용됩니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ad-84d3-d735c564cb4c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:42:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "- 재귀 알고리즘(재귀적으로 함수를 호출해야하는 경우, 임시 데이터를 스택에 넣어줍니다.)\n- 메소드 호출 스택\n- 웹 브라우저 방문기록(뒤로가기)\n- 실행취소\n- 역순 문자열 만들기\n- 후위 표기법 계산\n- 수식의 괄호 검사",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "- 재귀 알고리즘(재귀적으로 함수를 호출해야하는 경우, 임시 데이터를 스택에 넣어줍니다.)\n- 메소드 호출 스택\n- 웹 브라우저 방문기록(뒤로가기)\n- 실행취소\n- 역순 문자열 만들기\n- 후위 표기법 계산\n- 수식의 괄호 검사",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8005-98a2-e07e0841246e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:42:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ae-93dd-fc7644044bb6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:42:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8091-9c71-d32d76e47264",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# 큐(Queue)?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# 큐(Queue)?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-803f-a0fc-e1bca802c55e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:42:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80df-900b-e79d50285d75",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "큐는 스택과 마찬가지로 데이터를 저장하기 위한 선형(Linear) 자료구조지만, 데이터를 꺼내는 건 스택과 반대입니다. 큐는 가장 먼저 들어간 데이터를 가장 먼저 꺼냅니다.(FIFO_First In first Out) 스택이 아래가 막힌 원통이라면, 큐는 매표소를 예로 들 수 있습니다. 가장 먼저 온 사람이 표를 살 수 있듯이 큐 또한 가장 먼저 들어간 데이터가 우선적으로 나옵니다. 큐는 순서대로 처리해야하는 작업을 임시로 저장해주는 버퍼(buffer)로서 많이 사용됩니다. 큐와 관련된 용어는 아래와 같습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "큐는 스택과 마찬가지로 데이터를 저장하기 위한 선형(Linear) 자료구조지만, 데이터를 꺼내는 건 스택과 반대입니다. 큐는 가장 먼저 들어간 데이터를 가장 먼저 꺼냅니다.(FIFO_First In first Out) 스택이 아래가 막힌 원통이라면, 큐는 매표소를 예로 들 수 있습니다. 가장 먼저 온 사람이 표를 살 수 있듯이 큐 또한 가장 먼저 들어간 데이터가 우선적으로 나옵니다. 큐는 순서대로 처리해야하는 작업을 임시로 저장해주는 버퍼(buffer)로서 많이 사용됩니다. 큐와 관련된 용어는 아래와 같습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-804e-beca-f51833a55784",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:42:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-803c-bd37-ff618839673b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "front : 데이터를 꺼내는 쪽(맨 앞) 입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "front : 데이터를 꺼내는 쪽(맨 앞) 입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8029-9483-d6046b7244f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "rear: 데이터를 넣는 쪽(맨 뒤) 입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "rear: 데이터를 넣는 쪽(맨 뒤) 입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ac-bfce-d6207bea5b80",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "enqueue(넣을 아이템) : 데이터를 넣을 때 사용합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "enqueue(넣을 아이템) : 데이터를 넣을 때 사용합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-800d-b109-fa6dd5fa61c4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "dequeue() : 데이터를 꺼내는 작업을 할 때 사용합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "dequeue() : 데이터를 꺼내는 작업을 할 때 사용합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80fe-a84d-d8a4c369b5c4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "peek() : 큐의 가장 앞에 있는 항목을 조회할 때 사용합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "peek() : 큐의 가장 앞에 있는 항목을 조회할 때 사용합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8085-b629-dde0cba6794f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:42:00.000Z",
+      "last_edited_time": "2024-11-14T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8008-873c-f37286bd719a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "여기에서도 ㅁ을 사용해 빈 큐를 반들어보겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여기에서도 ㅁ을 사용해 빈 큐를 반들어보겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-800e-81ed-e547e6fe31fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:43:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a9-b56b-ee443d2a3710",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:43:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ㅁ ㅁ ㅁ ㅁ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ㅁ ㅁ ㅁ ㅁ",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8081-9891-d436d51cdcc1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80de-8fac-e2b2c9994a0a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그럼 여기에 enqueue를 사용해 A,B를 넣었다는 가정하에 pop()을 사용한다면 어떤 게 나올까요? 스택은 나중에 들어간 것이 가장 먼저 나오기 때문에 이 경우에는 B가 나올 겁니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그럼 여기에 enqueue를 사용해 A,B를 넣었다는 가정하에 pop()을 사용한다면 어떤 게 나올까요? 스택은 나중에 들어간 것이 가장 먼저 나오기 때문에 이 경우에는 B가 나올 겁니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80e2-8077-f62ec8d24f08",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:43:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a2-80d2-d47fe4b9b47d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:43:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A B ㅁ ㅁ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A B ㅁ ㅁ",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80c7-b6da-dea52f396399",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:43:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8036-853c-c0bcdf3ea2c7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "큐도 배열을 사용해 코드를 짜본다면 아래와 같습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "큐도 배열을 사용해 코드를 짜본다면 아래와 같습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80c2-b6f6-c02d654ea0d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:43:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8048-910d-fe2b7be01bbf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:43:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "class Queue { \n\tconstructor() { \n\t\tthis._arr = []; \n\t} \n\tenqueue(item) { \n\t\tthis._arr.push(item); \n\t} \n\tdequeue() { \n\t\treturn this._arr.shift(); ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "class Queue { \n\tconstructor() { \n\t\tthis._arr = []; \n\t} \n\tenqueue(item) { \n\t\tthis._arr.push(item); \n\t} \n\tdequeue() { \n\t\treturn this._arr.shift(); ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "//shift() 배열의 앞부분 삭제",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "//shift() 배열의 앞부분 삭제",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "} \n} \n\nconst queue = new Queue(); \n\nqueue.enqueue(1); \nqueue.enqueue(2); \nqueue.enqueue(3); \nqueue.dequeue(); ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "} \n} \n\nconst queue = new Queue(); \n\nqueue.enqueue(1); \nqueue.enqueue(2); \nqueue.enqueue(3); \nqueue.dequeue(); ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "// 1",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "// 1",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80f2-8ab6-d4cc2cb5e2a7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ec-96f8-f9d1ee1d772a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "큐는 보통 순서가 중요한 상황이나 데이터가 들어온 순서대로 처리되어야 할 때 주로 사용됩니다. 주로 아래와 같은 상황에서 사용할 수 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "큐는 보통 순서가 중요한 상황이나 데이터가 들어온 순서대로 처리되어야 할 때 주로 사용됩니다. 주로 아래와 같은 상황에서 사용할 수 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8075-802c-e86916d6fb9a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:43:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80ce-8531-e75423b44e6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "작업 스케줄링",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "작업 스케줄링",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8046-ba6f-dba00fe9ead3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "데이터 스트림 처리",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "데이터 스트림 처리",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-802d-bf01-e33e522ff332",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "인쇄 작업 관리",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "인쇄 작업 관리",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80a2-ae7a-d638e2e42154",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "고객 서비스 대기열",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "고객 서비스 대기열",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8041-9e19-fa6b5848c2d1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:43:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8083-9873-f1dd1fdc4b97",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:43:00.000Z",
+      "last_edited_time": "2024-11-14T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80d0-9649-dc07992065f2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📌 참고",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📌 참고",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-80d7-aae0-ffe0f19aaa07",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://helloworldjavascript.net/pages/282-data-structures.html",
+              "link": {
+                "url": "https://helloworldjavascript.net/pages/282-data-structures.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://helloworldjavascript.net/pages/282-data-structures.html",
+            "href": "https://helloworldjavascript.net/pages/282-data-structures.html"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8050-9cef-c1ef19b2e82d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "자료구조알고리즘-스택-큐",
+              "link": {
+                "url": "https://velog.io/@roro/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8A%A4%ED%83%9D-%ED%81%90"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "자료구조알고리즘-스택-큐",
+            "href": "https://velog.io/@roro/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8A%A4%ED%83%9D-%ED%81%90"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8076-afca-c0f770160967",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://xionwcfm.tistory.com/129",
+              "link": {
+                "url": "https://xionwcfm.tistory.com/129"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://xionwcfm.tistory.com/129",
+            "href": "https://xionwcfm.tistory.com/129"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13e33ccb-0cd0-8077-929e-cd736751a577",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-801a-b741-e04bbaf8b2b3"
+      },
+      "created_time": "2024-11-14T06:40:00.000Z",
+      "last_edited_time": "2024-11-14T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://chamdom.blog/queue-using-js/",
+              "link": {
+                "url": "https://chamdom.blog/queue-using-js/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://chamdom.blog/queue-using-js/",
+            "href": "https://chamdom.blog/queue-using-js/"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}
