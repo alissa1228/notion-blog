@@ -1,0 +1,2361 @@
+{
+  "object": "page",
+  "id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e",
+  "created_time": "2024-11-14T06:10:00.000Z",
+  "last_edited_time": "2024-11-16T08:47:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "13d33ccb-0cd0-80a0-bf4e-f279d6d7e978"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Notion blog에 resume 추가하기",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Notion blog에 resume 추가하기",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Notion-blog-resume-13e33ccb0cd08032a00ccb5696f58b7e",
+  "public_url": null,
+  "request_id": "d770ea9b-64ef-4a9b-9724-fa8c4420b2f2",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80aa-a3a8-f629df9ed888",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T05:50:00.000Z",
+      "last_edited_time": "2024-11-16T05:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8065-af8f-d761ee42e537",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T05:50:00.000Z",
+      "last_edited_time": "2024-11-16T05:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80e9-8420-de059e97cecb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T05:50:00.000Z",
+      "last_edited_time": "2024-11-16T08:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "notionpresso를 사용해 노션 블로그를 만든 김에, 기존에 있던 튜토리얼 guide 대신 해당 카테고리에 resume를 추가하려고 합니다. (블로그 외에 저를 소개하는 페이지가 있으면 좋겠다 싶었거든요.) 차근차근 가봅시다. 렛츠고",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "notionpresso를 사용해 노션 블로그를 만든 김에, 기존에 있던 튜토리얼 guide 대신 해당 카테고리에 resume를 추가하려고 합니다. (블로그 외에 저를 소개하는 페이지가 있으면 좋겠다 싶었거든요.) 차근차근 가봅시다. 렛츠고",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8082-8446-dc019ff6eb07",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:35:00.000Z",
+      "last_edited_time": "2024-11-16T08:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80bc-be17-d080003f4b42",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:36:00.000Z",
+      "last_edited_time": "2024-11-16T08:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-800b-8dad-e9a62a565a00",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:35:00.000Z",
+      "last_edited_time": "2024-11-16T08:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "우선 가져올 레쥬메를 준비해줍니다.노션 블로그에 올려놓을 resume를 노션 페이지에 추가해줍니다. 아이콘, 커버 없이 이미지는 제 사진만 들어갈 수 있도록 해두었습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "우선 가져올 레쥬메를 준비해줍니다.노션 블로그에 올려놓을 resume를 노션 페이지에 추가해줍니다. 아이콘, 커버 없이 이미지는 제 사진만 들어갈 수 있도록 해두었습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-80f8-8ff5-fb76d4ef611b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-800b-8dad-e9a62a565a00"
+          },
+          "created_time": "2024-11-16T08:35:00.000Z",
+          "last_edited_time": "2024-11-16T08:35:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80bc-9d6d-e8d96828b21e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T05:51:00.000Z",
+      "last_edited_time": "2024-11-16T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그 다음 guide 관련 디렉토리를 찾아봤습니다. 어떻게 되어있는 건지 파악을 좀 해봐야겠다 싶었습니다. 찾아보니 대략적으로 아래와 같았습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그 다음 guide 관련 디렉토리를 찾아봤습니다. 어떻게 되어있는 건지 파악을 좀 해봐야겠다 싶었습니다. 찾아보니 대략적으로 아래와 같았습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8042-bc24-e257deff7441",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80bc-9d6d-e8d96828b21e"
+          },
+          "created_time": "2024-11-16T06:03:00.000Z",
+          "last_edited_time": "2024-11-16T08:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "code",
+          "code": {
+            "caption": [],
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "-app\n\t|-guide\n\t\t|- page.tsx \n\t|-content\n\t\t|-guide.ts \n\t|-component.tsx\n\t\t|-nav.tsx",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "-app\n\t|-guide\n\t\t|- page.tsx \n\t|-content\n\t\t|-guide.ts \n\t|-component.tsx\n\t\t|-nav.tsx",
+                "href": null
+              }
+            ],
+            "language": "javascript"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80b1-9370-e1fe9d88505e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:10:00.000Z",
+      "last_edited_time": "2024-11-16T08:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80f6-9a9d-e2e51c1ccc7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:07:00.000Z",
+      "last_edited_time": "2024-11-16T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "살펴보다 생각보다 복잡하지 않은 듯해, 하나씩 만들어가면서 좀 더 파악해보기로 했습니다. 참고를 위해 가이드 파일은 지우지 않고 resume 파일을 넣어 진행했습니다. 먼저 위 디렉토리와 비슷하게 만들어주었습니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "살펴보다 생각보다 복잡하지 않은 듯해, 하나씩 만들어가면서 좀 더 파악해보기로 했습니다. 참고를 위해 가이드 파일은 지우지 않고 resume 파일을 넣어 진행했습니다. 먼저 위 디렉토리와 비슷하게 만들어주었습니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8059-94c1-c1874deeab07",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80f6-9a9d-e2e51c1ccc7e"
+          },
+          "created_time": "2024-11-16T07:10:00.000Z",
+          "last_edited_time": "2024-11-16T08:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "code",
+          "code": {
+            "caption": [],
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "-app\n\t|-resume\n\t\t|- page.tsx\n\t|-content\n\t\t|-resume.ts \n\t|-component.tsx\n\t\t|-nav.tsx",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "-app\n\t|-resume\n\t\t|- page.tsx\n\t|-content\n\t\t|-resume.ts \n\t|-component.tsx\n\t\t|-nav.tsx",
+                "href": null
+              }
+            ],
+            "language": "javascript"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-808d-bd46-df57690c08c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:13:00.000Z",
+      "last_edited_time": "2024-11-16T07:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-804b-8fb8-ee7287b342e1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:10:00.000Z",
+      "last_edited_time": "2024-11-16T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "content/resume.ts에 들어 가야할 노션 데이터가 필요하기 때문에 아래 커맨더를 사용해서 페이지를 가져와줍니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "content/resume.ts에 들어 가야할 노션 데이터가 필요하기 때문에 아래 커맨더를 사용해서 페이지를 가져와줍니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8043-81b4-d40810217eb9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-804b-8fb8-ee7287b342e1"
+          },
+          "created_time": "2024-11-16T07:14:00.000Z",
+          "last_edited_time": "2024-11-16T08:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "code",
+          "code": {
+            "caption": [],
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "npx npresso --page 페이지주소 --auth 노션API통합시크릿토큰",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "npx npresso --page 페이지주소 --auth 노션API통합시크릿토큰",
+                "href": null
+              }
+            ],
+            "language": "javascript"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8064-ac95-fb7797326ba3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:30:00.000Z",
+      "last_edited_time": "2024-11-16T07:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80c5-ad20-ff9700aef4d3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:14:00.000Z",
+      "last_edited_time": "2024-11-16T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "데이터를 가져 왔다면 content/resume.tsx 파일에 아래와 같이 적어줍니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "데이터를 가져 왔다면 content/resume.tsx 파일에 아래와 같이 적어줍니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-803d-8506-f61375a82f78",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80c5-ad20-ff9700aef4d3"
+          },
+          "created_time": "2024-11-16T07:31:00.000Z",
+          "last_edited_time": "2024-11-16T08:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "code",
+          "code": {
+            "caption": [],
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "import resumeContent from '../notion-data/20263ff7-6374-449d-b66f-7fd37fafa36b.json'\n\nexport const resume = {\n    title: \"해당 resume 타이틀\",\n    content : resumeContent as { blocks: any[] },\n    description: \"쓰고 싶은 설명\",\n    image: undefined,\n}\n\nexport default resume;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "import resumeContent from '../notion-data/20263ff7-6374-449d-b66f-7fd37fafa36b.json'\n\nexport const resume = {\n    title: \"해당 resume 타이틀\",\n    content : resumeContent as { blocks: any[] },\n    description: \"쓰고 싶은 설명\",\n    image: undefined,\n}\n\nexport default resume;",
+                "href": null
+              }
+            ],
+            "language": "javascript"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8037-baa4-fc0aa9a778fc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80c5-ad20-ff9700aef4d3"
+          },
+          "created_time": "2024-11-16T07:42:00.000Z",
+          "last_edited_time": "2024-11-16T08:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "⇒ 왜 이렇게 적어주냐… components/notion-renderer.tsx를 보면 알 수 있습니다. ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "⇒ 왜 이렇게 적어주냐… components/notion-renderer.tsx를 보면 알 수 있습니다. ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-801c-a69a-ebd30873b814",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80c5-ad20-ff9700aef4d3"
+          },
+          "created_time": "2024-11-16T07:42:00.000Z",
+          "last_edited_time": "2024-11-16T08:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "code",
+          "code": {
+            "caption": [],
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "'use client'\nimport { Notion } from \"@notionpresso/react\";\n\nexport default function NotionRenderer({ post }: { post: { title: string, content: { blocks: any[] }, image?: string } }) {\n  return (\n    <Notion>\n      <Notion.Cover src={post.image} />\n      <Notion.Body>\n        <Notion.Title title={post.title} />\n        <Notion.Blocks blocks={post.content.blocks} />\n      </Notion.Body>\n    </Notion>\n  )\n}",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "'use client'\nimport { Notion } from \"@notionpresso/react\";\n\nexport default function NotionRenderer({ post }: { post: { title: string, content: { blocks: any[] }, image?: string } }) {\n  return (\n    <Notion>\n      <Notion.Cover src={post.image} />\n      <Notion.Body>\n        <Notion.Title title={post.title} />\n        <Notion.Blocks blocks={post.content.blocks} />\n      </Notion.Body>\n    </Notion>\n  )\n}",
+                "href": null
+              }
+            ],
+            "language": "typescript"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-808c-8088-f8e7c8c8c818",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:42:00.000Z",
+      "last_edited_time": "2024-11-16T07:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80e0-be33-d81e1fe81f24",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:42:00.000Z",
+      "last_edited_time": "2024-11-16T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이렇게 작성된 NotionRenderer는 아까 만들어두었던app/resume/page.tsx에 아래와 같이 불러와줍니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이렇게 작성된 NotionRenderer는 아까 만들어두었던app/resume/page.tsx에 아래와 같이 불러와줍니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-80a6-b293-e24bcc3c984a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80e0-be33-d81e1fe81f24"
+          },
+          "created_time": "2024-11-16T07:43:00.000Z",
+          "last_edited_time": "2024-11-16T08:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "code",
+          "code": {
+            "caption": [],
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "import NotionRenderer from \"components/notion-renderer\";\nimport resume from \"content/resume\";\n\n\nexport default function Page() {\n  return (\n    <section>\n      <NotionRenderer post={resume} />\n    </section>\n  )\n}",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "import NotionRenderer from \"components/notion-renderer\";\nimport resume from \"content/resume\";\n\n\nexport default function Page() {\n  return (\n    <section>\n      <NotionRenderer post={resume} />\n    </section>\n  )\n}",
+                "href": null
+              }
+            ],
+            "language": "javascript"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8080-8ffb-f4c022ff9d87",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:42:00.000Z",
+      "last_edited_time": "2024-11-16T07:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-805a-ba66-f2df521f2316",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:42:00.000Z",
+      "last_edited_time": "2024-11-16T08:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "거꾸로 하나씩 올라가다보니 아래와 같이 정리가 되었습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "거꾸로 하나씩 올라가다보니 아래와 같이 정리가 되었습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80fa-9c12-e861ab1fccb2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:46:00.000Z",
+      "last_edited_time": "2024-11-16T08:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8039-8410-d710bce9d426",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:44:00.000Z",
+      "last_edited_time": "2024-11-16T08:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "정리",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정리",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8053-8dcc-d230d5835e10",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:46:00.000Z",
+      "last_edited_time": "2024-11-16T08:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8021-82f3-cf5a07c14de6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:46:00.000Z",
+      "last_edited_time": "2024-11-16T08:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80e0-8d04-d4c986809bf5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:44:00.000Z",
+      "last_edited_time": "2024-11-16T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "app/resume/page.tsx는 ‘/resume’ 경로에서 보여질 페이지입니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "app/resume/page.tsx는 ‘/resume’ 경로에서 보여질 페이지입니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8062-848b-f2798dcdae81",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80e0-8d04-d4c986809bf5"
+          },
+          "created_time": "2024-11-16T07:45:00.000Z",
+          "last_edited_time": "2024-11-16T08:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "이는 Next.js App Router 디렉토리 구조에 따라 자동으로 설정된 것입니다. ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "이는 Next.js App Router 디렉토리 구조에 따라 자동으로 설정된 것입니다. ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "14033ccb-0cd0-805f-8a4f-cc58c3c5ec4e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "14033ccb-0cd0-8062-848b-f2798dcdae81"
+              },
+              "created_time": "2024-11-16T07:52:00.000Z",
+              "last_edited_time": "2024-11-16T07:52:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "⇒ ‘/resume’를 들어갔을 때 page.tsx에 있는 컴포넌트가 해당 라우트에서 렌더링 됩니다.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "⇒ ‘/resume’를 들어갔을 때 page.tsx에 있는 컴포넌트가 해당 라우트에서 렌더링 됩니다.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "14033ccb-0cd0-8003-babf-c3f06c6d1f72",
+              "parent": {
+                "type": "block_id",
+                "block_id": "14033ccb-0cd0-8062-848b-f2798dcdae81"
+              },
+              "created_time": "2024-11-16T07:49:00.000Z",
+              "last_edited_time": "2024-11-16T07:52:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "quote",
+              "quote": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "A page is UI that is ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "A page is UI that is ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "unique",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "unique",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " to a route. You can define a page by default exporting a component from a ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " to a route. You can define a page by default exporting a component from a ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "page.js",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": true,
+                      "color": "default"
+                    },
+                    "plain_text": "page.js",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " file. For example, to create your ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " file. For example, to create your ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "index",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": true,
+                      "color": "default"
+                    },
+                    "plain_text": "index",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " page, add the ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " page, add the ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "page.js",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": true,
+                      "color": "default"
+                    },
+                    "plain_text": "page.js",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " file inside the ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " file inside the ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "app",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": true,
+                      "color": "default"
+                    },
+                    "plain_text": "app",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": " directory:",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": " directory:",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-80d4-b794-ed9907be2c47",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80e0-8d04-d4c986809bf5"
+          },
+          "created_time": "2024-11-16T07:38:00.000Z",
+          "last_edited_time": "2024-11-16T07:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80fa-bd81-f2ed103f126f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:53:00.000Z",
+      "last_edited_time": "2024-11-16T08:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "우리는 Notionpresso를 사용해 Notion에서 작성한 콘텐츠를 React 기반의 웹사이트에 가져와야 하기 때문에 NotionPresso에서 제시한 구조로 렌더링이 되도록 합니다. 따라서 관련 컴포넌트를 만들어주고 page.tsx에서 감싸줍니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "우리는 Notionpresso를 사용해 Notion에서 작성한 콘텐츠를 React 기반의 웹사이트에 가져와야 하기 때문에 NotionPresso에서 제시한 구조로 렌더링이 되도록 합니다. 따라서 관련 컴포넌트를 만들어주고 page.tsx에서 감싸줍니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8022-a0b9-deaa6f0034df",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80fa-bd81-f2ed103f126f"
+          },
+          "created_time": "2024-11-16T08:00:00.000Z",
+          "last_edited_time": "2024-11-16T08:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "components / notion-renderer.tsx",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "components / notion-renderer.tsx",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "14033ccb-0cd0-80fc-b616-f34d1e1db8b7",
+              "parent": {
+                "type": "block_id",
+                "block_id": "14033ccb-0cd0-8022-a0b9-deaa6f0034df"
+              },
+              "created_time": "2024-11-16T07:54:00.000Z",
+              "last_edited_time": "2024-11-16T08:00:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "code",
+              "code": {
+                "caption": [],
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "'use client'\nimport { Notion } from \"@notionpresso/react\";\n\nexport default function NotionRenderer({ post }: { post: { title: string, content: { blocks: any[] }, image?: string } }) {\n  return (\n    <Notion>\n      <Notion.Cover src={post.image} />\n      <Notion.Body>\n        <Notion.Title title={post.title} />\n        <Notion.Blocks blocks={post.content.blocks} />\n      </Notion.Body>\n    </Notion>\n  )\n}",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "'use client'\nimport { Notion } from \"@notionpresso/react\";\n\nexport default function NotionRenderer({ post }: { post: { title: string, content: { blocks: any[] }, image?: string } }) {\n  return (\n    <Notion>\n      <Notion.Cover src={post.image} />\n      <Notion.Body>\n        <Notion.Title title={post.title} />\n        <Notion.Blocks blocks={post.content.blocks} />\n      </Notion.Body>\n    </Notion>\n  )\n}",
+                    "href": null
+                  }
+                ],
+                "language": "javascript"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8019-b3a9-f969cb0afb7f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80fa-bd81-f2ed103f126f"
+          },
+          "created_time": "2024-11-16T08:00:00.000Z",
+          "last_edited_time": "2024-11-16T08:45:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "app/resume/page.tsx",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "app/resume/page.tsx",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "14033ccb-0cd0-8046-800d-d74f8b2f92be",
+              "parent": {
+                "type": "block_id",
+                "block_id": "14033ccb-0cd0-8019-b3a9-f969cb0afb7f"
+              },
+              "created_time": "2024-11-16T08:01:00.000Z",
+              "last_edited_time": "2024-11-16T08:19:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "code",
+              "code": {
+                "caption": [],
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "import NotionRenderer from \"components/notion-renderer\";\nimport resume from \"content/resume\";\n\nexport default function Page() {\n  return (\n    <section>\n      <NotionRenderer post={resume} />\n    </section>\n  )\n}",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "import NotionRenderer from \"components/notion-renderer\";\nimport resume from \"content/resume\";\n\nexport default function Page() {\n  return (\n    <section>\n      <NotionRenderer post={resume} />\n    </section>\n  )\n}",
+                    "href": null
+                  }
+                ],
+                "language": "javascript"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80ba-be00-d32eba15ef91",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:02:00.000Z",
+      "last_edited_time": "2024-11-16T08:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80aa-92d2-cc490706c6d4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:38:00.000Z",
+      "last_edited_time": "2024-11-16T08:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "content/resume.ts에 아래와 같이 필요한 정보들을 넣어줍니다. 필요한 정보는 components / notion-renderer.tsx을 참고합니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "content/resume.ts에 아래와 같이 필요한 정보들을 넣어줍니다. 필요한 정보는 components / notion-renderer.tsx을 참고합니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8099-98fe-fd83436b6509",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80aa-92d2-cc490706c6d4"
+          },
+          "created_time": "2024-11-16T08:01:00.000Z",
+          "last_edited_time": "2024-11-16T08:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "code",
+          "code": {
+            "caption": [],
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "import resumeContent from '../notion-data/20263ff7-6374-449d-b66f-7fd37fafa36b.json'\n\nexport const resume = {\n    title: \"Resume\",\n    content : resumeContent as { blocks: any[] },\n    description: \"Alissa's resume\",\n    image: undefined,\n}\n\nexport default resume;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "import resumeContent from '../notion-data/20263ff7-6374-449d-b66f-7fd37fafa36b.json'\n\nexport const resume = {\n    title: \"Resume\",\n    content : resumeContent as { blocks: any[] },\n    description: \"Alissa's resume\",\n    image: undefined,\n}\n\nexport default resume;",
+                "href": null
+              }
+            ],
+            "language": "typescript"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8034-8856-c28e259124cf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-80aa-92d2-cc490706c6d4"
+          },
+          "created_time": "2024-11-16T08:46:00.000Z",
+          "last_edited_time": "2024-11-16T08:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-800e-b357-d06407e2e923",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:01:00.000Z",
+      "last_edited_time": "2024-11-16T08:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "nav.tsx에 ‘/resume’에 접근할 수 있도록 추가해주었습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "nav.tsx에 ‘/resume’에 접근할 수 있도록 추가해주었습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8033-9bf1-ea6a282329c4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-800e-b357-d06407e2e923"
+          },
+          "created_time": "2024-11-16T07:35:00.000Z",
+          "last_edited_time": "2024-11-16T08:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "code",
+          "code": {
+            "caption": [],
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "  '/resume': {\n    name: 'resume',\n  },",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "  '/resume': {\n    name: 'resume',\n  },",
+                "href": null
+              }
+            ],
+            "language": "javascript"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-801e-afda-fd7c9ad52d94",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:37:00.000Z",
+      "last_edited_time": "2024-11-16T08:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8057-b758-c284530cc881",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T07:35:00.000Z",
+      "last_edited_time": "2024-11-16T08:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "짜잔! 완성입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "짜잔! 완성입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14033ccb-0cd0-8097-b66c-f774e0b61047",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14033ccb-0cd0-8057-b758-c284530cc881"
+          },
+          "created_time": "2024-11-16T08:20:00.000Z",
+          "last_edited_time": "2024-11-16T08:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "image",
+          "image": {
+            "caption": [],
+            "type": "file",
+            "file": {
+              "url": "/notion-data/13e33ccb-0cd0-8032-a00c-cb5696f58b7e/image_1.png",
+              "expiry_time": "2024-11-16T09:47:14.510Z"
+            }
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80af-b427-d3acd16c40fa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:21:00.000Z",
+      "last_edited_time": "2024-11-16T08:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-807f-bef9-c01c1dea8115",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:21:00.000Z",
+      "last_edited_time": "2024-11-16T08:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "+) 여기에 app/resume/page.tsx에 resume 페이지 관련 메타데이터까지 넣어주면 정말 완성입니다👍",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "+) 여기에 app/resume/page.tsx에 resume 페이지 관련 메타데이터까지 넣어주면 정말 완성입니다👍",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8047-b848-f15514e11cd6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:22:00.000Z",
+      "last_edited_time": "2024-11-16T08:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\nexport const metadata: Metadata = {\n    title: {   \n        absolute: resume.title,\n    },\n    description: resume.description,\n    openGraph: {\n        title: resume.title,\n        description: resume.description,\n        images: [\n            {\n                url: resume.image || '/new-profile.webp',\n                width: 800,\n                height: 600,\n                alt: `${resume.title} cover image`,\n            }\n        ],\n    },\n    twitter: {\n        card: 'summary_large_image',\n        title: resume.title,\n        description: resume.description,\n        images: [resume.image || '/new-profile.webp'],\n      },\n}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\nexport const metadata: Metadata = {\n    title: {   \n        absolute: resume.title,\n    },\n    description: resume.description,\n    openGraph: {\n        title: resume.title,\n        description: resume.description,\n        images: [\n            {\n                url: resume.image || '/new-profile.webp',\n                width: 800,\n                height: 600,\n                alt: `${resume.title} cover image`,\n            }\n        ],\n    },\n    twitter: {\n        card: 'summary_large_image',\n        title: resume.title,\n        description: resume.description,\n        images: [resume.image || '/new-profile.webp'],\n      },\n}",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80b1-884b-dbf3b1b62aa1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:28:00.000Z",
+      "last_edited_time": "2024-11-16T08:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8058-ae1a-f5d29e84bec2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:28:00.000Z",
+      "last_edited_time": "2024-11-16T08:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80ed-8bf9-d0e6aa922e35",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:28:00.000Z",
+      "last_edited_time": "2024-11-16T08:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80d3-acf8-ff65a371b3da",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:28:00.000Z",
+      "last_edited_time": "2024-11-16T08:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-8064-967f-cfec0d9ecf30",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:28:00.000Z",
+      "last_edited_time": "2024-11-16T08:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14033ccb-0cd0-80b3-b71c-dac8aae0974f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13e33ccb-0cd0-8032-a00c-cb5696f58b7e"
+      },
+      "created_time": "2024-11-16T08:24:00.000Z",
+      "last_edited_time": "2024-11-16T08:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

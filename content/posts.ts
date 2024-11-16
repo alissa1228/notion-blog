@@ -8,6 +8,7 @@ import post7 from '../notion-data/13e33ccb-0cd0-801a-b741-e04bbaf8b2b3.json'
 import post8 from '../notion-data/13e33ccb-0cd0-80b5-ae19-eb5c96c1b9ad.json'
 import post9 from '../notion-data/13e33ccb-0cd0-8083-b6a2-d408ed3cbe9a.json'
 import post10 from '../notion-data/13e33ccb-0cd0-8053-8e03-d9428abba057.json'
+import post11 from '../notion-data/13e33ccb-0cd0-8032-a00c-cb5696f58b7e.json'
 
 const posts = [
   {
@@ -36,7 +37,7 @@ const posts = [
     date: "2024-01-24",
     description: "모바일 앱을 만드는 방법은 개발 방법과 내부 기능에 따라 다양한 유형으로 나뉜다.",
     image: undefined,
-    tag:"개발"
+    tag:"DEV"
   }
   ,
   {
@@ -46,7 +47,7 @@ const posts = [
     date: "2024-01-26",
     description: "CSR,SSR의 차이는 무엇일까?",
     image: undefined,
-    tag:"개발"
+    tag:"DEV"
   }
   ,
   {
@@ -102,6 +103,15 @@ const posts = [
     description: "버블, 선택, 삽입, 퀵 정렬에 대해",
     image: undefined,
     tag:"알고리즘"
+  },
+  {
+    title: "Notion blog에 resume 추가하기",
+    slug: "add-resume",
+    content: post11,
+    date: "2024-11-16",
+    description: "guide 대신 resume를 추가해보자",
+    image: undefined,
+    tag:"DEV"
   }
 ] as Post[];
 
