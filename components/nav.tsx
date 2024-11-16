@@ -12,6 +12,9 @@ const navItems = {
   '/guide': {
     name: 'guide',
   },
+  '/resume': {
+    name: 'resume',
+  },
   'https://github.com/alissa1228': {
     name: 'github',
   },
