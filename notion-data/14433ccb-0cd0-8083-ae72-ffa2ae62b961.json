@@ -1,0 +1,616 @@
+{
+  "object": "page",
+  "id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961",
+  "created_time": "2024-11-20T07:03:00.000Z",
+  "last_edited_time": "2024-11-20T07:03:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "c4f64aa9-1141-4d0d-a03e-d264fc4b803c"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "<어느 가족> (万引き家族, Shoplifters, 2018)",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "<어느 가족> (万引き家族, Shoplifters, 2018)",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Shoplifters-2018-14433ccb0cd08083ae72ffa2ae62b961",
+  "public_url": null,
+  "request_id": "afb1dbe0-b288-4a34-8a72-ad08714592fd",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-81c5-8370-ec26be5a9d4e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-8157-9145-d05d71e7deb1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "  평범해 보이는 아버지와 아들이 마트로 들어온다. 주변과 다를 바 없어 보였던 이 부자는 흩어져 자리를 잡은 뒤 익숙한 듯 물건을 훔친다. 그 날도 무사히 한 건 성공한 오사무(릴리 프랭크)와 쇼타(죠 카이리)는 시장에서 산 고로케를 품에 안고 기분 좋게 집으로 돌아가던 중 복도 구석에 앉아 있던 유리(사사키 미유)를 발견한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "  평범해 보이는 아버지와 아들이 마트로 들어온다. 주변과 다를 바 없어 보였던 이 부자는 흩어져 자리를 잡은 뒤 익숙한 듯 물건을 훔친다. 그 날도 무사히 한 건 성공한 오사무(릴리 프랭크)와 쇼타(죠 카이리)는 시장에서 산 고로케를 품에 안고 기분 좋게 집으로 돌아가던 중 복도 구석에 앉아 있던 유리(사사키 미유)를 발견한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-8158-ab95-ef4aa8ec08b4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-81d5-977f-dd6aa8a7fea3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-8136-94f2-d55c37990d03",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-81f5-8f11-e7935621262f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 추운 겨울에 아이가 혼자 밖에 있는 것이 마음에 걸렸던 오사무는 유리를 집에 데려온다. 노부요(안도 사쿠라)는 오사무에게 유괴 아니냐며 집으로 돌려보내라 한다. 그러나 유리의 집 앞에서 낳고 싶어서 낳은 게 아니었다는 부부싸움 내용을 엿듣게 된 뒤 마음을 바꾼다. 그렇게 유리는 만비키(좀도둑) 가족의 막내가 된다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 추운 겨울에 아이가 혼자 밖에 있는 것이 마음에 걸렸던 오사무는 유리를 집에 데려온다. 노부요(안도 사쿠라)는 오사무에게 유괴 아니냐며 집으로 돌려보내라 한다. 그러나 유리의 집 앞에서 낳고 싶어서 낳은 게 아니었다는 부부싸움 내용을 엿듣게 된 뒤 마음을 바꾼다. 그렇게 유리는 만비키(좀도둑) 가족의 막내가 된다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-8110-885f-fbda5d553f4c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-814d-aeb8-e3ac73ebfe0b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "가짜를 진짜로 만드는 것",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "가짜를 진짜로 만드는 것",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-814e-9387-ca8d415e040a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 이상한 가족은 할머니(키키 키린)의 연금을 (그들 말로) 뜯어먹으면서 사는 가족이다. 진짜 혈육 관계라면 넘어가지 못할 부도덕한 일들도 개인의 삶의 일부분이라 치부하고 굳이 지적하지도 않는다. 각자의 영역을 존중해준다고 볼 수 있지만 결국 남이기에 할 수 있는 행동이다. 그러나 이들의 정서적 유대감은 진짜 가족들 못지않다. 유리가 등장하고 나서는 본격적으로 모두가 하나씩 의도적으로 가족 구성원 역할을 맡아가기도 한다.   이런 아이러니함은 만비키 가족 개개인이 ‘사회에게 무언가를 빼앗긴 사람들’이라는 공통점에서 기인한다. 복지 사각지대의 좁은 공간마저 잃어버릴 위기의 할머니, 일용직·비정규직이라는 이유로 노동자의 기본적인 권리조차 빼앗긴 오사무와 노부요, 가족들의 무관심으로 스스로 사라진 아키, 심지어 가정폭력으로 합류하게 된 유리까지 모두가 사회적 문제와 강하게 얽혀있다. 그렇기에 쇼타가 읽던 책의 물고기들처럼 현실의 작은 물고기들은 큰 물고기를 물리치기 위해 잔뜩 뭉치게 된 것이다. 함께 맛있는 걸 먹고 도둑질을 하거나 이야기를 하며 시간을 보내고 기차를 타고 바다에 놀러 가 추억을 쌓기도 한다. 겨울에서 봄으로, 봄에서 여름으로 시간이 축적되는 과정에서 가족은 유대감뿐만 아니라 힘든 일을 이겨내고 살아갈 힘을 얻는다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 이상한 가족은 할머니(키키 키린)의 연금을 (그들 말로) 뜯어먹으면서 사는 가족이다. 진짜 혈육 관계라면 넘어가지 못할 부도덕한 일들도 개인의 삶의 일부분이라 치부하고 굳이 지적하지도 않는다. 각자의 영역을 존중해준다고 볼 수 있지만 결국 남이기에 할 수 있는 행동이다. 그러나 이들의 정서적 유대감은 진짜 가족들 못지않다. 유리가 등장하고 나서는 본격적으로 모두가 하나씩 의도적으로 가족 구성원 역할을 맡아가기도 한다.   이런 아이러니함은 만비키 가족 개개인이 ‘사회에게 무언가를 빼앗긴 사람들’이라는 공통점에서 기인한다. 복지 사각지대의 좁은 공간마저 잃어버릴 위기의 할머니, 일용직·비정규직이라는 이유로 노동자의 기본적인 권리조차 빼앗긴 오사무와 노부요, 가족들의 무관심으로 스스로 사라진 아키, 심지어 가정폭력으로 합류하게 된 유리까지 모두가 사회적 문제와 강하게 얽혀있다. 그렇기에 쇼타가 읽던 책의 물고기들처럼 현실의 작은 물고기들은 큰 물고기를 물리치기 위해 잔뜩 뭉치게 된 것이다. 함께 맛있는 걸 먹고 도둑질을 하거나 이야기를 하며 시간을 보내고 기차를 타고 바다에 놀러 가 추억을 쌓기도 한다. 겨울에서 봄으로, 봄에서 여름으로 시간이 축적되는 과정에서 가족은 유대감뿐만 아니라 힘든 일을 이겨내고 살아갈 힘을 얻는다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-81fe-9dcc-fa079ff7f572",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-8128-bdcf-df1bc1c17ac5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "누가 아빠를 아저씨로 만들었나.",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "누가 아빠를 아저씨로 만들었나.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-8133-aba4-f4f2a190cab1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "당연히 영화는 마냥 서정적으로만 흘러가지 않는다. 앞의 평화로움을 한 번에 반전시킬 만큼의 큰 사건들을 넣어 가족을 집 밖으로 끌어내고 잔뜩 헤집어 버린다. 바깥에서의 그들은 정당화되지 않는다. 드러난 진실은 사람들에게 충격으로 다가오고 그들은 아이를 유괴하고 할머니의 연금을 노린 사람들로 취급된다. 결국 경찰은 쇼타는 보육원으로 유리는 원래 가족에게 돌려보내기로 한다. 소식을 들은 노부요는 묻는다. 낳아준 사람이 진짜 엄마라고 할 수 있느냐고. 고레에다 히로카즈 감독이 <그렇게 아버지가 된다.>에서 한 번 물었던 질문이다. 그 질문에 바깥의 현실이 되묻는다. 아이들이 당신을 무어라 불렀냐고. 노부요가 할 수 있는 답은 복잡한 감정에서 비롯된 눈물과 “글쎄요. 뭐라고 불렀을까요….”밖에 없다. 피나 시간의 축적 문제를 차치하더라도 집 밖과 집 안은 너무나 달라서 애정을 제대로 입증할 방법도 정당화 할 수 있는 수단도 없기 때문에.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "당연히 영화는 마냥 서정적으로만 흘러가지 않는다. 앞의 평화로움을 한 번에 반전시킬 만큼의 큰 사건들을 넣어 가족을 집 밖으로 끌어내고 잔뜩 헤집어 버린다. 바깥에서의 그들은 정당화되지 않는다. 드러난 진실은 사람들에게 충격으로 다가오고 그들은 아이를 유괴하고 할머니의 연금을 노린 사람들로 취급된다. 결국 경찰은 쇼타는 보육원으로 유리는 원래 가족에게 돌려보내기로 한다. 소식을 들은 노부요는 묻는다. 낳아준 사람이 진짜 엄마라고 할 수 있느냐고. 고레에다 히로카즈 감독이 <그렇게 아버지가 된다.>에서 한 번 물었던 질문이다. 그 질문에 바깥의 현실이 되묻는다. 아이들이 당신을 무어라 불렀냐고. 노부요가 할 수 있는 답은 복잡한 감정에서 비롯된 눈물과 “글쎄요. 뭐라고 불렀을까요….”밖에 없다. 피나 시간의 축적 문제를 차치하더라도 집 밖과 집 안은 너무나 달라서 애정을 제대로 입증할 방법도 정당화 할 수 있는 수단도 없기 때문에.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-8181-bbfc-eff488091f5a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "우습게도 이런 가족을 해체 해버리는 건 정작 진짜 가족을 운운하던 집 밖의 사회다. 사회는 모든 책임을 개인에게 떠넘긴다. 왜 그들이 그렇게 살 수밖에 없었는지, 왜 가족 앞에 ‘좀도둑’이 붙었는지 생각하지 않고 당신이 잘못해서 그렇다며 비난한다. 여기에 힘없고 가난한 가족들은 그저 휩쓸려갈 뿐이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "우습게도 이런 가족을 해체 해버리는 건 정작 진짜 가족을 운운하던 집 밖의 사회다. 사회는 모든 책임을 개인에게 떠넘긴다. 왜 그들이 그렇게 살 수밖에 없었는지, 왜 가족 앞에 ‘좀도둑’이 붙었는지 생각하지 않고 당신이 잘못해서 그렇다며 비난한다. 여기에 힘없고 가난한 가족들은 그저 휩쓸려갈 뿐이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-811a-9b36-e8c0e83871dd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14433ccb-0cd0-81a9-8674-e7c7a5d305e6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14433ccb-0cd0-8083-ae72-ffa2ae62b961"
+      },
+      "created_time": "2024-11-20T07:03:00.000Z",
+      "last_edited_time": "2024-11-20T07:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "가족의 해체 이후, 노부요와 오사무는 쇼타의 미래를 위해 아픔을 뒤로하고 아이를 놓아준다. 오사무는“아빠는 이제 아저씨로 돌아갈게.”라고 하면서도 쇼타가 사라지는 순간까지 눈을 떼지 못한다. 쇼타 또한 소리 내어 말하지는 못했지만 오사무를 보며 ‘아빠’라고 부른다. 조그만 어린아이인 유리도 다르지 않다. 유리는 노부요와 목욕하며 불렀던 숫자 노래를 흥얼거리며 누군가를 기다리듯이 건물 바깥을 가만히 응시한다. 그 눈빛에는 여전히 애정과 추억에 대한 그리움이 느껴지는 듯하다. 가족이 가족일 수 없어서일까, 고레에다 히로카즈 감독이 전하고자 하는 <어느 가족>은 유독 가슴이 시리다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "가족의 해체 이후, 노부요와 오사무는 쇼타의 미래를 위해 아픔을 뒤로하고 아이를 놓아준다. 오사무는“아빠는 이제 아저씨로 돌아갈게.”라고 하면서도 쇼타가 사라지는 순간까지 눈을 떼지 못한다. 쇼타 또한 소리 내어 말하지는 못했지만 오사무를 보며 ‘아빠’라고 부른다. 조그만 어린아이인 유리도 다르지 않다. 유리는 노부요와 목욕하며 불렀던 숫자 노래를 흥얼거리며 누군가를 기다리듯이 건물 바깥을 가만히 응시한다. 그 눈빛에는 여전히 애정과 추억에 대한 그리움이 느껴지는 듯하다. 가족이 가족일 수 없어서일까, 고레에다 히로카즈 감독이 전하고자 하는 <어느 가족>은 유독 가슴이 시리다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}
