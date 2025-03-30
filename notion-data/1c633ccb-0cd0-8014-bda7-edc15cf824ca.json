@@ -1,0 +1,3999 @@
+{
+  "object": "page",
+  "id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca",
+  "created_time": "2025-03-30T16:44:00.000Z",
+  "last_edited_time": "2025-03-30T17:03:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "57de8310-bd51-49ca-a2f4-910c47a91342"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "윤정민 | 기획자",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "윤정민 | 기획자",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/1c633ccb0cd08014bda7edc15cf824ca",
+  "public_url": null,
+  "request_id": "38ecd584-bd83-410a-88d4-0988fc672421",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-80c7-9a35-d44c730d31b8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:44:00.000Z",
+      "last_edited_time": "2025-03-30T16:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-809e-b934-e46d58eec958",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:44:00.000Z",
+      "last_edited_time": "2025-03-30T16:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-808b-ad2a-cb2941dc2b18",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-809e-b934-e46d58eec958"
+          },
+          "created_time": "2025-03-30T16:44:00.000Z",
+          "last_edited_time": "2025-03-30T16:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-8051-a82a-d4170aee6b04",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-808b-ad2a-cb2941dc2b18"
+              },
+              "created_time": "2025-03-30T16:44:00.000Z",
+              "last_edited_time": "2025-03-30T16:44:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/notion-data/1c633ccb-0cd0-8014-bda7-edc15cf824ca/image_1.jpg",
+                  "expiry_time": "2025-03-30T18:05:07.317Z"
+                }
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-80ae-9856-d62c6563600b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-809e-b934-e46d58eec958"
+          },
+          "created_time": "2025-03-30T16:44:00.000Z",
+          "last_edited_time": "2025-03-30T16:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-807a-b155-fb4a88393394",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-80ae-9856-d62c6563600b"
+              },
+              "created_time": "2025-03-30T16:44:00.000Z",
+              "last_edited_time": "2025-03-30T16:44:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "heading_3",
+              "heading_3": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Contact",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Contact",
+                    "href": null
+                  }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80d6-b81a-fcd7fd5124d2",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-80ae-9856-d62c6563600b"
+              },
+              "created_time": "2025-03-30T16:44:00.000Z",
+              "last_edited_time": "2025-03-30T16:44:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80ea-aac0-c2b7049b3333",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-80ae-9856-d62c6563600b"
+              },
+              "created_time": "2025-03-30T16:44:00.000Z",
+              "last_edited_time": "2025-03-30T16:44:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Email. ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Email. ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "📧 alissacoding@gmail.com",
+                      "link": {
+                        "url": "mailto:alissacoding@gmail.com"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "📧 alissacoding@gmail.com",
+                    "href": "mailto:alissacoding@gmail.com"
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80ff-99c2-f1310df61be9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-80ae-9856-d62c6563600b"
+              },
+              "created_time": "2025-03-30T16:44:00.000Z",
+              "last_edited_time": "2025-03-30T16:44:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Linkedin ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Linkedin ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "📎 https://www.linkedin.com/in/yoon-jungmin-6a8747229/",
+                      "link": {
+                        "url": "https://www.linkedin.com/in/yoon-jungmin-6a8747229/"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "📎 https://www.linkedin.com/in/yoon-jungmin-6a8747229/",
+                    "href": "https://www.linkedin.com/in/yoon-jungmin-6a8747229/"
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-8092-af5a-fce60bdbe680",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-80ae-9856-d62c6563600b"
+              },
+              "created_time": "2025-03-30T16:44:00.000Z",
+              "last_edited_time": "2025-03-30T16:44:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Github ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Github ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "👾 https://github.com/alissa1228",
+                      "link": {
+                        "url": "https://github.com/alissa1228"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "👾 https://github.com/alissa1228",
+                    "href": "https://github.com/alissa1228"
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-8034-adc4-ea8a3efafcf6",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-80ae-9856-d62c6563600b"
+              },
+              "created_time": "2025-03-30T16:44:00.000Z",
+              "last_edited_time": "2025-03-30T16:49:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8016-a138-db5ec4a23e55",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:48:00.000Z",
+      "last_edited_time": "2025-03-30T16:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Introduce",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Introduce",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8090-a591-c41a235d9cba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:45:00.000Z",
+      "last_edited_time": "2025-03-30T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "안녕하세요, 기획과 개발, 그리고 크리에이터 경험까지. 다양한 현장에서 얻은 감각을 바탕으로, 문제를 정의하고 팀을 이끌어 실행하는 기획자 윤정민입니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "안녕하세요, 기획과 개발, 그리고 크리에이터 경험까지. 다양한 현장에서 얻은 감각을 바탕으로, 문제를 정의하고 팀을 이끌어 실행하는 기획자 윤정민입니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8048-895e-ef47218cc209",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:48:00.000Z",
+      "last_edited_time": "2025-03-30T17:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "프론트엔드 개발자로서 기획 단계부터 직접 산출물 제작까지 방향을 설계하고 실행해본 경험",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "프론트엔드 개발자로서 기획 단계부터 직접 산출물 제작까지 방향을 설계하고 실행해본 경험",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이 있습니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 있습니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-800e-b2c9-fb69a95e354b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8048-895e-ef47218cc209"
+          },
+          "created_time": "2025-03-30T17:03:00.000Z",
+          "last_edited_time": "2025-03-30T17:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "프론트엔드 개발자로 일하며 단순히 기획안에 따라 개발에 참여하는 걸 넘어, 기획 단계부터 문제를 정의하고 해결책을 제시하며 방향을 리드했습니다. ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "프론트엔드 개발자로 일하며 단순히 기획안에 따라 개발에 참여하는 걸 넘어, 기획 단계부터 문제를 정의하고 해결책을 제시하며 방향을 리드했습니다. ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-80bf-b797-db141496f03c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8048-895e-ef47218cc209"
+          },
+          "created_time": "2025-03-30T17:03:00.000Z",
+          "last_edited_time": "2025-03-30T17:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기획과 개발 양쪽을 모두 경험한 덕분에, 기획자의 관점으로 사용자 경험을 개선 하면서도, 개발 단계에서 발생할 수 있는 현실적인 제약과 기술적 개선포인트 미리 고려한 실행력이 저의 강점입니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기획과 개발 양쪽을 모두 경험한 덕분에, 기획자의 관점으로 사용자 경험을 개선 하면서도, 개발 단계에서 발생할 수 있는 현실적인 제약과 기술적 개선포인트 미리 고려한 실행력이 저의 강점입니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8007-89c7-cd9880d4ccec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:48:00.000Z",
+      "last_edited_time": "2025-03-30T17:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "크리에이터로서의 경험을 개선의 인사이트로 전환할 줄 아는 기획자입니다",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "크리에이터로서의 경험을 개선의 인사이트로 전환할 줄 아는 기획자입니다",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-805e-89e6-dc611a5adc7e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8007-89c7-cd9880d4ccec"
+          },
+          "created_time": "2025-03-30T17:03:00.000Z",
+          "last_edited_time": "2025-03-30T17:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "서브컬처 창작 활동을 넘어, 팬 행사와 영화 응원 상영회까지 기획하며 창작부터 기획, 운영까지 전 과정을 온전히 책임지고 끌어온 경험이 있습니다. 누가 시켜서가 아니라 스스로 좋아서 시작한 일이었기에, 처음 해보는 기획·운영·홍보 업무도 끝까지 주도적으로 해결해 나갔습니다. ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "서브컬처 창작 활동을 넘어, 팬 행사와 영화 응원 상영회까지 기획하며 창작부터 기획, 운영까지 전 과정을 온전히 책임지고 끌어온 경험이 있습니다. 누가 시켜서가 아니라 스스로 좋아서 시작한 일이었기에, 처음 해보는 기획·운영·홍보 업무도 끝까지 주도적으로 해결해 나갔습니다. ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-804d-ad09-db324b62bec0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8007-89c7-cd9880d4ccec"
+          },
+          "created_time": "2025-03-30T17:03:00.000Z",
+          "last_edited_time": "2025-03-30T17:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "이 과정에서 단순한 공감을 넘어, 모니터링을 통해 크리에이터와 고객이 실제로 부딪히는 문제를 캐치하고 니즈를 파악하고 데이터를 바탕으로 해결하는 감각을 키웠습니다. 이 경험을 바탕으로 서비스를 좀 더 섬세하게 만들어갈 수 있도록 기여하고자 합니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "이 과정에서 단순한 공감을 넘어, 모니터링을 통해 크리에이터와 고객이 실제로 부딪히는 문제를 캐치하고 니즈를 파악하고 데이터를 바탕으로 해결하는 감각을 키웠습니다. 이 경험을 바탕으로 서비스를 좀 더 섬세하게 만들어갈 수 있도록 기여하고자 합니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8014-ab08-e87e6866c60f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T17:03:00.000Z",
+      "last_edited_time": "2025-03-30T17:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8099-9ef1-cc5264c4d5d3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:50:00.000Z",
+      "last_edited_time": "2025-03-30T16:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Professional Experience",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Professional Experience",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8088-85dd-d934194c7840",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:50:00.000Z",
+      "last_edited_time": "2025-03-30T16:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-80a5-84e6-f659745001b5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:51:00.000Z",
+      "last_edited_time": "2025-03-30T16:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8065-9c54-cf3dff770d71",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:51:00.000Z",
+      "last_edited_time": "2025-03-30T17:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "### (주)앱플랫폼",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "### (주)앱플랫폼",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " - 프론트엔드 개발자, 개발팀 / 대리",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " - 프론트엔드 개발자, 개발팀 / 대리",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-80bc-9e82-c1f8942f551c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:51:00.000Z",
+      "last_edited_time": "2025-03-30T16:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2019년 9월  - 2023년 11월",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "gray"
+            },
+            "plain_text": "2019년 9월  - 2023년 11월",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-80d4-bbaa-f2b165881a54",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:51:00.000Z",
+      "last_edited_time": "2025-03-30T16:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " AI 글쓰기 서비스 ‘라이팅젤' 사이트 리뉴얼 기획 •개발  ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " AI 글쓰기 서비스 ‘라이팅젤' 사이트 리뉴얼 기획 •개발  ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-801f-8ca3-f27af870b3c3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-80d4-bbaa-f2b165881a54"
+          },
+          "created_time": "2025-03-30T16:51:00.000Z",
+          "last_edited_time": "2025-03-30T16:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기술 부채 누적 및 사용자 피드백 증가",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기술 부채 누적 및 사용자 피드백 증가",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80cb-8ee3-d0804fceb635",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-801f-8ca3-f27af870b3c3"
+              },
+              "created_time": "2025-03-30T16:51:00.000Z",
+              "last_edited_time": "2025-03-30T16:51:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 사이트 전면 리뉴얼 필요성 인지",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 사이트 전면 리뉴얼 필요성 인지",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80a9-bccf-db684337d1d0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-801f-8ca3-f27af870b3c3"
+              },
+              "created_time": "2025-03-30T16:51:00.000Z",
+              "last_edited_time": "2025-03-30T16:51:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 백엔드 개발자와 레거시 코드 리팩토링 및 UIUX 변경 논의 후 기획팀에 리뉴얼 제안",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 백엔드 개발자와 레거시 코드 리팩토링 및 UIUX 변경 논의 후 기획팀에 리뉴얼 제안",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-8033-b6a0-f64d9f0dd2c9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-80d4-bbaa-f2b165881a54"
+          },
+          "created_time": "2025-03-30T16:51:00.000Z",
+          "last_edited_time": "2025-03-30T16:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기존 사이트 구조 분석 및 기능 정의서 정리",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기존 사이트 구조 분석 및 기능 정의서 정리",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-8066-afcc-e0e04c699919",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-8033-b6a0-f64d9f0dd2c9"
+              },
+              "created_time": "2025-03-30T16:51:00.000Z",
+              "last_edited_time": "2025-03-30T16:51:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 이를 바탕으로 리뉴얼 기능 요구사항 문서화 및 팀원들과 공유",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 이를 바탕으로 리뉴얼 기능 요구사항 문서화 및 팀원들과 공유",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-809f-a18f-db2a2f53cf6f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-80d4-bbaa-f2b165881a54"
+          },
+          "created_time": "2025-03-30T16:51:00.000Z",
+          "last_edited_time": "2025-03-30T16:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Adobe XD를 활용해 와이어프레임 설계",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Adobe XD를 활용해 와이어프레임 설계",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-805e-a46c-ecceec307cb8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-809f-a18f-db2a2f53cf6f"
+              },
+              "created_time": "2025-03-30T16:51:00.000Z",
+              "last_edited_time": "2025-03-30T16:51:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ Storybook & Vercel을 활용해 UI 컴포넌트를 시각적으로 공유",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ Storybook & Vercel을 활용해 UI 컴포넌트를 시각적으로 공유",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-8086-a7ee-d099c9e98dd2",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-809f-a18f-db2a2f53cf6f"
+              },
+              "created_time": "2025-03-30T16:51:00.000Z",
+              "last_edited_time": "2025-03-30T16:51:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→  개발자 외 팀원들과 소통 효율화 및 반복적인 피드백 과정을 통해 기획안 구체화",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→  개발자 외 팀원들과 소통 효율화 및 반복적인 피드백 과정을 통해 기획안 구체화",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-80f6-ab76-dedf2586e255",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-80d4-bbaa-f2b165881a54"
+          },
+          "created_time": "2025-03-30T16:51:00.000Z",
+          "last_edited_time": "2025-03-30T16:52:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "리뉴얼 완료 후 사용자 수 약 10배 증가 (1,000명대 → 10,000명대)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "리뉴얼 완료 후 사용자 수 약 10배 증가 (1,000명대 → 10,000명대)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80f6-9acf-f9653672304b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-80f6-ab76-dedf2586e255"
+              },
+              "created_time": "2025-03-30T16:51:00.000Z",
+              "last_edited_time": "2025-03-30T16:52:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 교육기관 5곳 이상과 협업하며 서비스 확장 기반 마련",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 교육기관 5곳 이상과 협업하며 서비스 확장 기반 마련",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80bc-ba37-caf35b8ccaa4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-80f6-ab76-dedf2586e255"
+              },
+              "created_time": "2025-03-30T16:52:00.000Z",
+              "last_edited_time": "2025-03-30T16:52:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8096-b52a-deb558126857",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:51:00.000Z",
+      "last_edited_time": "2025-03-30T16:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "내부 어드민 사이트 UIUX 리뉴얼 기획•개발 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "내부 어드민 사이트 UIUX 리뉴얼 기획•개발 ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-8034-9823-f3b151e3a2b0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8096-b52a-deb558126857"
+          },
+          "created_time": "2025-03-30T16:51:00.000Z",
+          "last_edited_time": "2025-03-30T16:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "필터링 기능 부재 및 페이지네이션 코드 오류 등 기능성과 사용성 문제 인지",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "필터링 기능 부재 및 페이지네이션 코드 오류 등 기능성과 사용성 문제 인지",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-800c-afbd-f4fbb865f807",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-8034-9823-f3b151e3a2b0"
+              },
+              "created_time": "2025-03-30T16:53:00.000Z",
+              "last_edited_time": "2025-03-30T16:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 개선 방향이 기획 단계에서부터 반영될 수 있도록 직접 제안.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 개선 방향이 기획 단계에서부터 반영될 수 있도록 직접 제안.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-801e-bd7f-cbdc03d6d52b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8096-b52a-deb558126857"
+          },
+          "created_time": "2025-03-30T16:53:00.000Z",
+          "last_edited_time": "2025-03-30T16:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기존 사이트 기능 정의서 및 개선 방향을 담은 문서 작성",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기존 사이트 기능 정의서 및 개선 방향을 담은 문서 작성",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-8057-ae93-fe5c3779e77d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-801e-bd7f-cbdc03d6d52b"
+              },
+              "created_time": "2025-03-30T16:53:00.000Z",
+              "last_edited_time": "2025-03-30T16:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→  팀원들과 공유하여 이를 기반으로 어드민 리뉴얼 진행.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→  팀원들과 공유하여 이를 기반으로 어드민 리뉴얼 진행.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-8072-8e4c-f736d0a8bf2b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8096-b52a-deb558126857"
+          },
+          "created_time": "2025-03-30T16:53:00.000Z",
+          "last_edited_time": "2025-03-30T16:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "태그 버튼 UI를 설계 및 기준별 필터링 기능을 추가, 대시보드에 그래프 시각화 구현.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "태그 버튼 UI를 설계 및 기준별 필터링 기능을 추가, 대시보드에 그래프 시각화 구현.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80c4-9032-e6fa4141ab10",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-8072-8e4c-f736d0a8bf2b"
+              },
+              "created_time": "2025-03-30T16:53:00.000Z",
+              "last_edited_time": "2025-03-30T16:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 관리자의 정보 탐색 및 작업 효율성 향상.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 관리자의 정보 탐색 및 작업 효율성 향상.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-800d-8527-ccec7fcc0573",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8096-b52a-deb558126857"
+          },
+          "created_time": "2025-03-30T16:53:00.000Z",
+          "last_edited_time": "2025-03-30T16:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "UI·UX 개선 이후 내부 피드백 수렴",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "UI·UX 개선 이후 내부 피드백 수렴",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80e4-9fe1-f07290849028",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-800d-8527-ccec7fcc0573"
+              },
+              "created_time": "2025-03-30T16:53:00.000Z",
+              "last_edited_time": "2025-03-30T16:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→  팀 내에서 어드민 활용도 증가",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→  팀 내에서 어드민 활용도 증가",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-80cd-9a01-c5a5463c83c8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:50:00.000Z",
+      "last_edited_time": "2025-03-30T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8054-892f-f734651f0e4a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:50:00.000Z",
+      "last_edited_time": "2025-03-30T16:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "웹노블(AI 소설쓰기 서비스), 블로거(AI 블로그 글쓰기 서비스) 개선 및 팀 문화 개선 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "웹노블(AI 소설쓰기 서비스), 블로거(AI 블로그 글쓰기 서비스) 개선 및 팀 문화 개선 ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-800b-a9f1-c078e11a82e7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8054-892f-f734651f0e4a"
+          },
+          "created_time": "2025-03-30T16:54:00.000Z",
+          "last_edited_time": "2025-03-30T16:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "미디어 쿼리 미적용으로 낮은 모바일 사용자 경험",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "미디어 쿼리 미적용으로 낮은 모바일 사용자 경험",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80cc-a2af-c158de87271f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-800b-a9f1-c078e11a82e7"
+              },
+              "created_time": "2025-03-30T16:54:00.000Z",
+              "last_edited_time": "2025-03-30T16:54:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 반응형 UIUX, 디자인 개선안 기획하여 팀에 제안",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 반응형 UIUX, 디자인 개선안 기획하여 팀에 제안",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-8095-b0fd-c44b9b97f10c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8054-892f-f734651f0e4a"
+          },
+          "created_time": "2025-03-30T16:54:00.000Z",
+          "last_edited_time": "2025-03-30T16:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기존 기획 문서 기반으로 Adobe XD를 활용해 UIUX 와이어 프레임 작성",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기존 기획 문서 기반으로 Adobe XD를 활용해 UIUX 와이어 프레임 작성",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80dc-a98a-c87a67eaec91",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-8095-b0fd-c44b9b97f10c"
+              },
+              "created_time": "2025-03-30T16:54:00.000Z",
+              "last_edited_time": "2025-03-30T16:54:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 모바일 사용자 경험 중심 개선안 도출",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 모바일 사용자 경험 중심 개선안 도출",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-806b-9028-eba397c39e74",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8054-892f-f734651f0e4a"
+          },
+          "created_time": "2025-03-30T16:54:00.000Z",
+          "last_edited_time": "2025-03-30T16:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "카카오톡 중심 비효율적 소통",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "카카오톡 중심 비효율적 소통",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-800b-be75-f6bb7ebcbc32",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-806b-9028-eba397c39e74"
+              },
+              "created_time": "2025-03-30T16:54:00.000Z",
+              "last_edited_time": "2025-03-30T16:54:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→  협업툴 도입 제안 및 팀원 의견 반영해 ‘JANDI’ 도입",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→  협업툴 도입 제안 및 팀원 의견 반영해 ‘JANDI’ 도입",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-8057-a27c-c4830c03ab77",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-8054-892f-f734651f0e4a"
+          },
+          "created_time": "2025-03-30T16:54:00.000Z",
+          "last_edited_time": "2025-03-30T16:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "자료 공유·피드백·일정 관리 등 협업 환경 개선",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "자료 공유·피드백·일정 관리 등 협업 환경 개선",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80c3-ab03-f02f669aec6b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-8057-a27c-c4830c03ab77"
+              },
+              "created_time": "2025-03-30T16:54:00.000Z",
+              "last_edited_time": "2025-03-30T16:54:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 팀 소통 효율성 및 팀원들의 만족도 향상.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 팀 소통 효율성 및 팀원들의 만족도 향상.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8039-8e75-c8fbc2265a2f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:54:00.000Z",
+      "last_edited_time": "2025-03-30T16:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8038-851d-d914a618339e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:50:00.000Z",
+      "last_edited_time": "2025-03-30T17:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-802c-88de-e4cc6765aa8f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:54:00.000Z",
+      "last_edited_time": "2025-03-30T16:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1인 출판사 코다 - 운영, 제작 / 대표",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1인 출판사 코다 - 운영, 제작 / 대표",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8064-9904-c156dd462f80",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:54:00.000Z",
+      "last_edited_time": "2025-03-30T16:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2019년 2월  - 2021년 10월",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "gray"
+            },
+            "plain_text": "2019년 2월  - 2021년 10월",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-806e-a897-d5f8784f45a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:55:00.000Z",
+      "last_edited_time": "2025-03-30T16:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-800f-b5eb-d721f4c206cd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:55:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "전자책 기획•제작•번역",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "전자책 기획•제작•번역",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-80a9-85c6-f77ffe0e15db",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-800f-b5eb-d721f4c206cd"
+          },
+          "created_time": "2025-03-30T16:55:00.000Z",
+          "last_edited_time": "2025-03-30T16:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "전자책 전문가 교육 수료 후, 1인 전자책 출판사 ‘코다' 오픈.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "전자책 전문가 교육 수료 후, 1인 전자책 출판사 ‘코다' 오픈.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-8073-b67c-ff1b422a77c5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-80a9-85c6-f77ffe0e15db"
+              },
+              "created_time": "2025-03-30T16:55:00.000Z",
+              "last_edited_time": "2025-03-30T16:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 콘텐츠 기획부터 제작•출판까지 전 과정을 직접 운영",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 콘텐츠 기획부터 제작•출판까지 전 과정을 직접 운영",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-809b-990a-ece534893eff",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-800f-b5eb-d721f4c206cd"
+          },
+          "created_time": "2025-03-30T16:55:00.000Z",
+          "last_edited_time": "2025-03-30T16:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "저작권 만료 작품 기반 출판시장에서 콘텐츠 차별화 필요성 인식",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "저작권 만료 작품 기반 출판시장에서 콘텐츠 차별화 필요성 인식",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80a9-8e4b-f67efb7c7855",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-809b-990a-ece534893eff"
+              },
+              "created_time": "2025-03-30T16:55:00.000Z",
+              "last_edited_time": "2025-03-30T16:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 시대성, 문학적 가치가 있는 저자를 발굴하고 재조명하는 기획 전략 수립",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 시대성, 문학적 가치가 있는 저자를 발굴하고 재조명하는 기획 전략 수립",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-8067-8e01-c052fa9f4364",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-800f-b5eb-d721f4c206cd"
+          },
+          "created_time": "2025-03-30T16:55:00.000Z",
+          "last_edited_time": "2025-03-30T16:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "첫 근대 여성 작가인 김명순 작가를 재조명, <생명의 과실>, <두 여자> 작품집 기획",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "첫 근대 여성 작가인 김명순 작가를 재조명, <생명의 과실>, <두 여자> 작품집 기획",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80d6-8062-c3af6d8a7f81",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-8067-8e01-c052fa9f4364"
+              },
+              "created_time": "2025-03-30T16:55:00.000Z",
+              "last_edited_time": "2025-03-30T16:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→  저자 발굴부터 편집 방향 설정, 전자책 제작 및 유통까지 전 과정 총괄",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→  저자 발굴부터 편집 방향 설정, 전자책 제작 및 유통까지 전 과정 총괄",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-809d-9585-dccb2595d073",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-800f-b5eb-d721f4c206cd"
+          },
+          "created_time": "2025-03-30T16:55:00.000Z",
+          "last_edited_time": "2025-03-30T16:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "루쉰의 ‘광인일기'를 직접 번역(‘중→한')하고, 학생을 타깃으로 원본,번역,해설이 포함된 버전 제작",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "루쉰의 ‘광인일기'를 직접 번역(‘중→한')하고, 학생을 타깃으로 원본,번역,해설이 포함된 버전 제작",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-8076-aee1-ffe4a177e64d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-809d-9585-dccb2595d073"
+              },
+              "created_time": "2025-03-30T16:55:00.000Z",
+              "last_edited_time": "2025-03-30T16:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 학교, 도서관 중심으로 대여 수요 증가.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 학교, 도서관 중심으로 대여 수요 증가.",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-80f3-a2a1-cf5c1010aa97",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-800f-b5eb-d721f4c206cd"
+          },
+          "created_time": "2025-03-30T16:55:00.000Z",
+          "last_edited_time": "2025-03-30T16:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "개인 작가 원고를 기반으로 전자책 기획 및 제작 프로젝트 진행",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "개인 작가 원고를 기반으로 전자책 기획 및 제작 프로젝트 진행",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-8099-8e97-ee35c7029173",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-80f3-a2a1-cf5c1010aa97"
+              },
+              "created_time": "2025-03-30T16:55:00.000Z",
+              "last_edited_time": "2025-03-30T16:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→ 원고 검토, 기획 회의, 편집 일정 수립 등 협업 기반 출판 프로세스 진행 및 출판 지원",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→ 원고 검토, 기획 회의, 편집 일정 수립 등 협업 기반 출판 프로세스 진행 및 출판 지원",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1c633ccb-0cd0-8027-9a17-ca49916f4a46",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1c633ccb-0cd0-800f-b5eb-d721f4c206cd"
+          },
+          "created_time": "2025-03-30T16:55:00.000Z",
+          "last_edited_time": "2025-03-30T16:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "전자책 제작 관련 1:1 원데이 클래스 진행",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "전자책 제작 관련 1:1 원데이 클래스 진행",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1c633ccb-0cd0-80ba-9c12-c3d82a7c73fb",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1c633ccb-0cd0-8027-9a17-ca49916f4a46"
+              },
+              "created_time": "2025-03-30T16:55:00.000Z",
+              "last_edited_time": "2025-03-30T16:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "→  학생 맞춤형 커리큘럼 기획 및 교재 파일 제작",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "→  학생 맞춤형 커리큘럼 기획 및 교재 파일 제작",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-805e-9d39-c5be76c13b76",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:50:00.000Z",
+      "last_edited_time": "2025-03-30T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8082-a334-e3bc5634c935",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Skills",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Skills",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-806f-9889-f21cd10ac9d3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-808e-9879-c783f584e241",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Adobe XD, Figma, Jira, Slack, Notion, Sigil, MySQL\nHTML, CSS, JavaScript, React, Git",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Adobe XD, Figma, Jira, Slack, Notion, Sigil, MySQL\nHTML, CSS, JavaScript, React, Git",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8031-bc48-c55252ad77c8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-80d0-a97a-dce64e6b8e25",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-808a-a04f-dac7c25ca2ea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Qualification",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Qualification",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8093-8b1b-e92ab5fbd05a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2023 / 04",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "gray"
+            },
+            "plain_text": "2023 / 04",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-809a-9089-ddb42dc95671",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "SQL 개발자(SQLD) 자격증",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "SQL 개발자(SQLD) 자격증",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-80bb-980d-c4387262bd5b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-801e-98ac-ff54b849e8a0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-807e-b8ea-efe704ab9ae2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Education",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Education",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8022-b785-f281c510a49a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2024 / 03 -  재학 중",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "gray"
+            },
+            "plain_text": "2024 / 03 -  재학 중",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-80a3-9687-e2a9c4f1430c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "한국방송통신대학교",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "한국방송통신대학교",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " - ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " - ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "컴퓨터과학과",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "컴퓨터과학과",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8082-9028-c265d691efbb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2014 / 03 -  2019/ 02",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "gray"
+            },
+            "plain_text": "2014 / 03 -  2019/ 02",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8039-a389-cfb9157c7ad7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "광운대학교 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "광운대학교 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "- ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "- ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "동북아문화산업학부",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "동북아문화산업학부",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-80ee-8440-cae54eef5a5b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:56:00.000Z",
+      "last_edited_time": "2025-03-30T16:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8005-84a9-cfb30f1a4098",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:50:00.000Z",
+      "last_edited_time": "2025-03-30T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1c633ccb-0cd0-8003-a3f0-c15535eb0a23",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1c633ccb-0cd0-8014-bda7-edc15cf824ca"
+      },
+      "created_time": "2025-03-30T16:50:00.000Z",
+      "last_edited_time": "2025-03-30T16:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}
