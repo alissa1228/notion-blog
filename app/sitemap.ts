@@ -10,11 +10,11 @@ export default async function sitemap2() {
   }))
 
   let writePosts = writes.map((write) => ({
-    url: `${baseUrl}/write/${write.slug}`,
+    url: `${baseUrl}/study/${write.slug}`,
     lastModified: write.date,
   }))
 
-  let routes = ['', '/blog','/write','/resume'].map((route) => ({
+  let routes = ['', '/blog','/study','/resume'].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date().toISOString().split('T')[0],
   }))
