@@ -1,5 +1,7 @@
 import Image from "next/image";
-import { BlogPosts } from "components/posts";
+import InChat from "components/InChat";
+import { Button } from "@heroui/button";
+import Link from "next/link";
 
 export default function Page() {
   return (
@@ -27,8 +29,18 @@ export default function Page() {
 
       <hr className="mb-4" />
       <div className="my-8">
-        <BlogPosts />
+        <InChat/>
       </div>
+
+      <div className="mb-8 flex items-center justify-between">
+        <h3 className="text-xl font-bold tracking-tight text-center">혹시, 제가 더 궁금하신가요? 👀 </h3>
+        <div className="text-center">
+        <Link  href="/resume">
+            <Button className="mt-4 bg-blue-900 text-white rounded-lg px-3 py-2 transition-all ease-linear hover:bg-blue-500">궁금해요 💭</Button>
+          </Link>
+          </div>
+        </div>
     </section>
+
   );
 }
