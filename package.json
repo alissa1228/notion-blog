@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@giscus/react": "^3.0.0",
+    "@heroui/accordion": "^2.2.13",
     "@notionpresso/react": "^0.0.5",
     "@types/react": "18.2.55",
     "@types/react-dom": "18.2.19",
