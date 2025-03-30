@@ -3,7 +3,6 @@ import { baseUrl } from 'app/sitemap'
 import writingPosts from 'content/writings'
 import NotionRenderer from 'components/notion-renderer'
 
-export const runtime = 'edge';
 
 export async function generateStaticParams() {
   return writingPosts.map((post) => ({ slug: post.slug }))
@@ -71,7 +70,7 @@ export default async function Blog({ params }) {
             image: post.image
               ? `${baseUrl}${post.image}`
               : `/og?title=${encodeURIComponent(post.title)}`,
-            url: `${baseUrl}/write/${post.slug}`,
+            url: `${baseUrl}/study/${post.slug}`,
             author: {
               '@type': 'Person',
               name: 'Writing',

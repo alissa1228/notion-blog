@@ -1,5 +1,6 @@
 import Link from "next/link";
 import posts from "../content/posts";
+import Image from "next/image";
 
 export function BlogPosts() {
   return (
@@ -14,54 +15,35 @@ export function BlogPosts() {
         .map((post) => (
           <Link
             key={post.slug}
-            className="flex flex-col space-y-1 mb-4"
+            className="flex flex-col mb-8"
             href={`/blog/${post.slug}`}
           >
-            <div className="w-full flex flex-col md:flex-row space-x-0 md:space-x-2 border-b border-[#ccc] dark:border-slate-100 pb-1">
-              <p className="text-neutral-600 dark:text-neutral-400 w-[100px] tabular-nums">
-                {post.date}
-              </p>
-              <p className="text-neutral-900 dark:text-neutral-100 tracking-tight">
-                <span
-                  className="bg-black text-white dark:text-black dark:bg-white font-bold rounded-md py-0.5 px-2
-                 text-sm mr-2"
-                >
-                  {post.tag}
-                </span>
-                {post.title}
-              </p>
+            <div className="flex justify-between">
+              <div>
+                <p className=" text-neutral-900 dark:text-neutral-100 tracking-tight">
+                  {post.title}
+                </p>
+                <p className="text-sm text-neutral-500 mb-6">
+                  {post.description}
+                </p>
+                <div className="flex gap-3 text-xs font-thin">
+                  <p className="text-neutral-600">{post.tag}</p>
+                  <span className="text-neutral-600">|</span>
+                  <p className="text-neutral-600 dark:text-neutral-400 w-[100px] tabular-nums">
+                    {post.date}
+                  </p>
+                </div>
+              </div>
+              <Image
+                className="rounded-md"
+                src="/preview_article.webp"
+                alt="preview_article"
+                width={120}
+                height={80}
+              />
             </div>
           </Link>
         ))}
     </div>
-    // <div>
-    //   {posts
-    //     .sort((a, b) => {
-    //       if (
-    //         new Date(a.date) > new Date(b.date)
-    //       ) {
-    //         return -1
-    //       }
-    //       return 1
-    //     })
-    //     .map((post) => (
-    //       <Link
-    //         key={post.slug}
-    //         className="flex flex-col space-y-1 mb-4"
-    //         href={`/blog/${post.slug}`}
-    //       >
-    //         <div className="w-full flex flex-col md:flex-row space-x-0 md:space-x-2">
-    //           <p className="text-neutral-600 dark:text-neutral-400 w-[100px] tabular-nums">
-    //             {post.date}
-    //           </p>
-    //           <p className="text-neutral-900 dark:text-neutral-100 tracking-tight">
-    //           <span className='bg-black text-white dark:text-black dark:bg-white font-bold rounded-md py-0.5 px-2
-    //             text-sm mr-2'>{post.tag}</span>
-    //             {post.title}
-    //           </p>
-    //         </div>
-    //       </Link>
-    //     ))}
-    // </div>
   );
 }

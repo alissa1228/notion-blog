@@ -14,7 +14,7 @@ export default function Page() {
           height={100}
           className="rounded-full mr-4 border border-gray-200"
         />
-        <h1 className="text-5xl font-bold tracking-tight">👋 JUNGMIN YOON</h1>
+        <h1 className="text-5xl font-bold tracking-tight">JUNGMIN YOON 👩🏻‍💻</h1>
         <div className="text-muted-foreground text-center">
           <p className="text-lg font-semibold mb-4">
             Frontend Developer → Project Manager✈️
@@ -36,7 +36,7 @@ export default function Page() {
         <h3 className="text-xl font-bold tracking-tight text-center">혹시, 제가 더 궁금하신가요? 👀 </h3>
         <div className="text-center">
         <Link  href="/resume">
-            <Button className="mt-4 bg-blue-900 text-white rounded-lg px-3 py-2 transition-all ease-linear hover:bg-blue-500">궁금해요 💭</Button>
+            <Button className="mt-4 bg-black text-white rounded-lg px-3 py-2 transition-all ease-linear hover:bg-blue-500">궁금해요 💭</Button>
           </Link>
           </div>
         </div>
