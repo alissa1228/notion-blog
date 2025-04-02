@@ -67,9 +67,9 @@ export default function RootLayout({
         GeistMono.variable
       )}
     >
-      <body className="antialiased max-w-3xl mx-4 mt-8 md:mx-auto text-black bg-slate-100 dark:text-slate-100 dark:bg-slate-800">
+      <body className="antialiased max-w-4xl mx-4 mt-8 md:mx-auto text-black bg-white dark:text-white dark:bg-black">
         <ThemeProvider attribute='class' defaultTheme='light' >
-          <main className="border-2 border-black flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0">
+          <main className="border-2 border-black flex-auto min-w-0 mt-6 flex flex-col ">
             <Navbar />
             {children}
             <Footer />
