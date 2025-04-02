@@ -2,7 +2,6 @@ import Image from "next/image";
 import InChat from "components/InChat";
 import { Button } from "@heroui/button";
 import Link from "next/link";
-import TestPage from "./testPage";
 
 export default function Page() {
   return (
