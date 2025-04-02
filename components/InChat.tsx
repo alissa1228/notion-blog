@@ -26,7 +26,7 @@ export default function InChat() {
           >
             <div
               className={`rounded-xl px-3 py-3 text-sm max-w-[60%] whitespace-pre-line
-                ${msg.type === "right" ? "bg-blue-500 text-white" : "bg-slate-200 text-black"}`}
+                ${msg.type === "right" ? "bg-green-500 text-white" : "bg-slate-200 text-black"}`}
             >
               {msg.text}
             </div>

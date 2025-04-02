@@ -5,7 +5,7 @@ import { Card, CardBody, CardFooter } from "@heroui/card";
 
 export function WritingPosts() {
   return (
-    <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div className="max-w-7xl p-8 mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
       {writings
         .sort((a, b) => {
           if (new Date(a.date) > new Date(b.date)) {
@@ -16,7 +16,7 @@ export function WritingPosts() {
         .map((post) => (
           <Link
             key={post.slug}
-            className="flex flex-col space-y-2 mb-4"
+            className="flex flex-col space-y-2 mb-4 border-2 border-black rounded-3xl p-4 shadow-neo"
             href={`/study/${post.slug}`}
           >
             <Card className="max-w-[300px] contents">
