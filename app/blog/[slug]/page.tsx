@@ -57,7 +57,7 @@ export default async function Blog({ params }) {
   }
 
   return (
-    <section>
+    <section className='bg-white'>
       <script
         type="application/ld+json"
         suppressHydrationWarning

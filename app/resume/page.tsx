@@ -29,7 +29,7 @@ export const metadata: Metadata = {
 
 export default function Page() {
   return (
-    <section>
+    <section className='bg-white'>
       <NotionRenderer post={resume} />
     </section>
   )
