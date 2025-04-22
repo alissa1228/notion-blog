@@ -1,0 +1,1091 @@
+{
+  "object": "page",
+  "id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c",
+  "created_time": "2025-04-22T11:15:00.000Z",
+  "last_edited_time": "2025-04-22T11:20:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "13d33ccb-0cd0-80a0-bf4e-f279d6d7e978"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "<챗GPT 제대로 써먹기> : 당신이 쉽게 AI와 친해질 수 있도록! ",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "<챗GPT 제대로 써먹기> : 당신이 쉽게 AI와 친해질 수 있도록! ",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/GPT-AI-1dd33ccb0cd08087af92f6b9eccd2a7c",
+  "public_url": null,
+  "request_id": "a8e12592-b349-45f0-8891-bddfa7737c49",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8080-b5ae-f5b1ffca8524",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:15:00.000Z",
+      "last_edited_time": "2025-04-22T11:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80ee-8416-fa4d30c9c0f9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:15:00.000Z",
+      "last_edited_time": "2025-04-22T11:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "챗GPT와 같은 AI는 단순히 기존이 방식을 대체하는 것이 아니라, 새로운 가능성을 열어줍니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "챗GPT와 같은 AI는 단순히 기존이 방식을 대체하는 것이 아니라, 새로운 가능성을 열어줍니다.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "💡"
+        },
+        "color": "gray_background"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1dd33ccb-0cd0-80f6-9a83-d1d929354b0c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dd33ccb-0cd0-80ee-8416-fa4d30c9c0f9"
+          },
+          "created_time": "2025-04-22T11:15:00.000Z",
+          "last_edited_time": "2025-04-22T11:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "<챗GPT 제대로 써먹기> p.350",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "<챗GPT 제대로 써먹기> p.350",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8004-9a6d-c4f83f0db6b7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:16:00.000Z",
+      "last_edited_time": "2025-04-22T11:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80b8-afba-f351d1553c55",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:16:00.000Z",
+      "last_edited_time": "2025-04-22T11:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“그래서 대체 챗GPT가 뭐길래 이렇게 난리야?” ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“그래서 대체 챗GPT가 뭐길래 이렇게 난리야?” ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "요즘 서점가나 온라인 강의에 AI 관련 콘텐츠가 넘쳐나지만, 챗GPT의 정확한 기능과 활용법을 아직 잘 모르는 사람들이 많다. <챗GPT 제대로 써먹기>는 이러한 독자들을 위해 AI의 기본 원리부터 실생활에서 바로 적용할 수 있는 활용 방법까지 쉽게 풀어 설명한 책이다. 보고서 작성, 코드 작성, 콘텐츠 제작 등 다양한 분야에서 챗GPT를 효과적으로 활용하는 방법과 과정을 상세하게 제공한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "요즘 서점가나 온라인 강의에 AI 관련 콘텐츠가 넘쳐나지만, 챗GPT의 정확한 기능과 활용법을 아직 잘 모르는 사람들이 많다. <챗GPT 제대로 써먹기>는 이러한 독자들을 위해 AI의 기본 원리부터 실생활에서 바로 적용할 수 있는 활용 방법까지 쉽게 풀어 설명한 책이다. 보고서 작성, 코드 작성, 콘텐츠 제작 등 다양한 분야에서 챗GPT를 효과적으로 활용하는 방법과 과정을 상세하게 제공한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80ee-ad08-dc0db829faf4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:16:00.000Z",
+      "last_edited_time": "2025-04-22T11:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-801d-a93d-ef13b5818fa9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:16:00.000Z",
+      "last_edited_time": "2025-04-22T11:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "<챗GPT 제대로 써먹기>는 응용 전에 개념을 잡기 위해 책은 생성형 AI가 무엇인지 부터 알려준다. 뉴스에서 그렇게 떠드는 생성형 AI가 무엇인지, 인공지능이 무엇인지, 생성형 AI는 인간의 언어를 어떻게 이해 하는지 등등 기본적으로 알아야 할 지식들을 서술한다. 이 과정에서 임베딩이니 seq2seq니 등 언어 모델 발달과정 또한 간략하게 짚어 주는데, 슬슬 이제 무슨 말이지 싶은 순간에 적절한 예시를 넣어 흥미를 잃지 않도록 한다. 개인적으로 작가가 트랜스포머 파트에서 사람들에게 익숙한 옵티머스 프라임의 대사를 예시를 들며 설명해주는 부분을 읽으며 흥미와 이해를 둘 다 잡을 수 있었다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "<챗GPT 제대로 써먹기>는 응용 전에 개념을 잡기 위해 책은 생성형 AI가 무엇인지 부터 알려준다. 뉴스에서 그렇게 떠드는 생성형 AI가 무엇인지, 인공지능이 무엇인지, 생성형 AI는 인간의 언어를 어떻게 이해 하는지 등등 기본적으로 알아야 할 지식들을 서술한다. 이 과정에서 임베딩이니 seq2seq니 등 언어 모델 발달과정 또한 간략하게 짚어 주는데, 슬슬 이제 무슨 말이지 싶은 순간에 적절한 예시를 넣어 흥미를 잃지 않도록 한다. 개인적으로 작가가 트랜스포머 파트에서 사람들에게 익숙한 옵티머스 프라임의 대사를 예시를 들며 설명해주는 부분을 읽으며 흥미와 이해를 둘 다 잡을 수 있었다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80e5-8690-c6fe601886df",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:16:00.000Z",
+      "last_edited_time": "2025-04-22T11:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8091-8e32-e93cc6a10c65",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:17:00.000Z",
+      "last_edited_time": "2025-04-22T11:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "뿐만 아니라 작가는 챗GPT 발달 과정도 짚어준다. 이전 버전과 현 제공 버전이 어떤 차이가 있는지, 비디오나 오디오와 관련해서는 어떻게 발전해왔는지를 독자들이 쉽게 알 수 있게 정리해두었다. 특히 이미지 생성과 관련된 DALL●E가 클릭 한 번으로 어떻게 이미지를 편집하고 생성하는지도 알 수 있어 굉장히 흥미롭다. 이렇게 개념과 흥미를 천천히 쌓도록 도와준 게 PART 1이라면 PART 2에서는 본격적으로 챗GPT 응용하는 법을 제시한다. 혹시라도 챗GPT 사이트 시작부터 헷갈려할 독자들을 위해 작가는 챗GPT 회원가입부터 결제까지 상세하게 설명한다. 그리고 챗GPT 하면 자연스럽게 따라오는 단어 '프롬프트'에 대한 설명도 상세하다. 아예 프롬프트를 잘 쓸 수 있게 도와주는 맞춤형 GPT를 소개해주기도 해서 훨씬 더 편하고 쉽게 프롬프트 작성을 따라해볼 수 있다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "뿐만 아니라 작가는 챗GPT 발달 과정도 짚어준다. 이전 버전과 현 제공 버전이 어떤 차이가 있는지, 비디오나 오디오와 관련해서는 어떻게 발전해왔는지를 독자들이 쉽게 알 수 있게 정리해두었다. 특히 이미지 생성과 관련된 DALL●E가 클릭 한 번으로 어떻게 이미지를 편집하고 생성하는지도 알 수 있어 굉장히 흥미롭다. 이렇게 개념과 흥미를 천천히 쌓도록 도와준 게 PART 1이라면 PART 2에서는 본격적으로 챗GPT 응용하는 법을 제시한다. 혹시라도 챗GPT 사이트 시작부터 헷갈려할 독자들을 위해 작가는 챗GPT 회원가입부터 결제까지 상세하게 설명한다. 그리고 챗GPT 하면 자연스럽게 따라오는 단어 '프롬프트'에 대한 설명도 상세하다. 아예 프롬프트를 잘 쓸 수 있게 도와주는 맞춤형 GPT를 소개해주기도 해서 훨씬 더 편하고 쉽게 프롬프트 작성을 따라해볼 수 있다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8053-9852-d67aee3eaf12",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80e5-8063-c1f963457540",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80a2-a87b-e874bb8e0066",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1dd33ccb-0cd0-80be-bb1f-f3a4d92f029a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dd33ccb-0cd0-80a2-a87b-e874bb8e0066"
+          },
+          "created_time": "2025-04-22T11:18:00.000Z",
+          "last_edited_time": "2025-04-22T11:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1dd33ccb-0cd0-8016-9e3c-fe242d83317f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1dd33ccb-0cd0-80be-bb1f-f3a4d92f029a"
+              },
+              "created_time": "2025-04-22T11:18:00.000Z",
+              "last_edited_time": "2025-04-22T11:18:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "external",
+                "external": {
+                  "url": "/notion-data/1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c/image_1.png"
+                }
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1dd33ccb-0cd0-8023-9e33-cd13de61695a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dd33ccb-0cd0-80a2-a87b-e874bb8e0066"
+          },
+          "created_time": "2025-04-22T11:18:00.000Z",
+          "last_edited_time": "2025-04-22T11:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1dd33ccb-0cd0-80f1-bd98-f757da2244bd",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1dd33ccb-0cd0-8023-9e33-cd13de61695a"
+              },
+              "created_time": "2025-04-22T11:18:00.000Z",
+              "last_edited_time": "2025-04-22T11:18:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "external",
+                "external": {
+                  "url": "/notion-data/1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c/image_2.png"
+                }
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1dd33ccb-0cd0-8042-a02b-e631bcc7a414",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1dd33ccb-0cd0-8023-9e33-cd13de61695a"
+              },
+              "created_time": "2025-04-22T11:18:00.000Z",
+              "last_edited_time": "2025-04-22T11:18:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80a2-b995-d8d1673ef483",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8045-a0ef-c230ff898c87",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8021-a17f-ff95f7b9b557",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 책을 읽는 독자들은 가급적 챗GPT을 켜놓고 책을 읽어보기를 추천한다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 책을 읽는 독자들은 가급적 챗GPT을 켜놓고 책을 읽어보기를 추천한다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80c9-bf80-f36d6d807d57",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-804f-8c64-c945e39ac843",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "필자 또한 책을 읽으며 챗GPT 몇 가지를 활용해보았는데 이전에 사용했을 때보다 생산성이 올라가는 게 느껴졌다. 특히 맞춤형 GPT를 활용한 파트들이 그랬다. 구직/이직을 위한 맞춤형 GPT는 책에서 제시한 'Resume'를, 콘텐츠 글쓰기 관련해서는 현재 1위에 있는 'Write For Me'를 사용해 보았다. 사진에 보이듯이 맨 앞의 도입부를 블로그 포스팅에 맞게 다시 써달라고 요청 후, 기존에 필자가 쓴 문단과 합친 추가 수정을 요청했다. 꽤 적절해보이는 결과가 나왔다. 앞의 도입부를 쓰는데 필자는 10분 정도가 걸렸다. 하지만 챗GPT가 만든 문장과 필자가 쓴 문장을 합춰 새로운 문장이 나오는데는 3분도 걸리지 않았다. 필자의 문체에 맞춰 수정하는 시간까지 하면 5분정도, 정확히 절반의 시간이 걸렸다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "필자 또한 책을 읽으며 챗GPT 몇 가지를 활용해보았는데 이전에 사용했을 때보다 생산성이 올라가는 게 느껴졌다. 특히 맞춤형 GPT를 활용한 파트들이 그랬다. 구직/이직을 위한 맞춤형 GPT는 책에서 제시한 'Resume'를, 콘텐츠 글쓰기 관련해서는 현재 1위에 있는 'Write For Me'를 사용해 보았다. 사진에 보이듯이 맨 앞의 도입부를 블로그 포스팅에 맞게 다시 써달라고 요청 후, 기존에 필자가 쓴 문단과 합친 추가 수정을 요청했다. 꽤 적절해보이는 결과가 나왔다. 앞의 도입부를 쓰는데 필자는 10분 정도가 걸렸다. 하지만 챗GPT가 만든 문장과 필자가 쓴 문장을 합춰 새로운 문장이 나오는데는 3분도 걸리지 않았다. 필자의 문체에 맞춰 수정하는 시간까지 하면 5분정도, 정확히 절반의 시간이 걸렸다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-808f-8a71-f6c76830bb9b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80c8-bb42-dc2a00cdcd3e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "추가로 구직/이직을 위해 사용한  'Resume' 또한 만족스러웠다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "추가로 구직/이직을 위해 사용한  'Resume' 또한 만족스러웠다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80c2-8e88-ce05a76ab9eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 해당 맞춤형 GPT는 한글로 된 파일을 제시하면 영어로 내용을 번역한 후, 본인이 정리한 게 맞는지 확인 후 resume 평가를 들어간다. 그리고 전체적으로 어떤 지 점수와 코멘트를 함께 달아주었다. 마지막에는 어떤 점을 개선하면 좋을지까지 말해주는데 매우 만족스러운 결과였다. 평소에 프롬프트를 검색해 붙여넣기를 한다든가 단순히 문장만 입력하는 사용자들이라면 누군가가 이미 해당 의도에 맞게 만들어 놓은 맞춤형 GPT를 써보는 게 낫겠다. 책에서 일상을 포함해 직장, 콘텐츠 작성, 구직/이직, 코딩 등 다양한 부분에서 활용할 수 있는 프롬프트와 맞춤형 GPT를 소개해주었으니 더더욱 활용해보면 좋겠다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 해당 맞춤형 GPT는 한글로 된 파일을 제시하면 영어로 내용을 번역한 후, 본인이 정리한 게 맞는지 확인 후 resume 평가를 들어간다. 그리고 전체적으로 어떤 지 점수와 코멘트를 함께 달아주었다. 마지막에는 어떤 점을 개선하면 좋을지까지 말해주는데 매우 만족스러운 결과였다. 평소에 프롬프트를 검색해 붙여넣기를 한다든가 단순히 문장만 입력하는 사용자들이라면 누군가가 이미 해당 의도에 맞게 만들어 놓은 맞춤형 GPT를 써보는 게 낫겠다. 책에서 일상을 포함해 직장, 콘텐츠 작성, 구직/이직, 코딩 등 다양한 부분에서 활용할 수 있는 프롬프트와 맞춤형 GPT를 소개해주었으니 더더욱 활용해보면 좋겠다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8043-9c6b-f3c108863d7b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8092-8531-d6ddc5b26d5b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c"
+      },
+      "created_time": "2025-04-22T11:18:00.000Z",
+      "last_edited_time": "2025-04-22T11:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "'활용 레시피'라는 홍보 카피에 맞게 책은 위에서 말했던 방법들 외에도 정말 다양한 활용법을 제시한다. 챗GPT를 통해 영어공부를 할 수도 있고 액셀 파일을 올려 쉽게 데이터를 분석해볼 수도 있다. 좀 더 풍부하게  AI를 활용해 일의 생산성을 높이고 싶은 독자들이라면 해당 책을 꼭 참고해보길 바란다. 일의 생산성이 목적이 아니더라도 생성형 AI와 챗GPT에 대해 관심이 있는 독자들, AI나 코딩에 대해 사전 지식이 없어도 쉽게 이해하고 싶은 독자들에게도 해당 책을 추천한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "'활용 레시피'라는 홍보 카피에 맞게 책은 위에서 말했던 방법들 외에도 정말 다양한 활용법을 제시한다. 챗GPT를 통해 영어공부를 할 수도 있고 액셀 파일을 올려 쉽게 데이터를 분석해볼 수도 있다. 좀 더 풍부하게  AI를 활용해 일의 생산성을 높이고 싶은 독자들이라면 해당 책을 꼭 참고해보길 바란다. 일의 생산성이 목적이 아니더라도 생성형 AI와 챗GPT에 대해 관심이 있는 독자들, AI나 코딩에 대해 사전 지식이 없어도 쉽게 이해하고 싶은 독자들에게도 해당 책을 추천한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

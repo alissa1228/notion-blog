@@ -4,6 +4,8 @@ import post6 from '../notion-data/13e33ccb-0cd0-8092-8665-d493e080a7fc.json'
 import post3 from '../notion-data/14433ccb-0cd0-801b-b87e-c5bc26a2c6cb.json'
 import post2 from '../notion-data/14433ccb-0cd0-8083-ae72-ffa2ae62b961.json'
 import post1 from '../notion-data/14433ccb-0cd0-8065-ac51-d458490a6ec4.json'
+import post7 from '../notion-data/1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3.json'
+import post8 from '../notion-data/1dd33ccb-0cd0-8087-af92-f6b9eccd2a7c.json'
 
 
 const posts = [
@@ -15,8 +17,7 @@ const posts = [
     description: "금요일 밤 10시, 저는 혼자지만 혼자가 아닌 8시간 해커톤을 시작했습니다. 목표는 명확했습니다. AI와 협업해 포트폴리오 블로그 프로토타입을 만드는 것.",
     image: undefined,
     tag:"기획•DEV"
-  }
-  ,
+  },
   {
     title: "Notion blog에 resume 추가하기",
     slug: "add-resume",
@@ -26,6 +27,26 @@ const posts = [
     image: undefined,
     tag:"DEV"
   },
+  ,
+  {
+    title: "[리뷰] <챗GPT 제대로 써먹기> : 당신이 쉽게 AI와 친해질 수 있도록!",
+    slug: "using-chatGPT",
+    content: post8,
+    date: "2024-10-20",
+    description: "ChatGPT에 대한 팁이 담긴 책<챗GPT 제대로 써먹기>를 리뷰해보았습니다.",
+    image: undefined,
+    tag:"📚 리뷰"
+  },
+  {
+    title: "[리뷰] <부트캠프 QA 편> : 소프트웨어 테스트에 대한 A부터 Z까지! ",
+    slug: "QA-bootcamp-book",
+    content: post7,
+    date: "2024-07-26",
+    description: "QA에 대한 내용이 담긴 책<부드캠프 QA편>을 리뷰해보았습니다.",
+    image: undefined,
+    tag:"📚 리뷰"
+  }
+  ,
   {
     title: "2023년 개발자 회고",
     slug: "2023-retrospective.",

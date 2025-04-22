@@ -1,0 +1,1507 @@
+{
+  "object": "page",
+  "id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3",
+  "created_time": "2025-04-22T10:46:00.000Z",
+  "last_edited_time": "2025-04-22T10:49:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "13d33ccb-0cd0-80a0-bf4e-f279d6d7e978"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "<부트캠프 QA 편> : 소프트웨어 테스트에 대한 A부터 Z까지! ",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "<부트캠프 QA 편> : 소프트웨어 테스트에 대한 A부터 Z까지! ",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/QA-A-Z-1dd33ccb0cd0805f96f6ef8d0a8d61c3",
+  "public_url": null,
+  "request_id": "54ab0944-1c9e-489c-ad3d-6c32739678e1",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-800f-b174-d14b4a8e4dbc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:46:00.000Z",
+      "last_edited_time": "2025-04-22T10:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80e1-8036-f075184fceaf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:46:00.000Z",
+      "last_edited_time": "2025-04-22T10:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-802b-98ac-f33634c3bd59",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:46:00.000Z",
+      "last_edited_time": "2025-04-22T10:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“테스트는 프로그램이나 시스템이 예상대로 작동할 것이라는 확신을 증진시키는 과정이다.”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“테스트는 프로그램이나 시스템이 예상대로 작동할 것이라는 확신을 증진시키는 과정이다.”",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "💡"
+        },
+        "color": "gray_background"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1dd33ccb-0cd0-8050-8736-fca81ab2756c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dd33ccb-0cd0-802b-98ac-f33634c3bd59"
+          },
+          "created_time": "2025-04-22T10:47:00.000Z",
+          "last_edited_time": "2025-04-22T10:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1dd33ccb-0cd0-80e2-9ecf-f9e4d9979589",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dd33ccb-0cd0-802b-98ac-f33634c3bd59"
+          },
+          "created_time": "2025-04-22T10:46:00.000Z",
+          "last_edited_time": "2025-04-22T10:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "윌리엄.C.헷젤(Willian. C.Hetzel) / <부드캠프 QA 편> p.18",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": true,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "윌리엄.C.헷젤(Willian. C.Hetzel) / <부드캠프 QA 편> p.18",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80f3-85e9-d1032cfe5a9b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8024-9115-df03b6ae639f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:47:00.000Z",
+      "last_edited_time": "2025-04-22T10:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8000-9fff-c64b4bdcc5ab",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:47:00.000Z",
+      "last_edited_time": "2025-04-22T10:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1dd33ccb-0cd0-8075-bc88-d1345198f2fd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dd33ccb-0cd0-8000-9fff-c64b4bdcc5ab"
+          },
+          "created_time": "2025-04-22T10:47:00.000Z",
+          "last_edited_time": "2025-04-22T10:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1dd33ccb-0cd0-80c5-a12b-dd9383a1e2cf",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1dd33ccb-0cd0-8075-bc88-d1345198f2fd"
+              },
+              "created_time": "2025-04-22T10:47:00.000Z",
+              "last_edited_time": "2025-04-22T10:47:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "external",
+                "external": {
+                  "url": "/notion-data/1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3/image_1.jpg"
+                }
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1dd33ccb-0cd0-8077-8270-ccdb6358b064",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dd33ccb-0cd0-8000-9fff-c64b4bdcc5ab"
+          },
+          "created_time": "2025-04-22T10:47:00.000Z",
+          "last_edited_time": "2025-04-22T10:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1dd33ccb-0cd0-8089-9205-c3a9702742fc",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1dd33ccb-0cd0-8077-8270-ccdb6358b064"
+              },
+              "created_time": "2025-04-22T10:47:00.000Z",
+              "last_edited_time": "2025-04-22T10:47:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "external",
+                "external": {
+                  "url": "/notion-data/1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3/image_2.jpg"
+                }
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80ef-9335-f193ae46378d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-803f-9a11-ecdf3c364015",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:47:00.000Z",
+      "last_edited_time": "2025-04-22T10:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8024-972c-cac3b3915b87",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:47:00.000Z",
+      "last_edited_time": "2025-04-22T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "테스트에 대한 전반적인 정보를 한 권에 알차게 담은 책이 나왔다. <부트캠프 QA편>은 이름에 걸맞게 한 주씩 분량을 나눠 4주 안에 QA와 관련된 A-Z를 끝낼 수 있도록 구성되어 있다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "테스트에 대한 전반적인 정보를 한 권에 알차게 담은 책이 나왔다. <부트캠프 QA편>은 이름에 걸맞게 한 주씩 분량을 나눠 4주 안에 QA와 관련된 A-Z를 끝낼 수 있도록 구성되어 있다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-809c-8881-d0b500bd4d63",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:49:00.000Z",
+      "last_edited_time": "2025-04-22T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "소프트웨어 테스트가 무엇인지, 테스트의 종류는 또 무엇이 있는지, 이와 관련해서 각각 어떤 역할을 수행하는지 등등 정말 기본부터 시작해 테스트 종류까지 마치 강의 커리큘럼 같다는 느낌을 준다. 이 덕분인지 읽는 내내 아예 테스트를 모르는 독자들부터, 테스트에 대해 어느정도 알고 있지만 어떻게 하면 더 잘 설계할 수 있을지 고민하는 독자들까지 참고할 만하다는 생각이 들었다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "소프트웨어 테스트가 무엇인지, 테스트의 종류는 또 무엇이 있는지, 이와 관련해서 각각 어떤 역할을 수행하는지 등등 정말 기본부터 시작해 테스트 종류까지 마치 강의 커리큘럼 같다는 느낌을 준다. 이 덕분인지 읽는 내내 아예 테스트를 모르는 독자들부터, 테스트에 대해 어느정도 알고 있지만 어떻게 하면 더 잘 설계할 수 있을지 고민하는 독자들까지 참고할 만하다는 생각이 들었다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-805a-8bae-f396a7d1600f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80bc-8506-d8b5ddb3d694",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:47:00.000Z",
+      "last_edited_time": "2025-04-22T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "차근차근 따라올 수 있도록 세밀하게 나뉘어진 목차는 모두 풍부한 내용을 담고 있지만, 그 중에서도 특히 테스트들의 종류가 모여 있는 3,4강의 '소프트웨어 테스팅' 부분은 좀 더 흥미롭다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "차근차근 따라올 수 있도록 세밀하게 나뉘어진 목차는 모두 풍부한 내용을 담고 있지만, 그 중에서도 특히 테스트들의 종류가 모여 있는 3,4강의 '소프트웨어 테스팅' 부분은 좀 더 흥미롭다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8061-86a8-cf7ea04763fd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:49:00.000Z",
+      "last_edited_time": "2025-04-22T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "API테스트부터 시작해서 데이터 품질 테스트까지 테스트에 관심이 있다면 한 번쯤은 들어봤을 테스트 종류가 가득하다. 개인적으로 이전까지는 연필로만 슥슥 밑줄 그어가며 읽어보다가 3,4강부터 노트와 펜을 들고 필기를 하며 읽기 시작했다. 특히 테스트 하나하나 어떤 도구를 쓰는지, 그 도구 화면에서 어떤 걸 눌러야 하는지 이미지가 들어가 있어 텍스트를 더 쉽게 이해할 수 있었다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "API테스트부터 시작해서 데이터 품질 테스트까지 테스트에 관심이 있다면 한 번쯤은 들어봤을 테스트 종류가 가득하다. 개인적으로 이전까지는 연필로만 슥슥 밑줄 그어가며 읽어보다가 3,4강부터 노트와 펜을 들고 필기를 하며 읽기 시작했다. 특히 테스트 하나하나 어떤 도구를 쓰는지, 그 도구 화면에서 어떤 걸 눌러야 하는지 이미지가 들어가 있어 텍스트를 더 쉽게 이해할 수 있었다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8082-85ef-f679fdd36f45",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:47:00.000Z",
+      "last_edited_time": "2025-04-22T10:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80e0-b1d1-e8ba6a1032de",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-807f-b229-cada2650a295",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1dd33ccb-0cd0-806a-b491-e338a46f1bdd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dd33ccb-0cd0-807f-b229-cada2650a295"
+          },
+          "created_time": "2025-04-22T10:48:00.000Z",
+          "last_edited_time": "2025-04-22T10:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1dd33ccb-0cd0-80d0-a9e5-fd9fc1af8759",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1dd33ccb-0cd0-806a-b491-e338a46f1bdd"
+              },
+              "created_time": "2025-04-22T10:48:00.000Z",
+              "last_edited_time": "2025-04-22T10:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "external",
+                "external": {
+                  "url": "/notion-data/1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3/image_3.jpg"
+                }
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1dd33ccb-0cd0-806e-b233-e660ff942482",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dd33ccb-0cd0-807f-b229-cada2650a295"
+          },
+          "created_time": "2025-04-22T10:48:00.000Z",
+          "last_edited_time": "2025-04-22T10:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1dd33ccb-0cd0-80de-bd4a-c48c5f34386d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1dd33ccb-0cd0-806e-b233-e660ff942482"
+              },
+              "created_time": "2025-04-22T10:48:00.000Z",
+              "last_edited_time": "2025-04-22T10:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "external",
+                "external": {
+                  "url": "/notion-data/1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3/image_4.jpg"
+                }
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1dd33ccb-0cd0-8028-a9c0-cf6f52214590",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1dd33ccb-0cd0-807f-b229-cada2650a295"
+          },
+          "created_time": "2025-04-22T10:48:00.000Z",
+          "last_edited_time": "2025-04-22T10:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1dd33ccb-0cd0-80a5-90c9-ef1e9559e622",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1dd33ccb-0cd0-8028-a9c0-cf6f52214590"
+              },
+              "created_time": "2025-04-22T10:48:00.000Z",
+              "last_edited_time": "2025-04-22T10:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "external",
+                "external": {
+                  "url": "/notion-data/1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3/image_5.jpg"
+                }
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8031-98c8-e6e3aef61999",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80b6-be87-db92bb7df4a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8095-8f84-d1b1e6fc1172",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "예를 들어 클라이언트 성능 테스트를 설명한다치면 테스트에 대한 개념, 테스트에서 측정해야하는 요소와 측정을 위한 도구, 그리고 클라이언트 성능 품질 지표 등이 꼼꼼하게 서술되어 있다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "예를 들어 클라이언트 성능 테스트를 설명한다치면 테스트에 대한 개념, 테스트에서 측정해야하는 요소와 측정을 위한 도구, 그리고 클라이언트 성능 품질 지표 등이 꼼꼼하게 서술되어 있다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8019-a1a4-e8cf98b95045",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:49:00.000Z",
+      "last_edited_time": "2025-04-22T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "여기에서는 테스트 시나리오를 작성 후 게임 벤치 스튜디오를 사용해 애플리케이션 성능을 측정하는 방법을 이미지와 함께 단계 별로 차근차근 설명해준다. 이후에는 이렇게 측정한 성능 데이터를 어떻게 분석해야하는지를 이미지와 그래프를 비교해가며 글을 이어나가는데, 읽다보면 모니터링 시 어떤 부분을 봐야하고 어떻게 캐치를 해야하는지 등등 딱딱 집어주는 쪽집게 과외를 받는 느낌이 든다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여기에서는 테스트 시나리오를 작성 후 게임 벤치 스튜디오를 사용해 애플리케이션 성능을 측정하는 방법을 이미지와 함께 단계 별로 차근차근 설명해준다. 이후에는 이렇게 측정한 성능 데이터를 어떻게 분석해야하는지를 이미지와 그래프를 비교해가며 글을 이어나가는데, 읽다보면 모니터링 시 어떤 부분을 봐야하고 어떻게 캐치를 해야하는지 등등 딱딱 집어주는 쪽집게 과외를 받는 느낌이 든다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80e5-bf05-d57eca036d73",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8081-8ec4-da2a7ee3c9a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "4강에서는 특히 예외 케이스 테스트 중 '어뷰징 테스트'를 주목해 볼 만하다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "4강에서는 특히 예외 케이스 테스트 중 '어뷰징 테스트'를 주목해 볼 만하다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8050-b169-c175780b3052",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:49:00.000Z",
+      "last_edited_time": "2025-04-22T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "최근 네이버 블로그에 '너무 슬프다 흑흑 [이상한코드]' 이런 양식으로 글들이 우후죽순 올라오던 현상이 '마케팅 어뷰징'을 위한 해킹이라고 하던데, 어뷰징을 막기 위한 테스트라니 구미가 당길 수 밖에 없다.(책에서는 게임 업계에서 어뷰징 테스트를 많이 한다고 한다.) 어뷰징 테스트를 설명하기 이전, 책은 '어뷰징'이 무엇이고 어떤 행위가 포함이 되는지를 먼저 알려주는데 이 부분도 우리가 평소에 놓치고 갈 수 있었던 부분이라 상당히 도움이 되었다. 이후 어뷰징 테스트의 범위, 테스트 시나리오 작성 방법이 이어지니 관심이 있다면 해당 부분은 읽어보는 걸 추천한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "최근 네이버 블로그에 '너무 슬프다 흑흑 [이상한코드]' 이런 양식으로 글들이 우후죽순 올라오던 현상이 '마케팅 어뷰징'을 위한 해킹이라고 하던데, 어뷰징을 막기 위한 테스트라니 구미가 당길 수 밖에 없다.(책에서는 게임 업계에서 어뷰징 테스트를 많이 한다고 한다.) 어뷰징 테스트를 설명하기 이전, 책은 '어뷰징'이 무엇이고 어떤 행위가 포함이 되는지를 먼저 알려주는데 이 부분도 우리가 평소에 놓치고 갈 수 있었던 부분이라 상당히 도움이 되었다. 이후 어뷰징 테스트의 범위, 테스트 시나리오 작성 방법이 이어지니 관심이 있다면 해당 부분은 읽어보는 걸 추천한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80f3-9994-c40d5cfcb482",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80ca-8056-f8d8604c7fbf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이외에도 '소프트웨어 프로세스'나 '실무에서 경험하는 소프트웨어 테스팅' 부분 등은 소프트웨어 테스트와 개발을 이해하는데 필요한 정보들이 꽉꽉 담겨 있어 개인적으로 IT 쪽에 종사하는 기획자들 중 더 좋은 품질을 위해 노력하는 사람들이라면 이 부분까지 읽어보면 좋겠다는 생각이 들었다. 폭포수 모델이나 애자일 모델이 뭔지, 스크럼이 뭐고 어떻게 진행되는지, 버그 보고서 작성법, 버전 관리 등 IT 쪽에 몸 담고 있으면 많이 들려오는 부분이 금세 이해가 갈 것이다. 혹여나 완전 아예 IT 쪽도 잘 모르는 입문자라고 한다면 1강->5강을 먼저 훑고 본격적으로 테스트들을 파보는 걸 조심스레 추천해본다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이외에도 '소프트웨어 프로세스'나 '실무에서 경험하는 소프트웨어 테스팅' 부분 등은 소프트웨어 테스트와 개발을 이해하는데 필요한 정보들이 꽉꽉 담겨 있어 개인적으로 IT 쪽에 종사하는 기획자들 중 더 좋은 품질을 위해 노력하는 사람들이라면 이 부분까지 읽어보면 좋겠다는 생각이 들었다. 폭포수 모델이나 애자일 모델이 뭔지, 스크럼이 뭐고 어떻게 진행되는지, 버그 보고서 작성법, 버전 관리 등 IT 쪽에 몸 담고 있으면 많이 들려오는 부분이 금세 이해가 갈 것이다. 혹여나 완전 아예 IT 쪽도 잘 모르는 입문자라고 한다면 1강->5강을 먼저 훑고 본격적으로 테스트들을 파보는 걸 조심스레 추천해본다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8089-b815-d6fce5aea4a2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-800f-8cc6-c10691828276",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-80d4-baa9-e6073e242479",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\"한빛미디어 <나는 리뷰어다> 활동을 위해서 책을 제공받아 작성된 서평입니다.\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "yellow_background"
+            },
+            "plain_text": "\"한빛미디어 <나는 리뷰어다> 활동을 위해서 책을 제공받아 작성된 서평입니다.\"",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1dd33ccb-0cd0-8019-b386-c6ac08f53d81",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1dd33ccb-0cd0-805f-96f6-ef8d0a8d61c3"
+      },
+      "created_time": "2025-04-22T10:48:00.000Z",
+      "last_edited_time": "2025-04-22T10:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "94b71a19-9a58-4e05-a406-422fedf5cdc9"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}
